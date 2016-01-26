@@ -3,27 +3,22 @@
 
 #include <iostream>
 #include <string>
-#include "Student.cpp"
+#include "Student.h"
 
 using namespace std;
 
 class Hashtable{
 private:
-  static int table_size;
   pair<int, Student>** table;
 public:
   Hashtable();
+  int hash1(int key);
+  int hash2(int key);
+  int table_size;
   void insert(int key, Student value);
   void lookup(int key);
   void remove(int key);
   void print();
-  static int hash1(int key){
-    return (key % 492113) % table_size;
-  }
-
-  static int hash2(int key){
-    return (key % 392113) % table_size;
-  } 
   string colsolv;
   int load;
   int helpInsert(int key);

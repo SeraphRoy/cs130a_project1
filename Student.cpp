@@ -9,9 +9,7 @@ Student::Student(){
   gpa = 0.0;
 }
 
-Student::Student(string name, double gpa){
- this->name = name; this->gpa = gpa;
-}
+Student::Student(string name, double gpa){this-> name = name; this->gpa = gpa;}
 
 string Student::getName(){return name;}
 

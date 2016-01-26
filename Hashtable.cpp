@@ -20,6 +20,15 @@ bool isPrime(int num) {
   }
 }
 
+int Hashtable::hash1(int key){
+  return (key % 492113) % table_size;
+}
+
+int Hashtable::hash2(int key){
+  return (key % 392113) % table_size;
+} 
+
+
 Hashtable::Hashtable(){
   table_size = 5;
   colsolv = "linearprobing";
