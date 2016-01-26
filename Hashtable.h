@@ -23,6 +23,7 @@ public:
   int load;
   int helpInsert(int key);
   int getSize(){ return table_size;}
+  void setMode(int num);
 };
 
 #endif
