@@ -1,3 +1,6 @@
+#ifndef STUDENT_H_
+#define STUDENT_H_
+
 #include <iostream>
 #include <string>
 
@@ -8,7 +11,7 @@ private:
   string name;
   double gpa;
 public:
-  Student(){name = ""; gpa = 0.0;}
+  Student();
   Student(string name, double gpa);
   string getName();
   double getGpa();
@@ -16,4 +19,4 @@ public:
   void setGpa(double gpa);
 };
 
-  
+#endif

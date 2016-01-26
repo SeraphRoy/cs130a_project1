@@ -14,7 +14,7 @@ private:
 public:
   Hashtable();
   void insert(int key, Student value);
-  Student lookup(int key);
+  void lookup(int key);
   void remove(int key);
   void print();
   static int hash1(int key){

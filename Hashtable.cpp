@@ -1,8 +1,24 @@
 #include <iostream>
 #include <string>
+#include <iomanip>
 #include "Hashtable.h"
 
 using namespace std;
+
+bool isPrime(int num) {
+  if (num <= 3) {
+    return num > 1;
+  } else if (num % 2 == 0 || num % 3 == 0) {
+    return false;
+  } else {
+    for (int i = 5; i * i <= num; i += 6) {
+      if (num % i == 0 || num % (i + 2) == 0) {
+	return false;
+      }
+    }
+    return true;
+  }
+}
 
 Hashtable::Hashtable(){
   table_size = 5;
@@ -19,23 +35,24 @@ Hashtable::Hashtable(){
 int Hashtable::helpInsert(int key){
   int index = hash1(key);
   if(colsolv == "linearprobing"){
-    while(table[index] && table[index]->first >= 0 && table[index]->first != key)
+    while(table[index] && table[index]->first > 0 && table[index]->first != key)
       index  = (index + 1) % table_size;
   }else{
     int index2 = hash2(key);
+    if (index2 == 0)
+      index2 = 1;
     int i = 0;
-    while(table[index] && table[index]->first != key)
+    while(table[index] && table[index]->first > 0 && table[index]->first != key)
       index = (index + i*index2) % table_size;
   }
   if(table[index] && table[index]->first == key)
     return (-1)*index;
-  }
-return index;
+  return index;
 }
   
 
 void Hashtable::insert(int key, Student value){
-  int msg = helpInsert(key, value);
+  int msg = helpInsert(key);
   if(msg >= 0){
     pair<int, Student>* temp = new pair<int, Student>(key, value);
     if(table[msg])
@@ -50,16 +67,18 @@ void Hashtable::insert(int key, Student value){
     pair<int, Student>** newTable = new pair<int, Student>* [getSize()];
     for(int i  = 0; i < table_size; i++){
       newTable[i] = table[i];
-    }
-    for(int i = 0; i < table_size; i++)
       table[i] = NULL;
+    }
     delete [] table;
-    table_size *= 2;
+    table_size = table_size*2 + 1;
+    while(!isPrime(table_size))
+      table_size++;
     table = new pair<int, Student>* [getSize()];
     for(int i = 0; i < table_size/2; i++)
-      helpInsert(newTable[i]->first, newTable[i]->second);
+      insert(newTable[i]->first, newTable[i]->second);
     cout << "\ntable doubled";
   }
+  return;
 }
 
 void Hashtable::lookup(int key){
@@ -73,11 +92,25 @@ void Hashtable::lookup(int key){
     cout << "item not found";
 }
 
-// void remove(int key){
-//   int msg = helpInsert(int key);
-//   if(msg >= 0){
-//     cout << "item not present in the table";
-//     return;
-//   }
-//   else{
-//     msg *= -1;
+void Hashtable::remove(int key){
+  int msg = helpInsert(key);
+  if(msg >= 0){
+    cout << "item not present in the table";
+    return;
+  }
+  else{
+   msg *= -1;
+   table[msg]->first = -10;
+   cout << "item successfully deleted";
+  }
+}
+
+void Hashtable::print(){
+  for(int i = 0; i < table_size; i++){
+    if(table[i] && table[i]->first >= 0){
+      cout << "(" << table[i]->first << "," << table[i]->second.getName();
+      cout << std::fixed << std::setprecision(1)<< table[i]->second.getGpa();
+      cout << ")";
+    }
+  }
+}
