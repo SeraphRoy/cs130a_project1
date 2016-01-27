@@ -59,8 +59,15 @@ int Hashtable::helpInsert(int key){
   return index;
 }
   
+void Hashtable::insertMessage(int key, Student value){
+  bool flag = insert(key, value);
+  if(flag)
+    cout << "item successfully inserted" << endl;
+  else
+    cout << "item already present" << endl;    
+}    
 
-void Hashtable::insert(int key, Student value){
+bool Hashtable::insert(int key, Student value){
   int msg = helpInsert(key);
   if(msg >= 0){
     pair<int, Student>* temp = new pair<int, Student>(key, value);
@@ -68,11 +75,11 @@ void Hashtable::insert(int key, Student value){
       delete table[msg];
     table[msg] = temp;
     load ++;
-    cout << "item successfully inserted" << endl;;
   }
   else
-    cout << "item already present" << endl;;    
-  if(load/table_size > 0.7){
+    return false;
+  if( static_cast<double>(load)/static_cast<double>(table_size) > 0.7){
+    load = 0;
     pair<int, Student>** newTable = new pair<int, Student>* [getSize()];
     for(int i  = 0; i < table_size; i++){
       newTable[i] = table[i];
@@ -84,34 +91,35 @@ void Hashtable::insert(int key, Student value){
       table_size++;
     table = new pair<int, Student>* [getSize()];
     for(int i = 0; i < table_size/2; i++){
-      insert(newTable[i]->first, newTable[i]->second);
+        if(newTable[i])
+            insert(newTable[i]->first, newTable[i]->second);
     }
-    cout << "table doubled" << endl;;
-  } 
-  return;
+    cout << "table doubled" << endl;
+  }
+  return true;
 }
 
 void Hashtable::lookup(int key){
   int msg = helpInsert(key);
   if(msg < 0){
     msg *= -1;
-    cout << "item found; " << table[msg]->second.getName() << " " << msg << endl;;
+    cout << "item found; " << table[msg]->second.getName() << " " << msg << endl;
     return;
   }
   else
-    cout << "item not found" << endl;;
+    cout << "item not found" << endl;
 }
 
 void Hashtable::remove(int key){
   int msg = helpInsert(key);
   if(msg >= 0){
-    cout << "item not present in the table" << endl;;
+    cout << "item not present in the table" << endl;
     return;
   }
   else{
    msg *= -1;
    table[msg]->first = -10;
-   cout << "item successfully deleted" << endl;;
+   cout << "item successfully deleted" << endl;
   }
 }
 
@@ -120,9 +128,10 @@ void Hashtable::print(){
     if(table[i] && table[i]->first >= 0){
       cout << "(" << table[i]->first << "," << table[i]->second.getName() << ",";
       cout << std::fixed << std::setprecision(1)<< table[i]->second.getGpa();
-      cout << ")" << endl;;
+      cout << ")";
     }
   }
+  cout << "\n";
 }
 
 void Hashtable::setMode(int num){

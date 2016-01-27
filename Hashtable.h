@@ -15,7 +15,8 @@ public:
   int hash1(int key);
   int hash2(int key);
   int table_size;
-  void insert(int key, Student value);
+  bool insert(int key, Student value);
+  void insertMessage(int key, Student value);
   void lookup(int key);
   void remove(int key);
   void print();
