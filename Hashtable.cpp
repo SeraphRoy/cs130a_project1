@@ -47,12 +47,14 @@ int Hashtable::helpInsert(int key){
     while(table[index] && table[index]->first > 0 && table[index]->first != key)
       index  = (index + 1) % table_size;
   }else{
-    int index2 = hash2(key);
-    if (index2 == 0)
-      index2 = 1;
-    int i = 0;
-    while(table[index] && table[index]->first > 0 && table[index]->first != key)
-      index = (index + i*index2) % table_size;
+      int index2 = hash2(key);
+      if (index2 == 0)
+          index2 = 1;
+      int i = 0;
+      while(table[index] && table[index]->first > 0 && table[index]->first != key){
+          index = (index + i*index2) % table_size;
+          i++;
+      }
   }
   if(table[index] && table[index]->first == key)
     return (-1)*index;

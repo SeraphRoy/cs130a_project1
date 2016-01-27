@@ -1,3 +1,16 @@
+linearprobing
+insert 8670959 asad 3.9
+insert 7670931 victor 3.6
+insert 7636338 omid 4.0
+lookup 7636338
+insert 5712195 jin 2.5 print
+delete 4444444
+delete 5712195
+print
+delete 7636338
+lookup 8670959
+delete 8670959
+print
 doublehashing
 insert 8670959 asad 3.4
 insert 7670931 victor 2.3
