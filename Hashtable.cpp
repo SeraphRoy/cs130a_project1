@@ -119,6 +119,7 @@ void Hashtable::remove(int key){
   else{
    msg *= -1;
    table[msg]->first = -10;
+   load --;
    cout << "item successfully deleted" << endl;
   }
 }
