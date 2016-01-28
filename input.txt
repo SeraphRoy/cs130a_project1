@@ -1,32 +1,10000 @@
-linearprobing
-insert 8670959 asad 3.9
-insert 7670931 victor 3.6
-insert 7636338 omid 4.0
-lookup 7636338
-insert 5712195 jin 2.5 print
-delete 4444444
-delete 5712195
+insert 17807 73 2.3
+lookup 4944756
+lookup 1028554
 print
-delete 7636338
-lookup 8670959
-delete 8670959
+lookup 4485670
+delete 7523616
 print
-doublehashing
-insert 8670959 asad 3.4
-insert 7670931 victor 2.3
-insert 7636338 omid 4.0
-insert 5712195 jin 3.4
-delete 8670959
-insert 12341 ois 4.5
-insert 31289 asdf 43.2
-delete 12341
-delete 1234444
-insert 13290 aswiofp 3.2
-insert 11111 oiwe 3.2
+insert 4834316 57 2.3
+insert 7130741 99 2.3
 print
-lookup 11111
-delete 11111
+lookup 4900292
+lookup 1930277
+insert 8582114 79 2.3
+delete 4559899
 print
-insert 22222 weoi 3.2
-insert 423234 saofij 3.2
-insert 1111111 sdf 3.2
+print
+insert 5641252 1 2.3
+print
+lookup 1516745
+lookup 7703388
+lookup 2728916
+insert 5119092 53 2.3
+print
+lookup 8375948
+insert 5029694 65 2.3
+delete 7390913
+insert 5340588 15 2.3
+insert 9221120 1 2.3
+delete 4547703
+delete 7811559
+delete 783238
+print
+insert 4937804 38 2.3
+insert 2054233 97 2.3
+print
+insert 7620480 97 2.3
+print
+insert 6947391 75 2.3
+lookup 1854769
+print
+insert 5401279 94 2.3
+delete 9689096
+lookup 4120314
+lookup 1912030
+print
+delete 2634904
+insert 974797 90 2.3
+lookup 1726036
+lookup 1632827
+delete 3111800
+lookup 6499071
+lookup 8976361
+print
+delete 4587298
+lookup 6046896
+print
+lookup 4713569
+delete 1916584
+lookup 2608859
+delete 146188
+insert 598460 72 2.3
+delete 756739
+insert 9414641 23 2.3
+print
+delete 9336863
+lookup 2664633
+print
+lookup 7978445
+delete 8088874
+insert 4741143 97 2.3
+delete 8490676
+lookup 7122366
+insert 9534979 61 2.3
+delete 1001629
+print
+lookup 9998543
+insert 8541598 72 2.3
+lookup 1301751
+insert 7114851 7 2.3
+insert 7829110 69 2.3
+delete 3016869
+delete 2268679
+print
+print
+insert 761974 51 2.3
+delete 7055938
+lookup 797575
+insert 9637952 80 2.3
+delete 689093
+insert 8589305 45 2.3
+insert 4748521 0 2.3
+print
+print
+print
+insert 1939595 4 2.3
+print
+delete 660507
+insert 8726162 83 2.3
+delete 1651497
+insert 3046458 76 2.3
+print
+print
+insert 7496418 16 2.3
+delete 2194923
+print
+insert 9659416 11 2.3
+lookup 2228982
+insert 5796856 91 2.3
+lookup 624749
+delete 2977323
+insert 5861644 77 2.3
+lookup 9638399
+print
+print
+lookup 3671065
+print
+insert 546104 13 2.3
+insert 251256 60 2.3
+lookup 8499565
+insert 8343658 15 2.3
+lookup 777741
+delete 787781
+insert 2548804 95 2.3
+insert 2424484 3 2.3
+insert 4712923 58 2.3
+lookup 8164610
+print
+insert 3960752 20 2.3
+delete 7604986
+print
+lookup 1463701
+lookup 3619677
+delete 3559794
+insert 3483620 42 2.3
+delete 5307390
+delete 1916939
+delete 3393187
+insert 2903993 18 2.3
+delete 3918793
+print
+lookup 8669254
+print
+delete 4057659
+delete 765627
+print
+insert 3560274 13 2.3
+insert 784401 12 2.3
+print
+lookup 6425015
+insert 4320235 11 2.3
+lookup 4836820
+insert 8761797 65 2.3
+lookup 2192169
+delete 1255443
+print
+delete 344224
+insert 335439 41 2.3
+print
+lookup 7115443
+print
+lookup 5510265
+insert 2557946 89 2.3
+print
+lookup 1661025
+print
+print
+insert 8179818 11 2.3
+delete 7717695
+delete 2332868
+print
+insert 8318184 27 2.3
+delete 3686483
+insert 4630721 27 2.3
+delete 5308838
+print
+print
+insert 7628192 3 2.3
+print
+delete 2003488
+insert 5964242 73 2.3
+print
+insert 1482248 27 2.3
+print
+delete 8321546
+lookup 5501559
+delete 7569743
+delete 2628470
+delete 5334348
+lookup 5420540
+delete 2667938
+lookup 3450870
+print
+delete 79084
+print
+delete 3092026
+delete 7847893
+print
+insert 6233749 10 2.3
+print
+insert 7455817 99 2.3
+delete 7369456
+insert 7260743 64 2.3
+insert 5335178 25 2.3
+lookup 1111308
+insert 2212906 70 2.3
+lookup 2536298
+lookup 6510636
+delete 8604530
+print
+delete 427114
+print
+lookup 6684870
+delete 6501701
+insert 8667007 25 2.3
+delete 5183919
+lookup 1073873
+delete 1915038
+delete 3749798
+insert 6265947 21 2.3
+lookup 8115458
+print
+lookup 9933290
+print
+delete 2174495
+insert 6290960 16 2.3
+lookup 6565053
+print
+insert 7503855 52 2.3
+insert 6562574 57 2.3
+delete 2008125
+delete 4022599
+insert 3430435 27 2.3
+print
+print
+delete 3274676
+delete 7714008
+insert 592992 43 2.3
+lookup 1123864
+lookup 6440202
+insert 5045787 43 2.3
+delete 8438511
+delete 5140920
+lookup 5181726
+insert 5681043 33 2.3
+insert 384458 10 2.3
+print
+lookup 7973179
+lookup 6228101
+lookup 2611903
+print
+delete 342442
+insert 4186968 70 2.3
+insert 8388669 65 2.3
+print
+delete 5349018
+lookup 9973450
+lookup 6944891
+print
+print
+lookup 6221061
+lookup 8331082
+lookup 515950
+insert 7742484 31 2.3
+insert 8645640 61 2.3
+lookup 8947231
+insert 5351998 37 2.3
+print
+delete 1448533
+insert 7225486 62 2.3
+delete 3533228
+lookup 2025979
+print
+lookup 5852122
+print
+print
+insert 5064457 47 2.3
+delete 8200316
+print
+delete 6378636
+insert 642952 93 2.3
+delete 1434745
+delete 5726866
+print
+lookup 2864488
+print
+print
+delete 7946692
+delete 3267287
+insert 6263875 24 2.3
+print
+delete 9873035
+insert 1568056 62 2.3
+lookup 5469603
+lookup 710297
+delete 2286835
+delete 7607747
+lookup 3812333
+delete 3695539
+delete 2367574
+insert 5915271 85 2.3
+print
+print
+delete 4736323
+lookup 3321857
+lookup 243051
+insert 7223334 61 2.3
+print
+lookup 3647098
+delete 3188818
+print
+print
+lookup 4375262
+print
+delete 8593385
+delete 5685202
+insert 9307070 52 2.3
+delete 5987488
+delete 4412118
+delete 1420548
+print
+lookup 1370908
+print
+lookup 8899777
+delete 8070725
+delete 8710325
+delete 7620768
+delete 8626737
+delete 8638988
+print
+delete 4140129
+lookup 3370178
+print
+insert 6873287 51 2.3
+insert 2330282 13 2.3
+lookup 656155
+lookup 1290001
+lookup 3656323
+insert 2354703 79 2.3
+print
+insert 1840226 22 2.3
+print
+print
+print
+print
+print
+lookup 5948207
+print
+print
+delete 4487488
+lookup 4631711
+lookup 2919588
+print
+print
+insert 1368667 95 2.3
+lookup 873646
+insert 4607031 19 2.3
+delete 9300043
+insert 448929 70 2.3
+lookup 1842446
+print
+print
+insert 5172738 34 2.3
+lookup 1007092
+insert 7487293 28 2.3
+insert 386170 66 2.3
+delete 3767658
+insert 8967732 93 2.3
+lookup 770534
+insert 8357827 55 2.3
+insert 7161851 28 2.3
+lookup 2468146
+delete 440782
+print
+print
+insert 3030662 66 2.3
+print
+insert 815204 57 2.3
+delete 5222809
+lookup 5043275
+lookup 9195163
+lookup 1921067
+lookup 1226715
+lookup 8194239
+print
+lookup 5055307
+lookup 3080061
+delete 3206733
+print
+print
+print
+delete 4653326
+insert 7345438 9 2.3
+lookup 5247404
+delete 416796
+lookup 2346875
+lookup 1740977
+delete 8551020
+insert 8764112 77 2.3
+print
+lookup 7639433
+print
+lookup 8528881
+insert 7046139 9 2.3
+print
+delete 2033835
+delete 1133551
+lookup 9615412
+insert 9116939 25 2.3
+insert 9966340 96 2.3
+insert 2731663 58 2.3
+delete 4828661
+delete 41902
+delete 6456527
+delete 6139248
+lookup 9459525
+print
+insert 8526929 44 2.3
+delete 8663648
+print
+insert 3702186 23 2.3
+print
+print
+delete 5826240
+print
+print
+lookup 4193445
+lookup 9181742
+insert 7120754 51 2.3
+insert 6312192 46 2.3
+lookup 7519748
+delete 9226186
+print
+delete 3305220
+insert 4080460 78 2.3
+delete 7152938
+print
+delete 8129094
+print
+lookup 653781
+insert 5707894 45 2.3
+delete 6144402
+delete 5713817
+lookup 1376885
+print
+delete 8045227
+lookup 3853274
+delete 2245955
+delete 4972416
+lookup 1108016
+print
+delete 2974718
+print
+lookup 711525
+insert 5215278 67 2.3
+print
+print
+lookup 2329386
+insert 9368195 36 2.3
+insert 689015 78 2.3
+insert 3240752 22 2.3
+insert 5861690 19 2.3
+insert 3639875 74 2.3
+lookup 6899540
+lookup 6672425
+lookup 2724899
+lookup 8453435
+print
+print
+delete 8381606
+lookup 6557042
+insert 8535173 33 2.3
+delete 7516108
+lookup 7559968
+lookup 8201010
+delete 5315535
+lookup 1285682
+insert 8965959 60 2.3
+print
+print
+print
+insert 5224382 32 2.3
+print
+lookup 1241884
+insert 3426997 3 2.3
+delete 605458
+print
+lookup 3083039
+print
+lookup 8471701
+print
+delete 1473383
+print
+lookup 1609118
+print
+insert 8630993 85 2.3
+insert 4844081 10 2.3
+insert 2900978 39 2.3
+delete 7533964
+print
+lookup 9243612
+insert 1205010 85 2.3
+insert 911106 36 2.3
+insert 5148075 2 2.3
+print
+insert 8293950 81 2.3
+lookup 2709835
+print
+lookup 6617222
+delete 50710
+lookup 58468
+insert 6379609 79 2.3
+print
+lookup 6866015
+insert 8904214 95 2.3
+print
+insert 1438874 10 2.3
+delete 1100960
+print
+insert 433214 43 2.3
+lookup 49658
+delete 953296
+delete 5275564
+print
+lookup 7210972
+insert 8049045 90 2.3
+lookup 6245899
+lookup 854064
+lookup 9997162
+delete 5904173
+insert 7441898 50 2.3
+insert 9644008 2 2.3
+insert 7252777 99 2.3
+print
+delete 7368502
+insert 75480 82 2.3
+print
+delete 533606
+print
+insert 1268534 86 2.3
+delete 2596692
+delete 279971
+delete 2633603
+delete 3301295
+print
+lookup 4132650
+lookup 7387896
+delete 1133958
+insert 2165942 30 2.3
+print
+lookup 2800016
+lookup 412675
+delete 3305122
+lookup 7618649
+lookup 1155676
+insert 7228655 77 2.3
+lookup 4811462
+insert 1607045 27 2.3
+lookup 5833624
+print
+delete 6455420
+delete 2295279
+insert 4384743 65 2.3
+insert 4182670 17 2.3
+print
+delete 6862523
+delete 7615770
+insert 6894078 15 2.3
+insert 1359086 49 2.3
+print
+print
+delete 597445
+insert 717053 1 2.3
+insert 4719491 48 2.3
+print
+delete 543981
+insert 117372 43 2.3
+print
+print
+print
+delete 3879808
+print
+insert 4830820 73 2.3
+print
+delete 8416391
+insert 2987874 89 2.3
+insert 2234494 27 2.3
+delete 3614648
+insert 400008 95 2.3
+lookup 4457100
+insert 8985609 62 2.3
+insert 8678684 79 2.3
+delete 8617337
+insert 6831684 74 2.3
+delete 5980136
+delete 3090554
+insert 8595851 50 2.3
+print
+delete 3184122
+lookup 8233851
+lookup 1159407
+lookup 985638
+print
+insert 7950830 98 2.3
+print
+insert 4154207 80 2.3
+print
+lookup 5253173
+insert 7465485 47 2.3
+insert 8806836 33 2.3
+print
+print
+print
+insert 9629156 17 2.3
+insert 4407450 80 2.3
+print
+lookup 5904884
+lookup 522785
+delete 1441074
+lookup 9982269
+insert 917574 94 2.3
+lookup 3397401
+delete 6193732
+insert 3832779 71 2.3
+print
+insert 8041795 94 2.3
+lookup 8624499
+lookup 4635589
+insert 6848030 57 2.3
+lookup 2826754
+delete 491384
+insert 3169317 30 2.3
+lookup 5635035
+delete 9503108
+insert 3518547 84 2.3
+lookup 3840375
+delete 5863015
+lookup 7112749
+delete 163189
+print
+lookup 9493358
+lookup 3527738
+insert 7483859 81 2.3
+print
+insert 6560097 24 2.3
+print
+print
+print
+insert 9525693 26 2.3
+insert 6413504 39 2.3
+delete 6821921
+print
+delete 394732
+insert 6514585 25 2.3
+lookup 165943
+delete 7333761
+print
+lookup 1175363
+insert 3022280 30 2.3
+insert 1531908 49 2.3
+delete 4428329
+insert 5101204 70 2.3
+print
+delete 8506222
+delete 3855222
+print
+delete 406183
+print
+insert 75589 22 2.3
+print
+lookup 7161349
+insert 4299514 70 2.3
+insert 4318527 19 2.3
+lookup 4452793
+print
+lookup 6264329
+delete 85484
+lookup 1256663
+lookup 6990556
+print
+delete 8262087
+lookup 2276471
+delete 6874051
+delete 4735985
+lookup 4453507
+print
+insert 1135650 75 2.3
+lookup 7784835
+delete 7877585
+delete 2814838
+insert 8579141 63 2.3
+insert 2347132 99 2.3
+print
+insert 2551154 76 2.3
+insert 3864033 97 2.3
+delete 6896302
+lookup 8225528
+insert 2537833 86 2.3
+insert 5904764 25 2.3
+insert 4976305 99 2.3
+lookup 2826526
+print
+delete 3204966
+lookup 5090653
+print
+print
+delete 7830576
+delete 1229377
+print
+print
+print
+insert 5083268 70 2.3
+insert 9989520 93 2.3
+print
+insert 2815124 78 2.3
+lookup 9694247
+delete 3549048
+delete 4824477
+delete 5944489
+insert 4896735 36 2.3
+lookup 1297341
+lookup 6545298
+delete 1424667
+lookup 5179224
+lookup 4945308
+insert 6852600 71 2.3
+lookup 797630
+print
+insert 779415 84 2.3
+print
+print
+delete 9528594
+lookup 9037200
+delete 5746222
+print
+lookup 724350
+insert 6768019 57 2.3
+print
+insert 6527089 35 2.3
+lookup 2092900
+delete 9089651
+delete 8651871
+print
+lookup 4209886
+lookup 5522667
+print
+lookup 8793908
+lookup 4742345
+lookup 7281857
+lookup 1230944
+print
+print
+lookup 6568091
+lookup 4948071
+delete 1309253
+delete 2439795
+lookup 4558779
+insert 3564193 43 2.3
+delete 833444
+print
+insert 903004 5 2.3
+delete 6041626
+print
+delete 9526274
+insert 5543656 51 2.3
+lookup 9477581
+print
+insert 6829425 6 2.3
+lookup 5885538
+lookup 6722438
+print
+lookup 6836251
+delete 6260938
+insert 2605689 87 2.3
+delete 9853811
+lookup 712641
+lookup 1964280
+delete 7875840
+print
+print
+insert 8007457 5 2.3
+print
+delete 3980272
+print
+insert 8152550 88 2.3
+print
+print
+insert 9870460 88 2.3
+print
+delete 6025725
+print
+print
+insert 7224781 67 2.3
+lookup 7249193
+lookup 7117387
+lookup 4815009
+insert 3425233 23 2.3
+print
+delete 3467819
+insert 4401525 4 2.3
+print
+lookup 3784298
+lookup 9901680
+print
+lookup 1536933
+insert 9250327 55 2.3
+print
+print
+print
+delete 2533840
+print
+print
+delete 3076025
+delete 9345148
+print
+lookup 8593288
+print
+insert 5929570 94 2.3
+print
+delete 4591824
+insert 2036766 56 2.3
+delete 2431015
+print
+insert 6054680 7 2.3
+insert 2974552 25 2.3
+lookup 5983653
+insert 952452 7 2.3
+delete 8994985
+insert 6653037 65 2.3
+lookup 9077525
+delete 9804249
+print
+insert 9879186 32 2.3
+delete 6743481
+print
+lookup 2188846
+lookup 118551
+lookup 7167475
+delete 5389188
+insert 2830972 58 2.3
+insert 9022148 61 2.3
+print
+lookup 1482319
+delete 2366287
+delete 3373483
+delete 4616237
+delete 3246808
+print
+insert 5991410 13 2.3
+print
+print
+insert 5060704 83 2.3
+insert 2101907 7 2.3
+print
+insert 7573256 66 2.3
+print
+lookup 7095520
+insert 6339758 3 2.3
+delete 3449323
+insert 3565099 89 2.3
+insert 6401912 12 2.3
+print
+delete 6132589
+lookup 3419119
+print
+print
+print
+print
+lookup 1298054
+delete 8893126
+lookup 8323837
+print
+delete 2117611
+delete 8763533
+print
+insert 6156014 39 2.3
+print
+lookup 9484519
+print
+insert 8668345 79 2.3
+lookup 6849337
+delete 7537218
+insert 8741182 99 2.3
+lookup 6555622
+insert 6811843 15 2.3
+print
+print
+lookup 4851328
+print
+insert 4161805 58 2.3
+delete 1514967
+print
+delete 152929
+print
+lookup 3262095
+print
+print
+print
+insert 9321702 93 2.3
+print
+insert 2028206 85 2.3
+delete 9856838
+insert 8157218 95 2.3
+delete 6485879
+print
+insert 8922275 99 2.3
+lookup 1979141
+delete 9112733
+insert 1003699 20 2.3
+delete 6957324
+insert 1869564 64 2.3
+delete 6283606
+lookup 5643698
+lookup 7493439
+insert 4452398 87 2.3
+lookup 5915710
+insert 7988426 11 2.3
+print
+delete 3765862
+print
+print
+lookup 3423068
+delete 7044961
+print
+print
+print
+delete 3334175
+delete 3343657
+lookup 2623006
+lookup 3117873
+lookup 2684657
+insert 582375 1 2.3
+print
+print
+lookup 7990264
+lookup 2821761
+print
+lookup 7535135
+insert 7561475 32 2.3
+insert 8750886 10 2.3
+insert 9714018 58 2.3
+insert 324342 74 2.3
+delete 6985855
+insert 291961 39 2.3
+delete 80564
+delete 2325512
+print
+delete 8108775
+lookup 8597562
+insert 846423 99 2.3
+print
+lookup 8130385
+delete 6179907
+print
+print
+print
+insert 4057258 50 2.3
+lookup 4163012
+print
+delete 2602814
+delete 1953195
+lookup 8289122
+print
+delete 4882560
+lookup 3109833
+lookup 9413243
+insert 8780420 45 2.3
+delete 7694505
+lookup 895536
+lookup 9890755
+print
+print
+insert 5037982 28 2.3
+delete 7313377
+insert 7508614 38 2.3
+delete 1429210
+delete 9482607
+insert 2641914 44 2.3
+insert 6930277 35 2.3
+delete 5714993
+print
+delete 112573
+delete 9954915
+print
+delete 9609277
+insert 2027942 76 2.3
+delete 394219
+insert 9185433 15 2.3
+delete 1213847
+print
+delete 5578991
+delete 9735233
+delete 8560373
+delete 5922227
+insert 8473825 42 2.3
+insert 6899552 69 2.3
+print
+insert 8642960 80 2.3
+lookup 3670950
+insert 6067166 87 2.3
+print
+delete 5731217
+insert 5999413 99 2.3
+insert 3913241 90 2.3
+lookup 6532120
+delete 9624104
+print
+print
+lookup 9005888
+print
+delete 9236108
+insert 4262175 25 2.3
+lookup 5207713
+delete 8243348
+lookup 6974382
+insert 1012499 79 2.3
+delete 2477371
+lookup 5993816
+insert 9281708 24 2.3
+delete 1612432
+print
+print
+insert 491019 0 2.3
+print
+delete 3011163
+lookup 2747772
+lookup 4963956
+insert 8430352 20 2.3
+print
+lookup 6827715
+delete 6544175
+delete 5517412
+insert 579852 3 2.3
+delete 2094442
+lookup 3985167
+insert 7016165 74 2.3
+lookup 6215266
+lookup 4399267
+delete 6814399
+print
+lookup 8852046
+insert 1353578 57 2.3
+print
+print
+insert 2361267 11 2.3
+delete 5668496
+delete 6716437
+insert 1413083 58 2.3
+lookup 8928087
+delete 2379223
+insert 1908285 87 2.3
+insert 8336324 7 2.3
+print
+lookup 2505143
+lookup 3279703
+delete 6177191
+delete 9205670
+insert 5742672 96 2.3
+insert 921615 92 2.3
+print
+delete 3642554
+delete 4968105
+print
+delete 8125743
+delete 3355488
+lookup 1873689
+lookup 8599963
+lookup 3760551
+print
+insert 7677952 80 2.3
+insert 4401034 49 2.3
+lookup 9191156
+delete 826257
+lookup 9619873
+print
+insert 4799184 47 2.3
+lookup 6175471
+delete 3467767
+delete 2124429
+lookup 8311176
+delete 4634138
+insert 8371035 80 2.3
+insert 3814127 56 2.3
+insert 3760410 6 2.3
+print
+delete 9975118
+insert 795420 82 2.3
+insert 8128554 96 2.3
+delete 2014803
+delete 8004746
+lookup 3650428
+delete 4867038
+print
+delete 5020874
+delete 5516380
+print
+lookup 5575893
+lookup 6108019
+lookup 9602354
+insert 5242242 99 2.3
+delete 6619941
+print
+lookup 1897623
+insert 2418790 49 2.3
+delete 6016847
+print
+print
+delete 5076810
+lookup 8211657
+delete 3102693
+lookup 7075964
+insert 7162682 90 2.3
+lookup 2615574
+lookup 4135730
+delete 4988178
+print
+print
+delete 7843060
+print
+insert 1306838 52 2.3
+insert 4871219 35 2.3
+delete 929445
+lookup 6704266
+lookup 6832314
+delete 3333404
+insert 5477859 89 2.3
+insert 369538 15 2.3
+lookup 2033088
+insert 6881365 89 2.3
+delete 1807640
+insert 4118553 42 2.3
+lookup 5501237
+lookup 9177592
+lookup 4600043
+delete 8953134
+delete 9809265
+lookup 1574502
+delete 8820070
+print
+lookup 2340335
+insert 3729727 66 2.3
+lookup 1858037
+insert 6394351 45 2.3
+print
+insert 5959981 46 2.3
+lookup 9334546
+insert 3748821 14 2.3
+insert 1572883 2 2.3
+delete 9425004
+insert 8235448 98 2.3
+insert 4388520 66 2.3
+print
+delete 4164069
+insert 5717593 81 2.3
+print
+insert 3910105 4 2.3
+lookup 8482143
+delete 8398921
+delete 4022595
+delete 6726219
+insert 939352 30 2.3
+delete 7621739
+lookup 3730601
+print
+print
+insert 6607735 14 2.3
+delete 1429767
+print
+print
+lookup 6446653
+insert 7554609 83 2.3
+delete 7214777
+insert 2478852 99 2.3
+delete 896754
+insert 3441877 96 2.3
+lookup 3941466
+lookup 9469395
+lookup 4039000
+delete 3725513
+lookup 7474056
+delete 6092368
+delete 906301
+lookup 8860638
+insert 4410316 31 2.3
+delete 6004067
+lookup 1420646
+lookup 6230080
+delete 9397413
+print
+insert 7185519 12 2.3
+lookup 3624568
+delete 9533267
+print
+delete 9555651
+insert 24469 48 2.3
+delete 9436628
+insert 1794333 90 2.3
+lookup 207143
+insert 5997539 58 2.3
+insert 724501 45 2.3
+delete 874589
+print
+print
+print
+lookup 1192966
+lookup 8490495
+print
+print
+delete 5627085
+delete 621898
+print
+lookup 9332735
+print
+delete 8646957
+print
+lookup 6875645
+insert 4994973 76 2.3
+lookup 993683
+delete 8616288
+insert 5243733 53 2.3
+print
+insert 1001225 56 2.3
+insert 8180653 93 2.3
+insert 9797711 72 2.3
+delete 1400880
+insert 5121465 37 2.3
+lookup 2164249
+lookup 7857473
+print
+print
+delete 8435891
+print
+delete 8801549
+insert 3756798 52 2.3
+delete 5796451
+print
+delete 1797975
+insert 7671869 57 2.3
+lookup 4685945
+insert 6425175 34 2.3
+delete 6653181
+lookup 8800191
+insert 6820748 77 2.3
+lookup 9444670
+lookup 2301731
+lookup 4452181
+insert 5610553 90 2.3
+print
+lookup 2907320
+lookup 5555990
+print
+print
+delete 7036708
+insert 1132401 46 2.3
+print
+print
+insert 8754993 77 2.3
+delete 9593050
+lookup 2441425
+print
+insert 6418436 81 2.3
+delete 6358564
+insert 3367938 61 2.3
+lookup 8793367
+print
+delete 170686
+lookup 2864925
+insert 8694038 39 2.3
+delete 7290733
+delete 453217
+lookup 3614056
+insert 749504 93 2.3
+lookup 2468193
+insert 5784105 7 2.3
+print
+delete 3550963
+delete 3078399
+lookup 1675690
+insert 3549035 40 2.3
+print
+delete 337192
+delete 4727522
+insert 3536053 25 2.3
+lookup 5099630
+lookup 7805182
+insert 8402715 12 2.3
+lookup 5875127
+insert 6838943 89 2.3
+delete 8880760
+print
+lookup 6643802
+lookup 7424699
+print
+insert 8842652 8 2.3
+delete 3865809
+insert 8898090 44 2.3
+print
+delete 8978423
+print
+print
+insert 789359 12 2.3
+delete 1660702
+insert 198470 32 2.3
+lookup 4993793
+delete 6012312
+print
+delete 4190658
+delete 6551525
+print
+lookup 8150762
+delete 127190
+delete 2648821
+delete 3309507
+insert 1792795 19 2.3
+lookup 9848132
+insert 3117337 45 2.3
+print
+insert 6883459 15 2.3
+lookup 5347753
+print
+lookup 2116357
+print
+print
+print
+insert 5878176 45 2.3
+insert 9141086 61 2.3
+insert 2121636 31 2.3
+delete 4251704
+delete 2732982
+lookup 6699427
+delete 9512700
+print
+print
+lookup 8377424
+delete 1736958
+print
+lookup 1136979
+print
+lookup 2464608
+print
+print
+lookup 2751654
+delete 1003033
+insert 1890805 94 2.3
+insert 1232382 71 2.3
+print
+insert 9195583 75 2.3
+print
+print
+print
+delete 6554366
+print
+print
+print
+print
+delete 4243830
+insert 3213384 67 2.3
+print
+print
+insert 6061681 78 2.3
+insert 5423604 62 2.3
+print
+lookup 6954905
+print
+print
+print
+delete 9797879
+insert 9469963 83 2.3
+print
+lookup 199011
+delete 5308992
+delete 3181730
+lookup 4921511
+print
+delete 9911574
+print
+delete 819606
+lookup 8967176
+insert 8815231 92 2.3
+print
+delete 4958460
+lookup 319704
+print
+insert 2232471 12 2.3
+delete 3562987
+insert 6089053 69 2.3
+delete 3544318
+lookup 2009710
+insert 4088789 79 2.3
+insert 5570195 79 2.3
+print
+lookup 5290194
+lookup 3954119
+lookup 6442462
+delete 1981624
+delete 5901635
+insert 254813 92 2.3
+insert 1867979 13 2.3
+delete 6062613
+delete 5903584
+delete 384656
+print
+print
+print
+delete 9102173
+print
+delete 7434263
+print
+print
+insert 9904116 90 2.3
+lookup 8668067
+print
+lookup 5618254
+insert 1811427 14 2.3
+print
+lookup 8269054
+lookup 8854694
+insert 2186019 10 2.3
+insert 8541820 4 2.3
+delete 6378163
+delete 3540264
+insert 1569005 75 2.3
+delete 5519805
+delete 4323038
+delete 4283900
+lookup 342153
+lookup 8512179
+delete 9340439
+lookup 4119204
+print
+lookup 9912377
+lookup 6378565
+delete 9317016
+insert 9825777 23 2.3
+delete 6500691
+insert 8286185 19 2.3
+insert 7098880 43 2.3
+print
+lookup 7682793
+delete 6572054
+print
+delete 6713197
+delete 6945616
+delete 3729017
+insert 3164082 85 2.3
+lookup 143399
+insert 9601916 5 2.3
+lookup 2663240
+lookup 349609
+delete 2215033
+delete 5371826
+print
+insert 5956449 85 2.3
+print
+print
+insert 9889777 14 2.3
+lookup 9848647
+print
+print
+insert 7351877 47 2.3
+delete 717099
+delete 2499006
+delete 3827001
+insert 3523410 90 2.3
+insert 3679360 35 2.3
+print
+delete 2811492
+print
+delete 8999742
+lookup 5176640
+print
+print
+delete 9982994
+delete 1210339
+insert 6704861 99 2.3
+insert 9259318 56 2.3
+lookup 6291483
+insert 5085616 56 2.3
+insert 2391853 99 2.3
+print
+print
+insert 9886663 48 2.3
+print
+lookup 9525510
+insert 4779189 19 2.3
+insert 3490509 90 2.3
+insert 1094542 74 2.3
+print
+lookup 4780268
+delete 6281223
+insert 6939691 82 2.3
+insert 8703118 70 2.3
+insert 3046348 75 2.3
+delete 1549090
+print
+insert 3918303 90 2.3
+insert 615701 5 2.3
+insert 9709513 67 2.3
+insert 3493997 23 2.3
+print
+delete 1659252
+print
+insert 8574537 97 2.3
+lookup 9553182
+insert 8021574 52 2.3
+delete 8698340
+lookup 8764395
+print
+lookup 3813691
+delete 5173491
+print
+insert 3802571 95 2.3
+delete 701803
+delete 84200
+lookup 9145618
+delete 263331
+lookup 4600321
+lookup 4492099
+insert 6367045 19 2.3
+delete 6322610
+delete 7263294
+print
+delete 6421647
+print
+print
+print
+lookup 791735
+print
+lookup 4765899
+lookup 8215075
+insert 4404783 28 2.3
+lookup 9313113
+insert 2740636 66 2.3
+print
+lookup 9972899
+delete 7985326
+lookup 467595
+delete 6396854
+print
+lookup 1411447
+delete 3924078
+lookup 5968447
+insert 323931 89 2.3
+delete 7375018
+insert 7206123 65 2.3
+lookup 3563835
+lookup 9429939
+lookup 6207978
+delete 1310072
+lookup 7548145
+lookup 4178041
+lookup 8197519
+insert 4894144 52 2.3
+lookup 1562309
+lookup 6256538
+delete 8879269
+delete 781703
+delete 4539115
+insert 5461608 86 2.3
+delete 3195273
+print
+print
+insert 684435 22 2.3
+insert 3701601 42 2.3
+print
+lookup 8523252
+print
+insert 8686711 36 2.3
+print
+lookup 6612193
+print
+lookup 8649895
+print
+lookup 1861496
+delete 6730565
+print
+lookup 7153393
+insert 5983905 60 2.3
+insert 5616105 58 2.3
+lookup 9145416
+insert 9900168 27 2.3
+delete 4629171
+lookup 7245002
+print
+insert 9210396 15 2.3
+lookup 815855
+print
+insert 273993 10 2.3
+lookup 9400371
+lookup 6116652
+insert 5133214 36 2.3
+lookup 3191881
+insert 8802700 40 2.3
+delete 5930101
+delete 6744379
+print
+lookup 1294255
+insert 3345530 72 2.3
+lookup 8317666
+insert 6721710 91 2.3
+insert 1097757 41 2.3
+lookup 6886277
+insert 5683930 68 2.3
+lookup 3295716
+lookup 5682813
+delete 8451238
+lookup 2949278
+lookup 1072471
+delete 1524406
+delete 8375622
+print
+insert 1826094 23 2.3
+insert 7680962 8 2.3
+delete 5279180
+delete 947423
+insert 3827485 92 2.3
+print
+delete 563338
+insert 985216 76 2.3
+print
+insert 4519435 97 2.3
+lookup 4418365
+delete 6353466
+insert 8136301 71 2.3
+print
+insert 6478179 79 2.3
+delete 7240813
+print
+insert 1031696 34 2.3
+lookup 852273
+delete 3661087
+print
+lookup 371213
+lookup 7715281
+lookup 8152676
+print
+delete 5171133
+insert 2212223 44 2.3
+lookup 5182129
+delete 6618976
+insert 846605 36 2.3
+print
+print
+insert 8759205 83 2.3
+lookup 2898471
+delete 8212834
+delete 1266170
+delete 6536324
+delete 5712147
+lookup 112326
+lookup 3004477
+insert 9026915 35 2.3
+lookup 4283602
+insert 1344175 83 2.3
+print
+lookup 9013666
+lookup 1327487
+print
+delete 2231957
+print
+insert 3517857 92 2.3
+print
+lookup 8349479
+insert 676487 38 2.3
+lookup 972520
+delete 2296068
+lookup 5250440
+delete 8908301
+insert 6402554 73 2.3
+delete 620504
+print
+insert 9276459 66 2.3
+print
+lookup 8712975
+delete 4050429
+print
+lookup 4667519
+delete 9185686
+print
+insert 9683359 76 2.3
+print
+insert 9179872 45 2.3
+insert 7534274 4 2.3
+lookup 6389330
+insert 5184944 25 2.3
+print
+delete 2654086
+insert 6328991 92 2.3
+insert 5240934 37 2.3
+print
+delete 5467696
+lookup 4053188
+print
+lookup 5633682
+lookup 4225973
+delete 3879109
+insert 4807554 9 2.3
+print
+insert 4458663 78 2.3
+insert 854890 89 2.3
+print
+lookup 6169271
+delete 1865265
+print
+lookup 3091781
+print
+lookup 3865730
+lookup 757356
+delete 2399891
+insert 967680 33 2.3
+print
+delete 7447320
+insert 9301222 16 2.3
+delete 7861297
+lookup 9865474
+insert 7718815 63 2.3
+lookup 1398986
+print
+delete 3982319
+delete 3482368
+delete 2042865
+print
+delete 4756432
+print
+print
+insert 9044994 91 2.3
+lookup 4681332
+lookup 9242231
+lookup 8206299
+delete 7269976
+lookup 949385
+lookup 1037581
+lookup 2389756
+print
+lookup 103118
+delete 3615296
+insert 2678303 30 2.3
+lookup 2808987
+delete 1668636
+insert 1029353 98 2.3
+lookup 7804391
+lookup 1784996
+print
+insert 7677286 84 2.3
+delete 2075185
+print
+insert 3014688 84 2.3
+delete 2201290
+insert 3820599 36 2.3
+insert 7245568 97 2.3
+print
+insert 4765564 68 2.3
+delete 2376194
+lookup 9800732
+insert 3958155 83 2.3
+lookup 4680760
+insert 9283087 81 2.3
+lookup 1199683
+print
+insert 9692934 48 2.3
+delete 3613239
+delete 8892616
+print
+print
+print
+lookup 381259
+lookup 4724892
+insert 2771938 20 2.3
+insert 8697085 3 2.3
+insert 6336220 79 2.3
+print
+delete 8436192
+insert 1683308 33 2.3
+lookup 485349
+lookup 7192247
+lookup 5899392
+print
+insert 7009711 4 2.3
+insert 7827988 74 2.3
+print
+delete 525386
+print
+print
+delete 7751458
+delete 9036815
+print
+lookup 3768992
+lookup 9358596
+delete 3341585
+lookup 7811469
+lookup 7358187
+lookup 8865622
+print
+delete 8718602
+lookup 5366065
+insert 9633402 51 2.3
+print
+lookup 8462734
+delete 8642299
+insert 4702123 69 2.3
+lookup 3775619
+insert 2222257 39 2.3
+print
+insert 917678 34 2.3
+print
+insert 8450533 19 2.3
+print
+lookup 3951101
+delete 5423029
+print
+delete 8270165
+lookup 8502263
+print
+print
+delete 6181834
+lookup 9937133
+insert 9555818 10 2.3
+lookup 3838181
+lookup 3675433
+delete 3577924
+insert 7214033 97 2.3
+insert 228918 43 2.3
+insert 4882753 53 2.3
+delete 717573
+delete 5893215
+insert 1816571 64 2.3
+insert 5715817 6 2.3
+print
+insert 7421300 35 2.3
+insert 2535122 12 2.3
+delete 2081250
+delete 1215459
+print
+print
+delete 2075801
+delete 3304835
+lookup 2655943
+lookup 6334659
+delete 7941643
+lookup 220045
+delete 6086031
+lookup 1296817
+lookup 4125456
+delete 3483336
+print
+delete 7475968
+insert 1174876 45 2.3
+delete 5329781
+lookup 9526837
+lookup 5173249
+print
+insert 7381028 10 2.3
+print
+lookup 1100356
+insert 7828401 32 2.3
+lookup 2619679
+lookup 4765870
+insert 6026454 94 2.3
+insert 5208945 9 2.3
+lookup 9109472
+delete 2256652
+print
+lookup 6555496
+lookup 6251694
+insert 6432308 91 2.3
+delete 9514937
+delete 766811
+insert 8538221 61 2.3
+delete 9170537
+print
+lookup 6261343
+delete 7907376
+print
+insert 2645980 78 2.3
+print
+print
+print
+print
+insert 3773102 71 2.3
+insert 7714808 58 2.3
+print
+insert 4695847 11 2.3
+delete 5546981
+delete 8229793
+insert 8406778 63 2.3
+print
+print
+delete 8662070
+insert 9079981 40 2.3
+lookup 8006892
+print
+print
+delete 8966448
+lookup 2512451
+insert 2246119 22 2.3
+print
+insert 4266620 75 2.3
+print
+lookup 103169
+delete 2377641
+insert 5013509 33 2.3
+insert 7504284 36 2.3
+print
+print
+delete 3889493
+delete 4791210
+lookup 9303934
+insert 9416280 94 2.3
+print
+lookup 2862787
+insert 1846482 84 2.3
+lookup 3771783
+print
+insert 6755912 38 2.3
+print
+insert 3822549 79 2.3
+insert 7806257 62 2.3
+print
+print
+insert 512056 32 2.3
+insert 1996061 33 2.3
+delete 6439674
+insert 6507546 48 2.3
+delete 7278649
+delete 2869326
+delete 3992031
+delete 2720137
+print
+insert 3780003 39 2.3
+print
+insert 6357131 49 2.3
+delete 7168272
+print
+insert 7856487 29 2.3
+delete 8587443
+delete 9264606
+print
+delete 2482366
+insert 862096 72 2.3
+delete 2760811
+lookup 1108588
+lookup 8000497
+lookup 8206002
+delete 6736423
+insert 8813627 34 2.3
+print
+delete 1281615
+print
+lookup 8373189
+delete 7094018
+lookup 7317236
+lookup 2708210
+print
+insert 5382309 55 2.3
+print
+insert 3797632 54 2.3
+print
+print
+insert 9210523 51 2.3
+print
+delete 7209776
+print
+delete 6215937
+print
+lookup 6336050
+lookup 6885342
+delete 6974545
+delete 3936185
+print
+lookup 1815874
+delete 473686
+lookup 1711328
+lookup 7753966
+print
+print
+insert 5945488 55 2.3
+insert 4517094 63 2.3
+delete 7310938
+insert 4873622 35 2.3
+lookup 6217663
+insert 6485434 73 2.3
+lookup 8528841
+insert 2840347 19 2.3
+print
+insert 5667857 43 2.3
+delete 5374282
+print
+lookup 2367080
+print
+delete 6137455
+print
+insert 34897 12 2.3
+insert 9476162 52 2.3
+delete 277203
+lookup 6804399
+insert 5602113 48 2.3
+delete 5528990
+delete 3440505
+lookup 3468453
+insert 2593140 15 2.3
+print
+insert 8326904 27 2.3
+print
+delete 876825
+insert 8199353 5 2.3
+print
+print
+delete 66013
+lookup 7825051
+lookup 5975240
+lookup 3989783
+lookup 5112312
+insert 6590006 39 2.3
+delete 9225927
+lookup 5015655
+delete 4841556
+lookup 6280628
+lookup 6342355
+print
+delete 4212536
+lookup 1046519
+print
+insert 3605773 77 2.3
+delete 6006066
+insert 398076 65 2.3
+print
+delete 6390780
+delete 8276226
+lookup 8180388
+lookup 8616379
+lookup 8934440
+print
+delete 485919
+insert 3595515 59 2.3
+print
+lookup 1137684
+print
+print
+print
+print
+insert 9361748 5 2.3
+lookup 329649
+lookup 546501
+print
+lookup 5387586
+insert 6446125 83 2.3
+lookup 7382796
+lookup 3739906
+insert 6740802 87 2.3
+print
+lookup 4957708
+lookup 8537542
+print
+insert 2105876 50 2.3
+insert 1995435 38 2.3
+delete 3251241
+print
+print
+print
+print
+delete 7918385
+delete 9905621
+delete 3034907
+delete 3988377
+insert 8051093 90 2.3
+lookup 2569072
+delete 2801165
+delete 8978422
+delete 3705123
+lookup 3378195
+delete 1014351
+print
+delete 1963746
+delete 6135548
+lookup 7950405
+lookup 5892860
+insert 637329 34 2.3
+delete 103326
+insert 6233407 12 2.3
+lookup 9917126
+lookup 564685
+insert 5377620 49 2.3
+delete 8782344
+delete 7047034
+lookup 3257524
+insert 2088287 8 2.3
+lookup 7731283
+insert 8371411 87 2.3
+delete 2155566
+print
+insert 1289228 55 2.3
+lookup 8696486
+print
+print
+delete 1264897
+delete 9337924
+print
+print
+print
+delete 5705873
+insert 7514536 0 2.3
+print
+insert 2030154 33 2.3
+lookup 2807401
+lookup 5914791
+insert 774560 48 2.3
+print
+lookup 2384470
+delete 2369270
+delete 6225473
+delete 8701715
+insert 911290 97 2.3
+delete 8193967
+lookup 2490511
+lookup 3544469
+print
+lookup 2910939
+print
+print
+delete 979746
+insert 3212286 7 2.3
+print
+insert 3595085 10 2.3
+print
+lookup 1759454
+delete 6749000
+delete 5697318
+lookup 250947
+lookup 3494702
+delete 4094415
+delete 6416163
+delete 4355382
+insert 8268273 6 2.3
+insert 6311002 41 2.3
+insert 8830828 94 2.3
+lookup 9233947
+delete 239667
+insert 2504257 99 2.3
+lookup 1513483
+insert 8520302 78 2.3
+delete 2909708
+lookup 695732
+lookup 1870026
+lookup 8078735
+lookup 3295114
+lookup 9922131
+insert 7220578 79 2.3
+delete 4159814
+lookup 7775636
+lookup 1948347
+print
+lookup 1398279
+print
+insert 2415013 77 2.3
+lookup 3935826
+insert 361323 46 2.3
+insert 4871211 92 2.3
+insert 2628212 56 2.3
+lookup 4906019
+print
+print
+print
+print
+lookup 6953327
+delete 9953257
+print
+delete 1767423
+delete 826089
+delete 4079785
+delete 2840723
+delete 1278665
+delete 3896241
+print
+print
+delete 3177074
+delete 3651748
+insert 3034519 46 2.3
+delete 3193728
+delete 1960042
+insert 8260254 81 2.3
+insert 6648278 69 2.3
+delete 6750271
+print
+lookup 90392
+delete 3863592
+delete 2797508
+print
+lookup 3598363
+print
+print
+print
+insert 4260319 60 2.3
+print
+print
+lookup 2114283
+print
+delete 2123004
+print
+insert 8250675 93 2.3
+delete 8212766
+delete 1638073
+delete 4558643
+print
+lookup 673860
+lookup 3152565
+lookup 7964264
+insert 3953452 12 2.3
+insert 5332196 90 2.3
+delete 3970215
+insert 787842 64 2.3
+delete 8138703
+print
+delete 9593228
+print
+insert 6796783 16 2.3
+insert 8327655 66 2.3
+delete 3557771
+lookup 2719775
+lookup 9961909
+insert 233479 86 2.3
+delete 7592454
+print
+print
+print
+print
+insert 6234317 93 2.3
+insert 8050486 99 2.3
+print
+lookup 8091205
+delete 1885431
+delete 113251
+lookup 3975305
+insert 4835629 74 2.3
+insert 5071693 87 2.3
+delete 8116992
+insert 1545091 45 2.3
+insert 7895469 67 2.3
+delete 8208847
+insert 6915567 8 2.3
+insert 1526629 54 2.3
+delete 6955686
+insert 2886328 3 2.3
+delete 1015599
+print
+lookup 5272242
+insert 6013296 1 2.3
+delete 7778398
+print
+print
+print
+insert 7201057 31 2.3
+lookup 9862515
+lookup 4828765
+lookup 2802526
+delete 3467793
+insert 5379125 57 2.3
+print
+delete 7740387
+print
+insert 2232876 63 2.3
+print
+lookup 9793336
+delete 103397
+insert 4114152 19 2.3
+lookup 4750340
+lookup 3891072
+print
+print
+delete 4929225
+lookup 2975792
+insert 69777 86 2.3
+print
+delete 2497032
+print
+lookup 6134242
+lookup 1273352
+lookup 1623768
+lookup 5104199
+lookup 6395438
+insert 3692876 10 2.3
+insert 8501568 7 2.3
+print
+lookup 4129703
+lookup 8411775
+delete 1216812
+delete 3389972
+insert 3244848 70 2.3
+delete 691325
+print
+lookup 6643704
+delete 4088087
+delete 5376291
+lookup 233634
+insert 3856144 39 2.3
+print
+delete 5750213
+insert 9998261 39 2.3
+delete 5054567
+insert 8073673 24 2.3
+insert 839913 81 2.3
+insert 4145787 75 2.3
+lookup 161999
+delete 7802934
+delete 5553661
+delete 8714969
+print
+delete 3240329
+print
+delete 4796453
+print
+insert 215280 54 2.3
+delete 179862
+print
+lookup 7233302
+lookup 3509042
+insert 8629925 24 2.3
+print
+print
+delete 6365559
+delete 3182706
+print
+insert 3704147 5 2.3
+lookup 1100448
+lookup 7802966
+delete 4413037
+insert 5548038 99 2.3
+print
+print
+insert 8547616 37 2.3
+lookup 8201443
+insert 7123382 52 2.3
+delete 4018469
+delete 3829406
+insert 8801140 17 2.3
+lookup 5609049
+lookup 1567846
+delete 5212929
+insert 2678432 15 2.3
+delete 909600
+print
+print
+delete 8613001
+lookup 6207192
+print
+print
+insert 1080883 5 2.3
+delete 4420135
+delete 2957057
+delete 6202238
+insert 2638335 49 2.3
+insert 3204908 68 2.3
+insert 2845021 65 2.3
+lookup 8765538
+insert 9300608 87 2.3
+delete 2584172
+print
+delete 1749917
+print
+print
+insert 8724592 41 2.3
+print
+lookup 3855270
+lookup 5362979
+insert 3935546 81 2.3
+insert 2523190 88 2.3
+lookup 8345833
+insert 6123016 71 2.3
+insert 8753425 78 2.3
+lookup 6918986
+print
+print
+lookup 3005217
+insert 3808771 14 2.3
+lookup 446201
+delete 6807473
+insert 5081577 41 2.3
+print
+insert 1198014 74 2.3
+insert 9220351 25 2.3
+insert 4284368 38 2.3
+delete 820674
+delete 6638764
+delete 603682
+delete 8610741
+lookup 9609397
+delete 4632462
+print
+lookup 6220709
+delete 8351640
+print
+delete 7833360
+lookup 905048
+lookup 945828
+insert 8185255 58 2.3
+delete 2052432
+insert 1438013 98 2.3
+delete 1425634
+print
+lookup 852142
+print
+lookup 4781469
+insert 1327928 83 2.3
+insert 448953 5 2.3
+print
+print
+delete 7878613
+insert 4314212 38 2.3
+delete 6071731
+insert 7343862 34 2.3
+delete 7753397
+insert 9100395 9 2.3
+print
+insert 9278368 44 2.3
+lookup 8004651
+delete 1467130
+delete 6582846
+insert 7060535 15 2.3
+delete 4838571
+lookup 7222358
+lookup 2120005
+lookup 5275658
+print
+print
+print
+print
+print
+insert 2236130 19 2.3
+lookup 4438040
+lookup 6971260
+delete 7204005
+print
+insert 612978 38 2.3
+insert 4723126 15 2.3
+insert 8302224 44 2.3
+insert 7663052 67 2.3
+delete 163444
+delete 6667485
+insert 2347642 9 2.3
+print
+delete 3335139
+print
+lookup 3055938
+lookup 3743662
+insert 4555100 64 2.3
+print
+delete 9701195
+insert 407542 44 2.3
+lookup 2269849
+lookup 6959642
+delete 4514273
+delete 2231840
+print
+print
+print
+lookup 144677
+lookup 3930185
+insert 623586 24 2.3
+insert 9623096 11 2.3
+insert 6943353 16 2.3
+print
+lookup 7154490
+print
+delete 7341199
+print
+print
+print
+delete 2552097
+delete 5076040
+delete 4949659
+delete 7104288
+insert 1939817 54 2.3
+delete 3425919
+delete 6983688
+delete 5929245
+print
+insert 1063105 19 2.3
+print
+delete 734243
+lookup 9297020
+print
+print
+delete 9220942
+lookup 1462683
+delete 2227859
+lookup 2480662
+print
+insert 518330 48 2.3
+insert 4054519 71 2.3
+print
+delete 5357998
+delete 2867350
+insert 710784 94 2.3
+lookup 7811623
+insert 8409017 16 2.3
+print
+print
+lookup 9138853
+delete 551400
+insert 419319 15 2.3
+delete 8840959
+delete 4690871
+lookup 9802228
+lookup 8103760
+print
+insert 8361731 17 2.3
+insert 6128172 98 2.3
+lookup 633373
+insert 7226336 70 2.3
+lookup 7028815
+insert 5482680 92 2.3
+insert 6908641 29 2.3
+print
+lookup 544600
+print
+insert 9356260 74 2.3
+print
+delete 4181568
+print
+insert 957976 33 2.3
+delete 4718892
+print
+print
+print
+lookup 2384340
+print
+delete 2200139
+insert 4336287 48 2.3
+lookup 5405154
+insert 9710697 70 2.3
+lookup 5690478
+lookup 5776009
+insert 3130721 60 2.3
+print
+insert 1115211 63 2.3
+insert 25811 8 2.3
+insert 6712021 94 2.3
+insert 7073711 88 2.3
+delete 2494718
+insert 620637 81 2.3
+insert 1392891 1 2.3
+delete 7941455
+delete 5097147
+print
+insert 8874632 47 2.3
+insert 550443 77 2.3
+print
+delete 155433
+delete 7620843
+insert 7890353 5 2.3
+print
+insert 9668422 69 2.3
+lookup 8377577
+lookup 2393042
+print
+lookup 679938
+delete 824212
+delete 7175106
+insert 5942514 85 2.3
+delete 8232194
+lookup 8763475
+lookup 5357954
+lookup 9245107
+print
+insert 5872718 98 2.3
+print
+insert 3505020 33 2.3
+insert 9938876 0 2.3
+insert 2680349 35 2.3
+delete 1860075
+print
+print
+insert 4256130 84 2.3
+lookup 8268957
+print
+delete 6913361
+lookup 1972263
+print
+print
+delete 1347241
+delete 613271
+delete 5112466
+print
+print
+insert 1561573 54 2.3
+print
+delete 4142276
+insert 8947342 87 2.3
+delete 7214003
+insert 2690684 5 2.3
+insert 5323916 62 2.3
+lookup 1458754
+delete 7237801
+print
+insert 8281259 22 2.3
+print
+insert 566868 74 2.3
+insert 6340330 59 2.3
+lookup 7444667
+print
+delete 5212727
+delete 8175945
+lookup 7151468
+lookup 4022434
+delete 9095339
+lookup 1193551
+lookup 3700224
+print
+insert 5339402 92 2.3
+lookup 4862224
+lookup 7858632
+print
+delete 5963125
+delete 6385083
+print
+insert 4289473 24 2.3
+insert 1009174 82 2.3
+print
+print
+lookup 4117476
+print
+insert 3889167 59 2.3
+lookup 8972273
+lookup 9992785
+delete 1313934
+delete 4125587
+delete 6866369
+print
+insert 6270835 94 2.3
+lookup 4047909
+delete 7866487
+print
+print
+insert 4420865 54 2.3
+delete 557737
+delete 4764330
+delete 1876650
+insert 1629136 41 2.3
+lookup 4099941
+print
+delete 4628725
+lookup 4400817
+lookup 8547957
+delete 2906956
+lookup 9838143
+delete 1001225
+print
+print
+lookup 6800564
+insert 7445741 26 2.3
+print
+insert 5531740 7 2.3
+insert 2656959 70 2.3
+print
+delete 769421
+delete 4042091
+delete 4212675
+delete 4323064
+lookup 5520496
+lookup 6530778
+insert 6741004 81 2.3
+insert 1542345 70 2.3
+lookup 4482615
+lookup 8354892
+print
+insert 6238689 1 2.3
+insert 5665660 29 2.3
+print
+delete 7882195
+lookup 852182
+print
+insert 7993354 3 2.3
+delete 2351603
+lookup 8047522
+delete 8048273
+lookup 8986624
+lookup 1975129
+lookup 9414478
+print
+delete 2205803
+delete 3984453
+print
+print
+delete 4897073
+lookup 2338594
+insert 2599952 97 2.3
+lookup 1641255
+delete 4024228
+print
+print
+delete 7205853
+lookup 5797158
+lookup 6303699
+lookup 4653718
+delete 2286872
+insert 7006082 62 2.3
+delete 9967316
+insert 1747459 86 2.3
+lookup 3932110
+lookup 928242
+insert 9283471 73 2.3
+print
+print
+insert 2752031 53 2.3
+delete 7259179
+print
+print
+delete 4860540
+lookup 3635263
+insert 3644312 96 2.3
+print
+insert 5570007 57 2.3
+lookup 8480303
+delete 8730060
+delete 7565376
+insert 5255506 43 2.3
+insert 5149002 9 2.3
+lookup 5549110
+delete 1225216
+lookup 3073366
+insert 554980 65 2.3
+insert 1834864 87 2.3
+print
+delete 9202687
+lookup 5068778
+lookup 1600241
+print
+print
+insert 4155929 71 2.3
+delete 8918766
+insert 1466181 95 2.3
+lookup 6739126
+insert 5628717 6 2.3
+delete 5285598
+lookup 2189216
+delete 5786883
+insert 3118967 98 2.3
+lookup 170944
+delete 1463586
+print
+insert 3879164 22 2.3
+lookup 601771
+print
+print
+delete 3464162
+insert 5872126 89 2.3
+lookup 5211686
+lookup 3764079
+lookup 7208784
+print
+lookup 4996763
+print
+print
+delete 5948484
+lookup 276384
+print
+lookup 291916
+print
+insert 9354265 92 2.3
+insert 4564439 67 2.3
+insert 1044853 71 2.3
+delete 8391304
+insert 1364896 35 2.3
+delete 3834730
+insert 3795305 71 2.3
+lookup 8663697
+delete 5496329
+delete 9780935
+lookup 8320457
+insert 2231618 87 2.3
+lookup 1969555
+insert 7377173 78 2.3
+print
+insert 311113 71 2.3
+insert 9352050 74 2.3
+insert 3934709 18 2.3
+lookup 9506559
+lookup 8846386
+delete 3121912
+print
+lookup 8339724
+delete 9684797
+print
+lookup 9056752
+insert 8412707 81 2.3
+lookup 6581929
+insert 7301992 2 2.3
+delete 3682791
+lookup 9185394
+print
+print
+print
+print
+lookup 4235156
+delete 3190303
+lookup 9479127
+delete 7969247
+delete 7676908
+delete 8887532
+lookup 6646851
+insert 6849419 61 2.3
+lookup 1786134
+lookup 5619446
+insert 644662 6 2.3
+lookup 4750243
+insert 2074354 57 2.3
+print
+insert 19894 16 2.3
+insert 2490637 48 2.3
+delete 7769147
+delete 5589722
+lookup 4421374
+lookup 2449767
+delete 4007907
+print
+delete 5211343
+insert 9458775 41 2.3
+insert 2161967 71 2.3
+print
+insert 7504160 27 2.3
+insert 3572885 30 2.3
+insert 3012446 41 2.3
+print
+print
+lookup 7731630
+insert 9610655 28 2.3
+lookup 616580
+insert 3267305 11 2.3
+insert 995278 31 2.3
+lookup 3840361
+print
+print
+lookup 9002301
+insert 4080682 48 2.3
+lookup 6226729
+insert 6662742 1 2.3
+insert 429329 37 2.3
+delete 5419891
+print
+delete 7237861
+print
+lookup 7028530
+insert 2664339 62 2.3
+lookup 6971007
+insert 6829454 39 2.3
+insert 9537349 10 2.3
+insert 1582821 85 2.3
+delete 1689724
+print
+insert 1775183 73 2.3
+lookup 3116121
+delete 4802183
+lookup 3993884
+lookup 6377681
+print
+insert 1294293 2 2.3
+insert 4323102 66 2.3
+print
+delete 5430813
+delete 5341877
+lookup 5365271
+print
+insert 2113524 20 2.3
+insert 1757698 53 2.3
+lookup 1434548
+insert 9820160 54 2.3
+delete 159699
+delete 1742539
+insert 4887449 16 2.3
+delete 3462844
+lookup 3330301
+print
+insert 9395394 92 2.3
+print
+print
+insert 112980 20 2.3
+lookup 8474437
+delete 4401362
+print
+print
+delete 368017
+print
+lookup 6993173
+lookup 971069
+lookup 3486224
+insert 6491724 75 2.3
+lookup 6475110
+insert 7299039 77 2.3
+lookup 771663
+insert 5627079 12 2.3
+insert 2815879 4 2.3
+lookup 6609051
+lookup 8173083
+delete 5763337
+insert 5908979 92 2.3
+delete 6160231
+insert 8170975 23 2.3
+delete 8846256
+delete 1873026
+print
+insert 4859738 92 2.3
+delete 1330650
+print
+print
+print
+insert 7230890 58 2.3
+lookup 7117023
+lookup 4212025
+insert 9549504 80 2.3
+print
+print
+insert 3807801 50 2.3
+delete 4844131
+insert 5957618 30 2.3
+lookup 7730839
+lookup 3330978
+delete 3920498
+delete 1118098
+insert 6015781 13 2.3
+insert 7132293 34 2.3
+insert 5413478 99 2.3
+print
+delete 3262492
+print
+insert 8699653 45 2.3
+lookup 8178923
+print
+print
+delete 2020219
+print
+lookup 3774982
+print
+delete 4035846
+delete 6913126
+delete 8718885
+insert 9443938 56 2.3
+insert 2894728 12 2.3
+insert 8758740 75 2.3
+insert 3395218 2 2.3
+lookup 7638843
+print
+print
+lookup 4413747
+lookup 8216128
+delete 8516332
+insert 5022179 61 2.3
+print
+insert 2254019 89 2.3
+delete 5488342
+insert 6740148 80 2.3
+insert 8233024 58 2.3
+delete 4632289
+print
+insert 2265136 29 2.3
+print
+delete 8563515
+lookup 281404
+print
+delete 8276352
+lookup 7135401
+print
+delete 113652
+lookup 394681
+lookup 7029670
+insert 5752044 40 2.3
+delete 4215045
+insert 901685 45 2.3
+delete 4537338
+print
+delete 8953041
+delete 1571565
+lookup 9074132
+lookup 3057513
+print
+print
+insert 4083581 52 2.3
+insert 122815 54 2.3
+insert 2411950 47 2.3
+delete 2132920
+insert 4847031 3 2.3
+delete 8844602
+insert 4271695 67 2.3
+lookup 7297024
+print
+lookup 5505221
+delete 5453593
+print
+lookup 9946488
+delete 3095788
+insert 4510772 39 2.3
+print
+delete 4264421
+delete 985972
+print
+lookup 6384454
+lookup 9365140
+delete 9891911
+print
+print
+lookup 2200333
+insert 9851070 78 2.3
+lookup 816805
+delete 7341898
+delete 8179597
+delete 8174134
+insert 6422134 39 2.3
+delete 8670471
+insert 6719831 89 2.3
+lookup 4954572
+delete 9953427
+print
+print
+insert 7327854 52 2.3
+delete 5204791
+insert 1340072 75 2.3
+lookup 3346700
+print
+delete 6396865
+insert 5263400 23 2.3
+lookup 1436051
+delete 8372912
+insert 1103334 12 2.3
+insert 4985277 43 2.3
+delete 6709479
+print
+insert 1794 56 2.3
+insert 6190140 22 2.3
+print
+delete 9481352
+print
+delete 2043650
+lookup 4329477
+print
+lookup 488554
+print
+print
+delete 4351205
+delete 6988450
+lookup 8158298
+lookup 9707439
+insert 6674848 74 2.3
+print
+insert 6245475 12 2.3
+lookup 2890687
+delete 8105329
+print
+lookup 3260056
+delete 1675836
+insert 6892113 36 2.3
+delete 3362154
+print
+insert 4476098 54 2.3
+insert 7118487 42 2.3
+lookup 6277596
+lookup 6516293
+print
+print
+insert 7039335 41 2.3
+insert 5295490 87 2.3
+delete 3009891
+lookup 2372561
+lookup 2151940
+insert 3354915 61 2.3
+lookup 5617830
+delete 2947434
+print
+lookup 1720034
+lookup 9475024
+print
+lookup 1539609
+delete 6199207
+print
+print
+insert 940859 85 2.3
+delete 2878707
+delete 6394404
+delete 1164354
+delete 7184274
+print
+lookup 5392220
+lookup 71167
+lookup 6247053
+lookup 7845210
+print
+lookup 7839714
+lookup 5961008
+insert 6023639 78 2.3
+print
+delete 8176883
+delete 9199927
+lookup 8307392
+delete 6863297
+delete 2330369
+print
+lookup 7802336
+lookup 5609436
+insert 997404 62 2.3
+delete 4611471
+print
+delete 8584335
+lookup 5529836
+lookup 8260262
+insert 7654081 92 2.3
+lookup 9222281
+print
+delete 4491228
+lookup 6940255
+lookup 1824220
+delete 3919262
+delete 7137365
+delete 4861423
+lookup 5290731
+print
+delete 4291358
+print
+print
+print
+lookup 7597640
+insert 1545672 29 2.3
+insert 3172660 18 2.3
+delete 2765129
+insert 9548722 0 2.3
+lookup 2392860
+delete 1989327
+print
+insert 6945441 54 2.3
+print
+print
+insert 9323553 36 2.3
+lookup 8500524
+lookup 8478173
+delete 3806973
+lookup 2250024
+delete 7584891
+print
+insert 6314673 71 2.3
+insert 6504898 22 2.3
+insert 1555878 66 2.3
+insert 7428790 10 2.3
+lookup 9277866
+lookup 7977915
+lookup 6825644
+print
+delete 27292
+insert 164626 24 2.3
+insert 1586689 50 2.3
+print
+insert 257109 53 2.3
+print
+lookup 2078131
+print
+delete 8790650
+lookup 6993809
+lookup 6961242
+print
+delete 2765994
+print
+print
+print
+print
+print
+insert 6009015 34 2.3
+print
+delete 8496221
+delete 4756854
+insert 6479915 99 2.3
+insert 507764 4 2.3
+print
+print
+delete 733320
+delete 2857607
+insert 4941411 45 2.3
+delete 7934762
+insert 4767805 80 2.3
+delete 996148
+lookup 2469827
+print
+print
+print
+lookup 1132508
+lookup 6705660
+delete 2725467
+print
+insert 399981 0 2.3
+delete 967654
+insert 413539 48 2.3
+insert 5080864 55 2.3
+delete 7911742
+delete 8085824
+insert 6526813 94 2.3
+delete 930547
+delete 1733116
+print
+insert 964252 96 2.3
+print
+insert 1860483 79 2.3
+lookup 5028769
+delete 4590417
+delete 3563970
+print
+lookup 6255141
+print
+lookup 7321420
+delete 9381103
+insert 2366758 64 2.3
+insert 4104702 35 2.3
+lookup 5700585
+lookup 2744569
+lookup 8880698
+insert 6130164 15 2.3
+insert 4671989 19 2.3
+insert 1084575 72 2.3
+print
+delete 2323769
+insert 5613070 67 2.3
+delete 5265374
+lookup 5078685
+print
+lookup 9132020
+delete 104274
+delete 7855284
+lookup 9210613
+delete 5644864
+print
+print
+delete 8223299
+lookup 5612419
+lookup 8582199
+lookup 3964700
+delete 3656790
+print
+print
+delete 473605
+insert 3168117 48 2.3
+insert 3014034 50 2.3
+insert 10000944 5 2.3
+delete 8049358
+insert 6292970 82 2.3
+lookup 1957140
+insert 3164369 94 2.3
+insert 7142255 25 2.3
+print
+lookup 7684427
+insert 6678171 75 2.3
+delete 4776733
+insert 7976857 28 2.3
+delete 120936
+insert 3515238 96 2.3
+print
+print
+lookup 6360266
+insert 9638911 33 2.3
+lookup 6826229
+lookup 9414556
+delete 7650424
+print
+insert 923984 86 2.3
+lookup 2177865
+lookup 5511846
+lookup 7599978
+delete 5125592
+lookup 1569452
+lookup 6312327
+lookup 1947611
+insert 3238402 12 2.3
+insert 4600187 35 2.3
+delete 3602231
+lookup 773223
+delete 1452715
+print
+lookup 5789545
+delete 9816077
+print
+print
+insert 5344456 48 2.3
+print
+lookup 7492477
+insert 8199316 40 2.3
+lookup 3193613
+lookup 279009
+print
+print
+lookup 9460782
+delete 2896206
+lookup 495457
+insert 6769749 46 2.3
+insert 8324285 59 2.3
+lookup 3098227
+lookup 9708388
+delete 3083764
+lookup 6627837
+delete 7551401
+insert 8881595 9 2.3
+print
+insert 1487387 56 2.3
+lookup 4593928
+lookup 9490910
+insert 4519280 91 2.3
+print
+print
+insert 8546490 92 2.3
+lookup 2418355
+delete 5881496
+lookup 6172319
+delete 4110704
+print
+insert 7523313 32 2.3
+insert 704930 49 2.3
+delete 6978697
+print
+insert 9955714 78 2.3
+insert 8713190 70 2.3
+delete 4366074
+print
+insert 719482 96 2.3
+delete 4501064
+insert 4771854 88 2.3
+insert 9749502 77 2.3
+insert 1775142 92 2.3
+lookup 9552951
+print
+delete 9843509
+insert 2753318 91 2.3
+delete 2874487
+lookup 7169607
+print
+print
+print
+insert 9982573 88 2.3
+insert 1522853 89 2.3
+print
+delete 6481422
+insert 110538 14 2.3
+delete 9444901
+insert 4853514 15 2.3
+lookup 3619169
+insert 3061291 39 2.3
+delete 967741
+print
+lookup 5420833
+insert 1049564 68 2.3
+delete 4531425
+lookup 8752984
+print
+print
+print
+lookup 1697171
+insert 9975297 76 2.3
+insert 863625 34 2.3
+lookup 6390263
+insert 5355150 26 2.3
+insert 1919420 83 2.3
+insert 5142250 2 2.3
+lookup 3467149
+print
+delete 4156942
+print
+print
+print
+delete 6635613
+delete 2250425
+insert 4892026 19 2.3
+print
+print
+lookup 2628490
+delete 5513360
+insert 5233135 69 2.3
+print
+print
+lookup 8990807
+insert 2516497 41 2.3
+delete 8532579
+delete 4426423
+delete 5811808
+delete 7392403
+delete 464760
+insert 333031 21 2.3
+insert 2747071 47 2.3
+lookup 6674474
+insert 9282821 81 2.3
+delete 8658452
+lookup 9577144
+insert 4705274 91 2.3
+lookup 2128876
+delete 5940972
+lookup 6823162
+print
+delete 9279207
+print
+insert 7634088 63 2.3
+lookup 8328063
+lookup 374058
+insert 3329280 40 2.3
+print
+print
+print
+insert 1635765 90 2.3
+delete 215065
+print
+lookup 74930
+print
+lookup 1782428
+lookup 8139168
+print
+delete 301306
+print
+print
+lookup 4266455
+lookup 1065140
+lookup 4864479
+print
+lookup 4847675
+print
+delete 3031555
+print
+lookup 826218
+delete 6182969
+insert 981397 97 2.3
+lookup 5760855
+lookup 8242536
+insert 8239599 25 2.3
+insert 7574995 98 2.3
+print
+delete 627197
+insert 8194884 41 2.3
+delete 424579
+print
+insert 8111477 65 2.3
+insert 2217893 14 2.3
+print
+print
+delete 809893
+insert 3437886 45 2.3
+print
+print
+insert 9954762 8 2.3
+delete 8232244
+insert 5649834 87 2.3
+insert 4141103 68 2.3
+delete 6778368
+delete 896335
+lookup 3529757
+lookup 3922874
+insert 5244576 90 2.3
+insert 4034977 85 2.3
+lookup 1127521
+lookup 5325693
+print
+delete 1360208
+insert 988164 40 2.3
+delete 4941017
+lookup 9184484
+insert 802360 32 2.3
+lookup 7586431
+print
+insert 206640 29 2.3
+delete 437952
+insert 5568336 66 2.3
+print
+lookup 8598588
+lookup 3429754
+lookup 6786489
+insert 1392186 17 2.3
+print
+delete 661190
+insert 988712 8 2.3
+lookup 8951178
+delete 6923898
+insert 9703672 82 2.3
+lookup 4861379
+lookup 7121393
+print
+print
+print
+lookup 229926
+insert 721775 71 2.3
+print
+insert 2672886 23 2.3
+insert 1417176 88 2.3
+print
+delete 9764997
+lookup 3381746
+print
+print
+insert 2945654 16 2.3
+insert 1275913 29 2.3
+insert 2494129 7 2.3
+insert 3746633 0 2.3
+print
+print
+insert 7850380 71 2.3
+lookup 1065268
+insert 1228330 40 2.3
+insert 20574 68 2.3
+delete 2521210
+print
+print
+print
+delete 3652174
+lookup 2236452
+delete 5222433
+lookup 4923847
+delete 7188595
+print
+insert 7077801 18 2.3
+lookup 1869283
+print
+print
+delete 2458593
+delete 7254823
+delete 8332100
+insert 315489 90 2.3
+print
+delete 9051350
+insert 6418367 59 2.3
+print
+print
+print
+delete 7264834
+insert 2072263 80 2.3
+delete 7333638
+insert 1483292 87 2.3
+insert 9477762 53 2.3
+delete 3180861
+insert 2944852 55 2.3
+delete 9017785
+lookup 8601738
+lookup 6072113
+delete 360929
+print
+lookup 759053
+insert 1690606 93 2.3
+insert 2969916 36 2.3
+lookup 1837433
+insert 3507932 24 2.3
+insert 713926 29 2.3
+delete 3042980
+print
+print
+insert 1597985 8 2.3
+insert 7235181 5 2.3
+print
+lookup 295025
+insert 7434371 62 2.3
+print
+delete 9804755
+print
+print
+delete 5488400
+lookup 8779298
+lookup 6254297
+lookup 8974171
+insert 2077661 72 2.3
+delete 4623813
+insert 8145141 99 2.3
+delete 2947850
+insert 3636246 64 2.3
+lookup 845294
+print
+lookup 9706308
+insert 5225081 92 2.3
+print
+delete 3864786
+print
+lookup 4514415
+print
+insert 5733066 33 2.3
+lookup 5745091
+insert 8249875 66 2.3
+lookup 2274429
+lookup 1946505
+insert 4400810 3 2.3
+lookup 4130425
+print
+delete 5505170
+print
+lookup 7625652
+insert 3645919 41 2.3
+lookup 4857783
+lookup 3239985
+print
+print
+print
+delete 719544
+lookup 7647108
+insert 3067714 70 2.3
+lookup 5182028
+delete 2632281
+print
+print
+lookup 9644837
+delete 1033930
+delete 3454751
+delete 6956031
+lookup 6476623
+delete 2671682
+print
+print
+lookup 7974360
+print
+delete 7909163
+insert 7547244 84 2.3
+delete 8124019
+print
+print
+print
+delete 8986746
+delete 9665973
+print
+delete 6070976
+delete 6018716
+lookup 9079672
+insert 7164596 43 2.3
+print
+insert 7104285 57 2.3
+insert 1320641 90 2.3
+lookup 164796
+delete 711090
+print
+lookup 6787565
+print
+delete 3868267
+delete 919964
+print
+insert 1580200 69 2.3
+delete 4031930
+delete 1715556
+lookup 8559997
+lookup 5784749
+print
+insert 1940420 31 2.3
+insert 1078166 12 2.3
+lookup 816517
+print
+delete 2531745
+delete 8115175
+print
+insert 6520285 75 2.3
+print
+delete 4508858
+print
+delete 9637025
+insert 3519649 8 2.3
+lookup 3106714
+lookup 3359360
+print
+delete 8888798
+print
+insert 5337706 83 2.3
+lookup 8531350
+lookup 3784561
+delete 3452114
+delete 8558918
+lookup 9892079
+insert 613311 76 2.3
+print
+lookup 4472228
+lookup 2257863
+lookup 5814319
+delete 1376406
+delete 324045
+lookup 4261349
+insert 2407022 40 2.3
+insert 882386 41 2.3
+lookup 387300
+delete 1501385
+lookup 9605980
+print
+print
+insert 2210805 97 2.3
+insert 4034128 61 2.3
+delete 4811214
+insert 5683757 9 2.3
+lookup 5552189
+delete 3292646
+delete 9668856
+insert 4985320 14 2.3
+print
+delete 3727855
+insert 6078134 12 2.3
+print
+lookup 2402377
+delete 4736942
+print
+print
+insert 2223084 90 2.3
+delete 3566270
+delete 9551719
+lookup 8066907
+lookup 2531997
+insert 2027823 59 2.3
+lookup 3828252
+print
+insert 9321305 44 2.3
+print
+lookup 9516292
+delete 6905638
+insert 9483143 95 2.3
+print
+delete 8853860
+lookup 903327
+insert 4204118 52 2.3
+insert 171918 98 2.3
+insert 8644622 89 2.3
+insert 1906413 1 2.3
+lookup 3278992
+print
+insert 4335196 20 2.3
+insert 8161179 84 2.3
+insert 3259222 2 2.3
+delete 9675766
+insert 997802 79 2.3
+delete 42722
+lookup 602263
+insert 8092506 66 2.3
+lookup 3205412
+insert 2138699 53 2.3
+delete 8509129
+lookup 942871
+insert 6407394 83 2.3
+lookup 1059955
+print
+lookup 9600101
+print
+delete 1560392
+lookup 3298349
+insert 7238957 98 2.3
+insert 2254697 36 2.3
+print
+print
+delete 3806937
+print
+delete 1801704
+print
+delete 2589693
+print
+print
+delete 8530401
+lookup 6103358
+insert 7734289 75 2.3
+delete 5482108
+lookup 4564919
+lookup 2175352
+lookup 6056991
+delete 667591
+delete 5362131
+print
+lookup 9640806
+print
+lookup 1973987
+print
+delete 1431144
+print
+delete 5936350
+insert 7819041 73 2.3
+insert 1038839 56 2.3
+delete 748066
+delete 1123130
+print
+lookup 2667241
+insert 5708179 87 2.3
+print
+insert 4406999 41 2.3
+print
+lookup 3464519
+print
+delete 7013591
+delete 460799
+lookup 5755834
+insert 5745318 97 2.3
+lookup 5927111
+lookup 5689153
+lookup 6873473
+insert 9523060 85 2.3
+print
+lookup 7412164
+delete 6009820
+delete 3141628
+lookup 6600467
+print
+delete 9422906
+print
+insert 2413818 82 2.3
+insert 4986646 27 2.3
+print
+print
+delete 2974952
+print
+print
+lookup 4389147
+lookup 4055924
+lookup 5395334
+print
+delete 6446748
+insert 5575340 90 2.3
+print
+insert 9998496 62 2.3
+print
+lookup 2319162
+lookup 4194802
+print
+delete 5147576
+delete 2631443
+insert 8814209 77 2.3
+delete 3640192
+insert 1637920 25 2.3
+delete 3376085
+lookup 8138765
+insert 4982695 55 2.3
+insert 5360820 87 2.3
+delete 2075453
+delete 6210276
+delete 2462189
+print
+print
+print
+delete 8083720
+lookup 7219757
+insert 845134 37 2.3
+insert 5401133 32 2.3
+print
+print
+delete 4822930
+delete 5214635
+print
+lookup 7994811
+insert 8755790 39 2.3
+print
+insert 2854516 7 2.3
+delete 8242674
+lookup 3619487
+delete 4594423
+insert 9675645 21 2.3
+delete 9206286
+insert 7362830 0 2.3
+print
+delete 3166621
+lookup 2463229
+insert 4515856 22 2.3
+print
+insert 5655620 8 2.3
+insert 9681352 79 2.3
+print
+delete 165748
+delete 9013939
+insert 4817816 24 2.3
+delete 482338
+insert 969682 78 2.3
+print
+print
+insert 68981 23 2.3
+print
+lookup 8727001
+lookup 2827971
+print
+delete 4115679
+lookup 8563133
+insert 5096627 23 2.3
+insert 7674846 93 2.3
+lookup 6315162
+lookup 8006241
+insert 8283853 28 2.3
+lookup 5510789
+insert 2087508 52 2.3
+lookup 475205
+delete 1937644
+lookup 5889588
+print
+delete 943467
+insert 6225354 21 2.3
+print
+print
+delete 5170833
+insert 1046637 51 2.3
+delete 3767895
+insert 1619612 28 2.3
+print
+delete 8012737
+print
+delete 6482307
+insert 7809818 91 2.3
+print
+insert 1517924 37 2.3
+insert 7110614 89 2.3
+delete 5364369
+lookup 8783869
+print
+lookup 5538804
+delete 9297154
+lookup 461682
+lookup 8541643
+lookup 462038
+lookup 5759439
+insert 5442811 81 2.3
+print
+print
+insert 4357641 87 2.3
+delete 8587403
+delete 8883339
+delete 9461167
+lookup 7084636
+lookup 9547200
+print
+delete 230976
+insert 4041295 60 2.3
+lookup 6813414
+delete 325514
+lookup 3260693
+insert 6313673 36 2.3
+print
+delete 3511644
+delete 542125
+lookup 5100031
+insert 4539357 76 2.3
+print
+print
+delete 9794965
+insert 3440930 79 2.3
+print
+lookup 7987581
+delete 6988368
+delete 2097765
+print
+lookup 152477
+lookup 281593
+print
+insert 5543497 29 2.3
+delete 8504533
+lookup 6287687
+print
+delete 955208
+delete 4365836
+print
+lookup 9122528
+insert 8505643 32 2.3
+print
+insert 172118 23 2.3
+insert 7539503 57 2.3
+lookup 5014386
+lookup 9593794
+lookup 8309402
+print
+insert 5150758 38 2.3
+print
+lookup 273838
+delete 9500588
+delete 8041023
+print
+insert 6809617 63 2.3
+print
+lookup 5965778
+delete 5263588
+print
+lookup 7364547
+delete 2726149
+insert 1395600 6 2.3
+lookup 4121214
+lookup 59008
+delete 248484
+insert 5599668 28 2.3
+insert 8620948 9 2.3
+lookup 6835755
+print
+delete 7024803
+insert 1621858 49 2.3
+insert 2184107 56 2.3
+print
+delete 3872898
+insert 2651071 16 2.3
+print
+lookup 3296658
+delete 616156
+insert 4398119 64 2.3
+insert 6873072 95 2.3
+delete 3464970
+delete 4800738
+print
+insert 1738233 92 2.3
+delete 4691471
+lookup 4667589
+insert 4955527 21 2.3
+print
+insert 4894126 28 2.3
+lookup 4423085
+insert 2513532 80 2.3
+print
+insert 9008532 1 2.3
+insert 7843267 30 2.3
+insert 1306433 2 2.3
+lookup 7946345
+insert 6012564 78 2.3
+print
+insert 1713923 7 2.3
+print
+delete 4191706
+lookup 4245390
+print
+print
+print
+delete 833484
+delete 2951409
+insert 3347692 51 2.3
+lookup 4794314
+delete 5983590
+delete 4330478
+insert 2873192 85 2.3
+lookup 5444020
+insert 8644590 99 2.3
+lookup 8912905
+delete 3181025
+print
+insert 678027 27 2.3
+insert 6585514 0 2.3
+lookup 1540422
+lookup 479699
+lookup 6355903
+insert 1504352 95 2.3
+insert 9868211 93 2.3
+insert 3697592 97 2.3
+lookup 7080045
+insert 3786 26 2.3
+insert 2406853 58 2.3
+insert 7486932 90 2.3
+print
+lookup 9094566
+insert 8951141 50 2.3
+delete 4761650
+insert 2799086 84 2.3
+lookup 6309356
+delete 1559217
+print
+lookup 2376214
+print
+insert 756430 71 2.3
+print
+delete 6058013
+lookup 5083516
+print
+delete 5732580
+lookup 8826673
+lookup 3913595
+print
+lookup 6818203
+delete 41392
+insert 8670360 16 2.3
+delete 4083577
+delete 4915418
+print
+print
+delete 8636462
+lookup 2755671
+lookup 3116401
+insert 2663559 75 2.3
+lookup 5064643
+delete 7565998
+delete 472630
+lookup 9145841
+insert 5014390 56 2.3
+print
+insert 7723358 11 2.3
+insert 6453375 16 2.3
+insert 5716380 34 2.3
+delete 992907
+print
+lookup 5478870
+print
+lookup 3906501
+lookup 3285326
+lookup 4275095
+insert 7142520 31 2.3
+insert 823991 52 2.3
+print
+delete 562661
+delete 8536399
+insert 2989228 86 2.3
+delete 1542469
+lookup 4508728
+print
+insert 9576743 63 2.3
+lookup 5385232
+print
+delete 6365790
+insert 6446673 13 2.3
+lookup 6306531
+delete 1925563
+print
+insert 1899038 21 2.3
+delete 5688285
+print
+print
+insert 2248403 47 2.3
+delete 9617017
+print
+print
+lookup 656451
+insert 5591375 86 2.3
+delete 7744090
+delete 978504
+insert 9670788 79 2.3
+print
+lookup 211799
+delete 2157633
+delete 6987741
+lookup 5371337
+print
+delete 5339261
+lookup 501926
+delete 415174
+lookup 531401
+delete 2090753
+delete 4578292
+delete 4233721
+delete 7173978
+print
+lookup 8454030
+delete 3620366
+print
+insert 6967000 19 2.3
+lookup 2666318
+delete 2502281
+lookup 4281343
+lookup 498571
+delete 5528575
+delete 2235122
+print
+delete 32072
+delete 921171
+print
+lookup 5135981
+print
+delete 5683843
+delete 8649787
+print
+lookup 2675022
+print
+insert 1533737 0 2.3
+print
+insert 3781785 34 2.3
+print
+insert 4819468 72 2.3
+insert 6953429 16 2.3
+print
+delete 6979539
+delete 1103903
+print
+lookup 9161071
+lookup 2755864
+print
+delete 9210573
+print
+insert 3543830 76 2.3
+print
+lookup 1965834
+delete 3188416
+lookup 5380416
+lookup 7453178
+insert 3891212 60 2.3
+print
+insert 5195142 54 2.3
+delete 6246960
+delete 5994659
+print
+delete 2411648
+insert 9171396 49 2.3
+delete 7345614
+lookup 1037097
+lookup 965434
+delete 7866733
+insert 5036459 88 2.3
+delete 6924798
+lookup 9891993
+print
+print
+lookup 2682729
+lookup 2719205
+delete 5416746
+lookup 7713450
+insert 4836509 90 2.3
+delete 4133900
+lookup 3581626
+print
+lookup 6353099
+print
+insert 2581267 24 2.3
+print
+print
+print
+delete 1759679
+print
+delete 2476386
+print
+print
+print
+delete 6566127
+print
+print
+print
+delete 3644547
+insert 1672536 74 2.3
+lookup 194696
+insert 8786034 33 2.3
+delete 1586654
+print
+print
+insert 4985932 4 2.3
+delete 9730391
+print
+insert 8958515 9 2.3
+insert 3722743 99 2.3
+lookup 9115959
+delete 9183145
+delete 6899670
+delete 7789751
+delete 1170326
+insert 7365064 68 2.3
+print
+lookup 9070294
+delete 284587
+print
+print
+lookup 8310678
+lookup 916704
+delete 2595032
+insert 2183630 58 2.3
+delete 2196984
+lookup 5436239
+insert 394920 97 2.3
+print
+lookup 580101
+lookup 5047400
+print
+insert 8151559 87 2.3
+lookup 4723781
+delete 7000573
+delete 6255184
+delete 5545480
+delete 7648453
+delete 5486135
+lookup 1836170
+lookup 8417138
+insert 4894303 88 2.3
+lookup 6692731
+delete 1859763
+print
+print
+delete 3736718
+insert 2584011 8 2.3
+delete 7556943
+lookup 5724054
+delete 3986623
+insert 7128831 3 2.3
+insert 9910992 9 2.3
+print
+delete 3888676
+lookup 1850468
+print
+insert 1971684 2 2.3
+print
+insert 4457633 65 2.3
+lookup 9366003
+print
+delete 4455223
+delete 1879642
+insert 121636 83 2.3
+delete 4437007
+insert 153636 17 2.3
+insert 6030987 14 2.3
+delete 2514392
+insert 9357251 9 2.3
+lookup 6386454
+lookup 9542472
+print
+print
+lookup 272789
+delete 1737163
+lookup 2276794
+lookup 3374535
+delete 3354931
+insert 6563631 32 2.3
+lookup 54784
+lookup 2696285
+insert 3918994 42 2.3
+lookup 1894389
+lookup 7907002
+delete 8794401
+delete 5126000
+lookup 5461829
+lookup 565931
+print
+insert 1913317 35 2.3
+insert 264847 10 2.3
+delete 1838462
+delete 3987819
+print
+print
+insert 5511152 76 2.3
+delete 6783498
+delete 8037623
+delete 8286213
+insert 4154757 76 2.3
+insert 3900637 73 2.3
+lookup 1444228
+delete 6381692
+insert 5310898 80 2.3
+lookup 125370
+insert 8802779 60 2.3
+insert 7201227 53 2.3
+print
+insert 9657541 55 2.3
+insert 6557666 56 2.3
+print
+delete 8574
+delete 6435076
+insert 4781567 79 2.3
+delete 4509737
+delete 8314981
+print
+print
+insert 9382956 61 2.3
+print
+delete 2382237
+insert 4042935 10 2.3
+insert 9961586 84 2.3
+print
+print
+lookup 7904382
+lookup 2690131
+delete 5801879
+lookup 3875342
+lookup 8085704
+lookup 8428095
+delete 4269402
+insert 8549634 62 2.3
+delete 6565754
+lookup 9654529
+delete 3132577
+lookup 8556107
+print
+print
+lookup 6949509
+lookup 2484592
+delete 9712907
+lookup 6857440
+print
+print
+lookup 9472360
+delete 5916855
+delete 4959628
+lookup 8455571
+delete 3481068
+print
+print
+insert 1542239 73 2.3
+insert 2416227 60 2.3
+insert 5162167 77 2.3
+delete 8434558
+delete 6846856
+delete 8368829
+delete 6259811
+delete 6925892
+insert 8106043 49 2.3
+lookup 9387369
+print
+insert 4555145 44 2.3
+lookup 9783874
+delete 7712672
+lookup 9288756
+lookup 150621
+print
+lookup 6756743
+print
+print
+print
+delete 5119033
+lookup 6888748
+print
+delete 1107107
+lookup 4547893
+lookup 6209163
+lookup 112874
+lookup 9177155
+insert 9964184 10 2.3
+delete 7144939
+delete 8325104
+delete 9656910
+delete 8974841
+lookup 906437
+lookup 4085825
+print
+print
+insert 668080 12 2.3
+insert 9947379 61 2.3
+lookup 2162259
+lookup 9410883
+lookup 5594550
+delete 6260576
+lookup 6877354
+print
+insert 9427266 70 2.3
+delete 1129790
+lookup 3755051
+insert 5593563 8 2.3
+lookup 1599180
+lookup 323686
+delete 5312086
+insert 7237691 92 2.3
+lookup 906113
+print
+insert 5223016 76 2.3
+insert 4709209 68 2.3
+delete 4001093
+insert 8051333 22 2.3
+delete 5295603
+lookup 4861408
+insert 417113 5 2.3
+lookup 2744641
+print
+print
+print
+delete 6785073
+insert 9103355 52 2.3
+delete 5385590
+insert 5182012 32 2.3
+delete 6416814
+insert 7781798 48 2.3
+print
+delete 3244058
+delete 2336741
+insert 6563022 60 2.3
+insert 2462437 94 2.3
+print
+delete 7362059
+lookup 9328659
+print
+insert 6778128 64 2.3
+print
+insert 2722763 24 2.3
+insert 6527014 84 2.3
+print
+print
+lookup 6793697
+insert 8942026 27 2.3
+lookup 2503072
+print
+delete 762911
+lookup 5187068
+insert 343427 56 2.3
+print
+lookup 8239638
+insert 9486644 78 2.3
+print
+print
+delete 1670224
+delete 4450196
+lookup 1403552
+print
+print
+insert 8903187 75 2.3
+lookup 5631535
+insert 277188 63 2.3
+insert 5933352 45 2.3
+delete 8630242
+insert 6623157 89 2.3
+lookup 1571314
+print
+insert 9456708 72 2.3
+print
+lookup 2652712
+insert 991715 23 2.3
+lookup 1816992
+insert 4693590 70 2.3
+delete 7047031
+print
+delete 5267702
+insert 2318703 38 2.3
+insert 4814888 90 2.3
+lookup 7447907
+lookup 7429565
+delete 4198779
+delete 3204801
+insert 5250974 10 2.3
+print
+print
+lookup 5927597
+delete 7492708
+print
+delete 6544376
+lookup 7232910
+print
+lookup 5466318
+print
+insert 1105531 59 2.3
+print
+lookup 9134784
+delete 318310
+insert 6216350 55 2.3
+print
+insert 879895 38 2.3
+insert 2757784 59 2.3
+lookup 5906642
+lookup 6324787
+print
+print
+delete 7671492
+delete 2243938
+lookup 3431294
+delete 3132440
+delete 1243260
+delete 7300981
+print
+print
+insert 8140581 59 2.3
+print
+lookup 8781448
+delete 9348682
+delete 8504617
+lookup 4138965
+insert 6857292 95 2.3
+delete 3943212
+lookup 818138
+delete 2365100
+lookup 6364351
+delete 7715847
+lookup 9634910
+delete 9501237
+insert 7836641 47 2.3
+lookup 9446578
+delete 8850354
+insert 1187589 42 2.3
+lookup 4721231
+lookup 5004135
+lookup 1129773
+lookup 2161536
+insert 3350313 24 2.3
+insert 9899869 19 2.3
+lookup 4627387
+print
+print
+lookup 9766993
+delete 9216197
+delete 8654241
+delete 3079334
+print
+print
+delete 6408110
+delete 6602440
+print
+print
+delete 8553443
+delete 3870058
+delete 4923140
+delete 4223486
+lookup 8927994
+delete 6177672
+print
+insert 8307942 33 2.3
+delete 5593305
+lookup 5029005
+print
+delete 6286097
+delete 7293835
+delete 7321406
+delete 3493191
+delete 7970664
+insert 6215967 19 2.3
+print
+lookup 6055364
+lookup 7306712
+delete 5515100
+insert 9921778 26 2.3
+insert 6781854 63 2.3
+delete 7842000
+delete 1557960
+insert 7083410 84 2.3
+lookup 2267656
+lookup 1956534
+insert 7832434 6 2.3
+delete 2938178
+delete 6441752
+delete 5329012
+lookup 5805455
+lookup 421533
+lookup 3948224
+insert 4242513 9 2.3
+insert 7667600 75 2.3
+insert 7754120 84 2.3
+lookup 5385498
+delete 2838448
+delete 6728539
+delete 5563237
+lookup 9808835
+delete 2956119
+lookup 8902163
+delete 2671238
+print
+lookup 6318513
+print
+insert 6929859 94 2.3
+print
+lookup 8558319
+print
+print
+print
+delete 2190626
+delete 9381935
+insert 2209605 23 2.3
+lookup 4130554
+delete 2000167
+print
+print
+delete 2661621
+lookup 8946828
+print
+print
+lookup 5210148
+insert 5423169 17 2.3
+delete 8454111
+delete 7799720
+insert 8898372 81 2.3
+insert 2500965 47 2.3
+insert 6430928 96 2.3
+insert 9463211 71 2.3
+lookup 9036492
+print
+insert 5284132 7 2.3
+print
+lookup 7630259
+lookup 3407372
+delete 6835200
+print
+delete 9348504
+print
+insert 9229027 78 2.3
+delete 5174334
+insert 703404 73 2.3
+print
+lookup 2112667
+delete 9710446
+delete 2064260
+insert 577944 47 2.3
+delete 5532961
+insert 3748544 12 2.3
+lookup 3391245
+delete 1343864
+lookup 9767201
+print
+lookup 9697640
+delete 5903492
+lookup 8786904
+insert 376116 28 2.3
+delete 6100672
+lookup 8156522
+lookup 2252747
+delete 6929942
+print
+insert 9417289 74 2.3
+lookup 2176601
+print
+lookup 3714772
+print
+insert 3718779 74 2.3
+insert 7589309 9 2.3
+lookup 1900245
+print
+lookup 4483966
+print
+insert 6101831 90 2.3
+print
+lookup 8148171
+delete 5318588
+insert 6307519 63 2.3
+print
+lookup 3615034
+lookup 6314814
+print
+insert 3830484 19 2.3
+delete 5857714
+insert 9280679 55 2.3
+delete 5307969
+lookup 8513004
+insert 1349000 88 2.3
+delete 9788078
+print
+lookup 6629048
+insert 2349570 53 2.3
+insert 2061259 44 2.3
+print
+print
+print
+delete 8254385
+print
+delete 2817446
+print
+lookup 8304517
+print
+delete 192617
+lookup 5531151
+print
+delete 7956038
+lookup 593787
+lookup 5684457
+delete 9552670
+lookup 1907904
+lookup 6844345
+print
+insert 1449554 85 2.3
+lookup 3739561
+insert 6414929 21 2.3
+insert 3517796 40 2.3
+insert 2344643 67 2.3
+print
+delete 670339
+delete 2782648
+print
+print
+insert 3445239 63 2.3
+lookup 5568110
+insert 4250793 20 2.3
+print
+print
+lookup 5033496
+delete 3384833
+insert 6984230 13 2.3
+print
+print
+delete 8901598
+delete 559238
+lookup 9330191
+delete 983921
+delete 7078078
+insert 3129633 40 2.3
+insert 4913918 71 2.3
+lookup 4370861
+delete 5489079
+lookup 8913163
+delete 7044158
+print
+lookup 1255173
+print
+delete 4550165
+lookup 8504069
+lookup 5380419
+delete 7316155
+insert 7032510 39 2.3
+insert 6416741 51 2.3
+insert 6874122 18 2.3
+delete 5878681
+print
+lookup 7379484
+delete 2227943
+lookup 4293218
+delete 1180543
+print
+delete 7748128
+delete 3356024
+print
+delete 6255134
+delete 4679793
+lookup 3200760
+insert 7733147 32 2.3
+lookup 5473217
+lookup 8084449
+print
+insert 9222297 77 2.3
+print
+lookup 3931181
+insert 3464873 77 2.3
+delete 4457596
+lookup 3962576
+insert 7778379 17 2.3
+lookup 618280
+insert 4836482 99 2.3
+lookup 8092215
+lookup 6962958
+insert 5419443 1 2.3
+lookup 5507106
+print
+print
+print
+print
+delete 8307083
+lookup 2253348
+lookup 935812
+delete 1116507
+print
+delete 6560868
+delete 3603274
+print
+print
+delete 3668843
+lookup 8479026
+insert 7562922 37 2.3
+print
+delete 6913043
+print
+lookup 8946574
+delete 8648608
+lookup 9622258
+lookup 1890741
+delete 6478832
+insert 3913500 15 2.3
+lookup 7574534
+insert 3962239 74 2.3
+insert 7201601 12 2.3
+print
+delete 7270955
+print
+insert 917870 8 2.3
+print
+print
+print
+lookup 4311497
+print
+lookup 1047045
+lookup 1851276
+insert 4240766 78 2.3
+insert 1668573 39 2.3
+delete 6598332
+delete 9947917
+delete 5561633
+print
+delete 8882479
+lookup 8002491
+lookup 3872896
+print
+lookup 710744
+delete 6330922
+insert 812228 62 2.3
+insert 8220634 84 2.3
+print
+print
+delete 4761245
+delete 5696166
+delete 9246740
+insert 9877562 34 2.3
+lookup 1457205
+print
+print
+insert 1199074 30 2.3
+print
+delete 4569134
+print
+print
+print
+lookup 6443787
+lookup 1279074
+delete 9847843
+lookup 2505732
+lookup 4677559
+delete 5310566
+delete 709468
+delete 3602495
+delete 5286169
+insert 6963936 98 2.3
+insert 8558882 71 2.3
+print
+print
+delete 62304
+insert 3710119 86 2.3
+lookup 4744478
+insert 4798206 20 2.3
+lookup 4847650
+insert 895505 83 2.3
+lookup 4966759
+print
+insert 5773809 4 2.3
+print
+lookup 4271373
+lookup 504817
+print
+print
+insert 8692690 26 2.3
+delete 9004242
+insert 5372432 45 2.3
+print
+lookup 776044
+insert 4026061 28 2.3
+print
+lookup 7615944
+print
+lookup 5677658
+print
+delete 2803798
+lookup 2214625
+print
+lookup 4060684
+insert 6569070 57 2.3
+lookup 6946849
+lookup 1046659
+delete 4692618
+delete 1248968
+print
+delete 6239416
+lookup 3901401
+insert 1475739 69 2.3
+print
+insert 7188552 38 2.3
+lookup 4041472
+lookup 2879150
+print
+delete 4811995
+lookup 1484208
+delete 5009370
+print
+lookup 5756275
+insert 4367965 23 2.3
+print
+lookup 1853307
+delete 6789856
+delete 6667408
+lookup 6547368
+lookup 1018319
+lookup 105217
+lookup 9771811
+insert 5319364 15 2.3
+print
+lookup 747079
+lookup 5584360
+print
+print
+insert 5805024 26 2.3
+delete 4639448
+insert 4233386 92 2.3
+lookup 9871906
+lookup 7550369
+insert 5395483 75 2.3
+insert 9507052 84 2.3
+lookup 8347475
+print
+insert 7164124 1 2.3
+lookup 2481664
+lookup 3966243
+lookup 7148290
+insert 1978442 93 2.3
+print
+print
+print
+delete 6377081
+lookup 1952378
+print
+delete 2610871
+lookup 980691
+print
+print
+delete 5253295
+insert 106004 1 2.3
+lookup 797607
+insert 2458607 11 2.3
+lookup 9163407
+delete 9579787
+insert 7984496 42 2.3
+insert 3153641 11 2.3
+print
+lookup 3415463
+print
+lookup 59118
+print
+insert 7894192 2 2.3
+insert 4110136 45 2.3
+lookup 6691054
+print
+insert 4166199 44 2.3
+delete 3324479
+lookup 3991077
+print
+print
+delete 9098821
+lookup 5442765
+print
+insert 8023185 6 2.3
+print
+lookup 9086836
+print
+lookup 9262633
+delete 1124471
+delete 8435329
+lookup 8199137
+insert 934455 63 2.3
+lookup 6268118
+lookup 5347478
+insert 187503 66 2.3
+lookup 3356285
+delete 5007090
+delete 7287171
+lookup 6486501
+insert 3981208 30 2.3
+delete 5318761
+insert 9676803 46 2.3
+insert 9095173 47 2.3
+insert 3113979 74 2.3
+insert 1634939 69 2.3
+delete 5597562
+insert 3298516 13 2.3
+lookup 7228144
+insert 945449 80 2.3
+insert 1614412 82 2.3
+lookup 3123048
+delete 7902377
+print
+lookup 1099605
+insert 7777809 9 2.3
+print
+insert 7686435 90 2.3
+delete 3371083
+insert 4667143 34 2.3
+insert 1009437 74 2.3
+print
+lookup 2582668
+print
+insert 5973741 92 2.3
+print
+delete 745541
+insert 1738867 60 2.3
+print
+print
+insert 9195600 64 2.3
+delete 5111785
+print
+delete 315425
+insert 9606831 87 2.3
+lookup 6242511
+print
+lookup 7283662
+insert 1075547 35 2.3
+print
+print
+print
+delete 9259463
+delete 625613
+delete 3852449
+insert 4446448 97 2.3
+lookup 1694391
+lookup 3878644
+delete 2919723
+lookup 7155588
+print
+lookup 1222219
+insert 8540045 85 2.3
+print
+delete 9283224
+insert 713870 71 2.3
+print
+delete 641126
+delete 585370
+lookup 8033051
+insert 279340 85 2.3
+insert 7017199 69 2.3
+insert 2723117 1 2.3
+lookup 1381106
+delete 134817
+print
+insert 7352167 64 2.3
+print
+print
+insert 1348532 13 2.3
+lookup 2744362
+insert 3939906 85 2.3
+print
+print
+print
+lookup 1846644
+print
+delete 1474680
+lookup 812351
+lookup 6022333
+insert 3426522 94 2.3
+print
+insert 9044325 69 2.3
+lookup 6489884
+insert 3871954 62 2.3
+print
+lookup 3037980
+insert 8278224 48 2.3
+insert 8917925 33 2.3
+insert 6865390 62 2.3
+print
+insert 6752152 88 2.3
+lookup 7583376
+delete 4382110
+insert 8796807 42 2.3
+delete 3195912
+insert 4218114 14 2.3
+print
+lookup 1899873
+lookup 7247020
+insert 1932006 14 2.3
+print
+delete 1535235
+delete 217708
+print
+lookup 3146532
+print
+lookup 7646813
+lookup 4340484
+delete 7661481
+delete 8880639
+print
+insert 4931394 72 2.3
+insert 8595113 77 2.3
+delete 1752825
+delete 9893256
+insert 9847785 92 2.3
+print
+print
+insert 2513307 54 2.3
+lookup 3508903
+insert 4063043 87 2.3
+print
+delete 9717271
+insert 9998377 95 2.3
+delete 3403986
+print
+insert 232111 86 2.3
+lookup 6363038
+delete 1041990
+print
+delete 800953
+delete 19445
+lookup 4312520
+delete 8107081
+insert 7340156 53 2.3
+delete 3501442
+insert 8494793 78 2.3
+print
+insert 3208825 91 2.3
+delete 1941871
+delete 7124096
+delete 8825629
+print
+delete 7637619
+insert 8986304 52 2.3
+lookup 7711814
+print
+insert 5729069 34 2.3
+print
+delete 3409301
+delete 8592456
+insert 8203783 38 2.3
+insert 457897 46 2.3
+print
+lookup 624200
+print
+insert 1581401 99 2.3
+delete 6005115
+print
+insert 503351 5 2.3
+print
+delete 4716346
+print
+delete 2232970
+delete 2968076
+lookup 9980089
+insert 6274719 84 2.3
+delete 8602921
+lookup 9282888
+lookup 389892
+lookup 3667313
+delete 1907783
+print
+lookup 1300423
+print
+lookup 2989570
+delete 756321
+lookup 5954039
+delete 7427417
+print
+insert 91289 26 2.3
+print
+delete 2231275
+lookup 4515810
+delete 9770232
+delete 318523
+delete 7058571
+lookup 3264721
+delete 3677728
+insert 3581920 99 2.3
+insert 5587152 49 2.3
+lookup 8225302
+print
+print
+delete 4281205
+lookup 6935494
+insert 975837 38 2.3
+lookup 9995990
+lookup 3046090
+insert 5644613 99 2.3
+lookup 8901235
+print
+delete 7044320
+lookup 9534932
+print
+print
+print
+insert 5875567 85 2.3
+insert 1195833 27 2.3
+insert 7214977 12 2.3
+delete 3007305
+print
+lookup 5739273
+print
+lookup 1426413
+insert 7611821 96 2.3
+delete 5131377
+print
+lookup 8970401
+delete 199926
+delete 3501323
+lookup 2460494
+lookup 9793685
+lookup 1290860
+lookup 3703422
+print
+lookup 2711377
+print
+delete 2782999
+print
+print
+print
+delete 986532
+lookup 3562511
+lookup 8021483
+delete 7170150
+delete 5313590
+lookup 394243
+lookup 8104811
+insert 3411576 97 2.3
+delete 9111574
+insert 3775535 10 2.3
+lookup 9268973
+delete 1324695
+delete 6396447
+insert 6889224 76 2.3
+insert 9733620 6 2.3
+print
+lookup 9998655
+lookup 2726183
+delete 8185094
+insert 408595 66 2.3
+delete 5470396
+print
+delete 3504693
+lookup 4566467
+print
+delete 6149703
+lookup 6095654
+insert 6789375 97 2.3
+print
+print
+delete 1918459
+print
+print
+print
+insert 2445735 49 2.3
+delete 4819581
+delete 8128862
+print
+delete 5998926
+insert 2063368 3 2.3
+print
+lookup 8730835
+lookup 5054106
+print
+delete 6766945
+print
+print
+insert 3619904 78 2.3
+lookup 2166082
+lookup 1157960
+print
+insert 3361106 79 2.3
+insert 9172001 16 2.3
+delete 2964080
+print
+delete 6409568
+delete 6686568
+lookup 9152364
+print
+lookup 2226223
+print
+delete 3539001
+print
+insert 6056084 63 2.3
+lookup 4066880
+insert 7057014 30 2.3
+print
+insert 4487539 97 2.3
+delete 865061
+insert 1753579 7 2.3
+delete 7066155
+print
+insert 7268066 86 2.3
+print
+insert 7786341 91 2.3
+delete 9779797
+insert 7211928 46 2.3
+delete 1226443
+insert 8466436 2 2.3
+delete 7072605
+insert 3788686 41 2.3
+print
+insert 2617285 93 2.3
+print
+insert 3902646 30 2.3
+insert 7971782 28 2.3
+delete 1153249
+lookup 3428830
+delete 1704605
+lookup 7873483
+print
+delete 7947302
+delete 2591203
+print
+insert 8675720 77 2.3
+print
+insert 7347903 44 2.3
+insert 1635131 50 2.3
+print
+delete 3572873
+delete 572093
+lookup 5520500
+lookup 3929128
+print
+print
+insert 1523255 66 2.3
+lookup 6540361
+delete 2574866
+print
+lookup 10762
+print
+insert 6021906 72 2.3
+print
+insert 6350567 15 2.3
+lookup 1654349
+lookup 2889557
+lookup 8209085
+insert 393207 20 2.3
+print
+print
+insert 6464135 3 2.3
+lookup 8771809
+delete 9052168
+lookup 1808056
+insert 7045119 4 2.3
+lookup 4675946
+insert 7133080 94 2.3
+delete 9719274
+delete 5341981
+print
+lookup 2894297
+lookup 6039789
+print
+insert 2102419 9 2.3
+lookup 8931305
+delete 4293587
+insert 8201211 44 2.3
+delete 6303270
+insert 8654663 59 2.3
+delete 7571908
+insert 1876425 23 2.3
+insert 5043317 15 2.3
+delete 8717005
+insert 6144716 96 2.3
+insert 1660218 74 2.3
+insert 3298000 17 2.3
+print
+print
+print
+insert 6759799 93 2.3
+print
+lookup 2269461
+print
+print
+insert 8146016 96 2.3
+insert 9411704 69 2.3
+insert 7084755 85 2.3
+insert 673120 30 2.3
+lookup 2388860
+insert 8545564 79 2.3
+insert 9904389 91 2.3
+insert 1234538 67 2.3
+insert 6440547 52 2.3
+lookup 2282562
+lookup 8529188
+delete 2239537
+insert 6143637 0 2.3
+delete 6128833
+delete 1248629
+delete 7850246
+delete 8358588
+insert 3167818 69 2.3
+insert 1407114 27 2.3
+delete 1340559
+lookup 1968251
+insert 4359354 50 2.3
+insert 9035594 25 2.3
+lookup 695932
+insert 3890105 19 2.3
+delete 9201450
+lookup 4321729
+delete 8476825
+lookup 6054620
+insert 1090307 49 2.3
+print
+print
+delete 7852454
+lookup 6439276
+delete 1620820
+insert 6071374 7 2.3
+print
+delete 8359935
+lookup 1521501
+insert 7935419 62 2.3
+print
+print
+delete 8752199
+delete 9982676
+print
+print
+insert 9884158 42 2.3
+print
+delete 6933899
+insert 1359472 63 2.3
+lookup 4876945
+lookup 43547
+print
+lookup 3592107
+lookup 766008
+insert 1818241 60 2.3
+delete 606084
+delete 1811299
+print
+print
+print
+lookup 9778556
+lookup 7569710
+delete 633678
+insert 8432843 47 2.3
+insert 4406632 19 2.3
+print
+insert 4231381 24 2.3
+print
+lookup 2856892
+print
+lookup 3895446
+print
+print
+print
+delete 8949536
+lookup 537120
+delete 5182186
+lookup 9133089
+lookup 9187438
+insert 2910869 93 2.3
+delete 4117318
+insert 8710171 8 2.3
+insert 2882166 20 2.3
+print
+print
+print
+delete 9857081
+delete 9675728
+lookup 812529
+insert 201595 56 2.3
+lookup 6882081
+delete 9889506
+insert 8900068 43 2.3
+insert 1360834 63 2.3
+print
+insert 6019209 11 2.3
+print
+insert 5041208 5 2.3
+delete 6971593
+lookup 2165616
+delete 4080512
+print
+insert 7346830 78 2.3
+delete 9132944
+insert 1178394 97 2.3
+delete 5674254
+lookup 9035721
+print
+print
+lookup 4810100
+insert 5799069 41 2.3
+print
+lookup 6617913
+lookup 3703590
+insert 4156818 87 2.3
+lookup 9458915
+lookup 9882315
+insert 4538493 27 2.3
+print
+delete 1125446
+print
+lookup 8446747
+print
+insert 2251901 75 2.3
+print
+delete 7722057
+print
+insert 7754882 48 2.3
+print
+insert 9866057 55 2.3
+delete 8588032
+delete 7555314
+lookup 1289809
+insert 7614963 56 2.3
+delete 4226081
+lookup 6226565
+insert 3842348 64 2.3
+insert 5250278 78 2.3
+delete 1150989
+insert 1940705 91 2.3
+print
+delete 7025415
+lookup 3985562
+delete 8008907
+delete 4036129
+print
+lookup 6105740
+insert 1473212 94 2.3
+insert 8236088 73 2.3
+print
+insert 2648979 29 2.3
+insert 1965169 61 2.3
+delete 9120509
+print
+delete 8279490
+lookup 454942
+insert 1601884 36 2.3
+print
+print
+print
+delete 5879761
+lookup 6461413
+delete 7535091
+delete 2465657
+lookup 4434350
+lookup 9902645
+delete 8750159
+lookup 2350458
+delete 8186040
+lookup 9470671
+insert 545467 33 2.3
+lookup 3257276
+lookup 332760
+print
+insert 8479376 68 2.3
+insert 311573 39 2.3
+insert 6610572 26 2.3
+print
+lookup 3310129
+delete 622769
+lookup 9206156
+lookup 2248126
+delete 896049
+delete 3178514
+delete 852192
+insert 2594074 2 2.3
+insert 3042535 74 2.3
+print
+print
+insert 9698558 83 2.3
+insert 495560 13 2.3
+delete 2924053
+print
+lookup 8023429
+insert 2350590 25 2.3
+lookup 6707011
+lookup 3976890
+insert 9608910 50 2.3
+print
+delete 959952
+insert 9262040 57 2.3
+lookup 3187588
+lookup 3710168
+lookup 5334122
+print
+print
+delete 2867267
+lookup 1845212
+insert 8660942 2 2.3
+print
+lookup 2555387
+print
+delete 4039152
+insert 1736555 88 2.3
+insert 2787587 60 2.3
+insert 8167490 55 2.3
+insert 6184398 67 2.3
+delete 6371151
+print
+print
+lookup 3740354
+insert 2103495 48 2.3
+insert 6898983 47 2.3
+insert 2492709 46 2.3
+insert 2614313 89 2.3
+delete 1906679
+insert 5608547 92 2.3
+lookup 8996535
+lookup 8020117
+insert 8304438 23 2.3
+lookup 236129
+delete 8207925
+insert 6192244 47 2.3
+lookup 669734
+print
+print
+insert 5644875 93 2.3
+print
+print
+delete 8097242
+delete 8716528
+lookup 691384
+lookup 4258085
+insert 1812527 97 2.3
+print
+insert 4566767 62 2.3
+delete 6661684
+delete 9549195
+print
+delete 7341540
+delete 7315424
+insert 1566080 60 2.3
+insert 7491650 97 2.3
+lookup 6064491
+insert 9283023 65 2.3
+insert 8074512 21 2.3
+delete 1265381
+delete 7711970
+print
+insert 6339823 0 2.3
+insert 2107345 24 2.3
+delete 1028408
+lookup 7715163
+lookup 3478275
+print
+lookup 4435878
+insert 3779807 6 2.3
+delete 1563166
+print
+delete 3182936
+insert 27187 39 2.3
+insert 4376902 17 2.3
+insert 3016578 66 2.3
+print
+lookup 5358622
+delete 7717893
+lookup 7596950
+print
+insert 9740668 45 2.3
+print
+print
+print
+lookup 1613866
+lookup 542346
+print
+lookup 7992198
+lookup 2836756
+insert 1287692 91 2.3
+print
+insert 3728614 32 2.3
+insert 3882964 55 2.3
+lookup 1509366
+delete 1818909
+lookup 8000207
+delete 4967405
+lookup 7030631
+lookup 3145787
+delete 1716605
+insert 5949281 93 2.3
+print
+insert 4839088 2 2.3
+delete 3428629
+insert 2002014 2 2.3
+insert 6539449 95 2.3
+lookup 7571999
+insert 3954332 22 2.3
+delete 1465301
+insert 2556864 34 2.3
+insert 53056 94 2.3
+insert 1193808 50 2.3
+delete 4982851
+delete 8282509
+lookup 1187844
+delete 2522670
+print
+delete 4994866
+print
+delete 7754773
+insert 7877567 51 2.3
+insert 8777569 10 2.3
+delete 8305495
+lookup 4313845
+delete 9745094
+delete 6629955
+print
+lookup 7587529
+lookup 1021338
+lookup 8262637
+print
+insert 7240084 20 2.3
+print
+lookup 9986713
+print
+delete 9002157
+insert 8164491 31 2.3
+lookup 3251123
+lookup 1356154
+delete 3639028
+print
+insert 7797139 8 2.3
+print
+delete 3229290
+lookup 7342691
+delete 624262
+print
+insert 4320411 45 2.3
+lookup 2100089
+lookup 6019146
+lookup 8100633
+print
+lookup 6479139
+delete 6572709
+insert 5281555 57 2.3
+delete 7200486
+lookup 5988411
+insert 3765055 80 2.3
+print
+delete 4175715
+lookup 5274770
+insert 9074675 96 2.3
+print
+insert 7049493 2 2.3
+print
+lookup 9722000
+lookup 5479061
+lookup 1328429
+delete 9861603
+print
+delete 7306968
+delete 8694587
+delete 1220846
+lookup 727756
+lookup 5645335
+print
+delete 7859043
+delete 3063363
+print
+insert 3341266 51 2.3
+print
+lookup 1989628
+print
+insert 7727957 40 2.3
+insert 7559974 45 2.3
+insert 1609544 76 2.3
+insert 3047046 21 2.3
+delete 8478775
+insert 2847656 37 2.3
+delete 4128056
+lookup 337647
+lookup 4915518
+delete 5863008
+insert 3061695 20 2.3
+print
+lookup 155668
+insert 5754165 24 2.3
+print
+delete 5309040
+lookup 3508188
+lookup 4249505
+lookup 6117379
+insert 5180573 86 2.3
+insert 8947889 23 2.3
+delete 2599744
+delete 2457948
+print
+lookup 9285081
+lookup 1075630
+lookup 6932573
+insert 1453130 53 2.3
+insert 6874190 41 2.3
+print
+lookup 800565
+insert 6700993 37 2.3
+insert 5242336 33 2.3
+delete 5626530
+insert 2170961 72 2.3
+delete 2471691
+insert 3931466 68 2.3
+delete 840696
+print
+print
+lookup 4162616
+delete 3999521
+delete 8316961
+insert 5008014 46 2.3
+lookup 8361291
+lookup 4305471
+insert 3806316 40 2.3
+print
+insert 8681149 47 2.3
+print
+lookup 8173610
+delete 2580395
+delete 1117138
+insert 3037406 0 2.3
+print
+lookup 2211040
+print
+print
+lookup 5518076
+lookup 5267138
+insert 5734361 34 2.3
+print
+print
+print
+lookup 6112988
+delete 2730807
+insert 8652303 37 2.3
+delete 8938326
+print
+delete 6759311
+print
+print
+delete 8520111
+lookup 6375335
+delete 8224250
+insert 8186321 38 2.3
+insert 3399037 95 2.3
+lookup 3535834
+insert 613958 63 2.3
+insert 4605705 48 2.3
+lookup 2425928
+delete 2343943
+insert 3837192 63 2.3
+delete 9780723
+lookup 4995559
+insert 5578838 50 2.3
+print
+delete 586429
+lookup 5547941
+lookup 5713971
+delete 1901241
+delete 293248
+delete 7525539
+print
+lookup 8769114
+delete 9304846
+lookup 3691384
+delete 9248560
+print
+delete 5915441
+lookup 319747
+insert 2198944 97 2.3
+lookup 4308445
+print
+print
+insert 4262217 31 2.3
+delete 1581114
+insert 9906874 17 2.3
+lookup 8012951
+lookup 356321
+delete 3910534
+insert 8132870 22 2.3
+insert 2070562 49 2.3
+lookup 7496132
+lookup 5673398
+print
+print
+print
+lookup 7448104
+lookup 3519510
+print
+insert 2087721 51 2.3
+lookup 8243906
+delete 9239188
+insert 9684360 88 2.3
+insert 69917 29 2.3
+insert 4050702 53 2.3
+insert 452384 40 2.3
+delete 4958356
+insert 2077739 22 2.3
+lookup 356895
+lookup 1358631
+insert 6338119 12 2.3
+print
+lookup 115016
+lookup 3616687
+insert 894239 58 2.3
+delete 9478850
+lookup 4752862
+insert 4622580 48 2.3
+print
+print
+lookup 8178779
+insert 6054061 54 2.3
+print
+lookup 4859940
+insert 4955763 56 2.3
+insert 7256382 0 2.3
+insert 7321690 23 2.3
+print
+lookup 7781616
+lookup 8985229
+lookup 4365986
+insert 9400794 65 2.3
+lookup 8121356
+insert 6131168 93 2.3
+insert 1099754 47 2.3
+lookup 1505146
+delete 7432763
+print
+delete 1874010
+print
+print
+insert 5159153 48 2.3
+delete 852197
+lookup 3370422
+print
+insert 4306594 81 2.3
+lookup 9341899
+insert 4629051 25 2.3
+delete 7151427
+print
+print
+lookup 38220
+insert 8032380 79 2.3
+lookup 7757766
+delete 9020302
+lookup 9325954
+insert 8890850 3 2.3
+insert 1154384 35 2.3
+delete 2666668
+delete 3970980
+insert 6187015 75 2.3
+lookup 421492
+insert 9863773 45 2.3
+delete 3009029
+insert 3711529 98 2.3
+insert 7054386 69 2.3
+delete 7853896
+lookup 2522134
+lookup 9439683
+insert 5319249 43 2.3
+delete 3436292
+insert 5535990 34 2.3
+insert 6021285 37 2.3
+insert 1381658 96 2.3
+delete 8658240
+delete 4394142
+lookup 9533263
+delete 9405316
+delete 6506394
+print
+insert 2753402 91 2.3
+insert 8385201 32 2.3
+insert 1246263 95 2.3
+print
+print
+insert 1899161 5 2.3
+insert 9492605 54 2.3
+insert 2759871 52 2.3
+lookup 5436994
+print
+insert 6233598 66 2.3
+lookup 4977923
+print
+delete 8672718
+lookup 7612784
+insert 1430777 40 2.3
+print
+insert 3067911 5 2.3
+lookup 8892587
+lookup 5796811
+print
+insert 688637 22 2.3
+insert 4342034 31 2.3
+insert 8615597 61 2.3
+print
+print
+insert 6226347 88 2.3
+print
+lookup 8702658
+lookup 4812288
+print
+delete 3993639
+delete 3367647
+print
+print
+print
+insert 8626890 39 2.3
+insert 182832 26 2.3
+delete 2294137
+delete 4043003
+lookup 472250
+delete 1754431
+lookup 1841592
+lookup 6244684
+print
+lookup 7765149
+lookup 690332
+lookup 43244
+lookup 6609343
+delete 1199904
+insert 8474948 50 2.3
+delete 7160277
+insert 2617895 11 2.3
+print
+lookup 7074436
+print
+insert 5542952 31 2.3
+delete 3681265
+lookup 3669366
+insert 4991875 55 2.3
+delete 1707082
+lookup 7620229
+insert 8995184 58 2.3
+insert 5661596 14 2.3
+delete 207645
+lookup 7841086
+lookup 7832675
+lookup 482655
+delete 2433253
+lookup 8364442
+print
+delete 7837188
+print
+lookup 8576966
+insert 3009671 37 2.3
+lookup 8563140
+lookup 930864
+insert 1929593 69 2.3
+insert 8985481 69 2.3
+lookup 812822
+print
+delete 260052
+print
+insert 8995468 53 2.3
+insert 8725175 97 2.3
+delete 3738535
+delete 912882
+delete 9007967
+insert 6815122 28 2.3
+print
+delete 5246881
+delete 7230434
+print
+print
+delete 3838268
+delete 9400023
+delete 9532988
+lookup 4315146
+delete 9075411
+delete 4565062
+insert 4329016 54 2.3
+insert 4409983 95 2.3
+insert 1019214 21 2.3
+lookup 7659085
+lookup 5785371
+print
+delete 7730185
+insert 183531 81 2.3
+lookup 9866343
+insert 8441237 20 2.3
+print
+insert 8817735 3 2.3
+lookup 9016282
+insert 5857983 79 2.3
+insert 6760927 86 2.3
+delete 8111862
+insert 6383080 5 2.3
+delete 6185188
+lookup 4176018
+delete 5232335
+insert 2755316 50 2.3
+insert 4724315 84 2.3
+print
+insert 5347686 26 2.3
+print
+lookup 9105542
+print
+insert 6488001 87 2.3
+lookup 7354831
+lookup 9357174
+lookup 224896
+delete 2584047
+insert 4908910 58 2.3
+delete 1676516
+print
+lookup 7890940
+insert 7424377 7 2.3
+insert 8236276 33 2.3
+print
+print
+print
+lookup 9259993
+print
+delete 5854801
+lookup 6596015
+print
+lookup 25848
+delete 8479355
+insert 1123612 54 2.3
+insert 1983031 94 2.3
+delete 9592417
+delete 2667749
+lookup 7290537
+delete 8623836
+insert 2007528 62 2.3
+insert 9427986 87 2.3
+delete 6075868
+print
+delete 5312585
+print
+lookup 2464546
+insert 4229400 6 2.3
+insert 1381812 66 2.3
+print
+insert 7847156 70 2.3
+lookup 5215896
+insert 1294234 30 2.3
+lookup 1228467
+print
+insert 7098946 22 2.3
+delete 5052851
+insert 4304458 82 2.3
+delete 8125191
+print
+lookup 4871999
+lookup 4291335
+print
+print
+insert 5323650 72 2.3
+lookup 6027243
+lookup 5318443
+delete 1199141
+print
+print
+insert 5580442 77 2.3
+lookup 2689595
+print
+lookup 7995503
+print
+delete 7179781
+print
+print
+lookup 6990463
+delete 4486831
+insert 4178718 8 2.3
+print
+lookup 6750933
+print
+delete 6549513
+delete 1336306
+print
+delete 8540666
+delete 1216685
+delete 1436296
+print
+print
+insert 9133507 45 2.3
+delete 795130
+delete 8686046
+print
+insert 2279524 97 2.3
+print
+lookup 436992
+lookup 4809350
+delete 4574187
+print
+lookup 9864437
+print
+insert 803215 71 2.3
+insert 2018363 1 2.3
+insert 2492845 86 2.3
+lookup 5478164
+insert 3217281 92 2.3
+insert 7221184 62 2.3
+print
+insert 4277129 10 2.3
+lookup 2290065
+lookup 4646263
+insert 3177432 26 2.3
+print
+lookup 7488041
+lookup 7304169
+insert 836861 66 2.3
+print
+delete 6625714
+lookup 7027796
+lookup 4707771
+insert 248209 86 2.3
+lookup 3433407
+delete 62006
+insert 6175331 94 2.3
+print
+print
+lookup 625509
+print
+insert 4379367 51 2.3
+delete 4341121
+lookup 1736745
+print
+print
+delete 4139192
+insert 2521621 45 2.3
+print
+lookup 7210190
+delete 3234453
+print
+insert 5320444 99 2.3
+insert 6542846 22 2.3
+insert 4984230 37 2.3
+insert 3820703 67 2.3
+print
+lookup 4518285
+lookup 5553331
+print
+insert 1662191 99 2.3
+print
+print
+delete 1812304
+delete 7116689
+insert 414319 69 2.3
+lookup 7142031
+insert 4775552 26 2.3
+print
+print
+insert 2661731 62 2.3
+lookup 6026988
+delete 8624102
+delete 4187473
+delete 8283575
+print
+lookup 8037069
+print
+print
+print
+delete 2701180
+print
+insert 5242449 0 2.3
+delete 2076822
+insert 4938965 31 2.3
+insert 8164810 1 2.3
+print
+insert 2532141 5 2.3
+delete 122110
+lookup 9051824
+insert 3580230 96 2.3
+delete 1769389
+lookup 5664259
+lookup 9898225
+delete 5716908
+delete 5138855
+insert 9277945 98 2.3
+delete 7610276
+delete 8238803
+insert 9974445 58 2.3
+lookup 5520421
+delete 9749671
+print
+insert 6106218 42 2.3
+print
+insert 5006503 48 2.3
+print
+lookup 8280253
+delete 7121311
+insert 187496 86 2.3
+print
+delete 1096356
+lookup 8025925
+lookup 3130646
+print
+delete 9276484
+insert 132824 11 2.3
+lookup 6701931
+delete 6413422
+lookup 7716304
+print
+print
+delete 9776891
+lookup 1089264
+delete 8577728
+print
+lookup 9270036
+lookup 7721896
+print
+lookup 5542392
+print
+lookup 4186869
+insert 2006908 8 2.3
+lookup 14565
+print
+insert 7935113 17 2.3
+delete 2860875
+print
+insert 80312 80 2.3
+delete 7323816
+lookup 3170506
+insert 5333056 4 2.3
+insert 1219838 8 2.3
+print
+insert 2242550 55 2.3
+delete 6002194
+insert 3341407 39 2.3
+lookup 713492
+delete 5552671
+delete 8007457
+insert 5853227 39 2.3
+lookup 9814090
+print
+insert 3759255 45 2.3
+insert 7531895 4 2.3
+delete 5117302
+delete 8199428
+insert 1718811 22 2.3
+lookup 2608174
+lookup 1398660
+lookup 453436
+lookup 2458392
+delete 5934239
+insert 3733168 98 2.3
+print
+delete 8387538
+print
+lookup 4642334
+print
+insert 6075155 37 2.3
+print
+insert 509701 37 2.3
+insert 7940109 99 2.3
+print
+print
+print
+delete 2104834
+delete 7377254
+insert 7601967 88 2.3
+insert 5252174 79 2.3
+print
+lookup 6933029
+insert 1119677 25 2.3
+lookup 2306960
+delete 1237183
+insert 5523471 55 2.3
+delete 126519
+lookup 7190481
+insert 7971631 60 2.3
+print
+print
+lookup 8601854
+delete 3474430
+print
+lookup 3267588
+print
+lookup 5857234
+insert 1814710 46 2.3
+print
+delete 4584570
+delete 9017066
+print
+delete 7231265
+print
+print
+lookup 3134891
+lookup 3957270
+insert 2083485 41 2.3
+lookup 2047444
+print
+insert 2143032 5 2.3
+lookup 4718356
+delete 3805467
+lookup 6551722
+delete 7674936
+lookup 6627871
+delete 6875084
+insert 1708413 99 2.3
+delete 710741
+print
+delete 4000440
+insert 1177358 0 2.3
+print
+lookup 797005
+lookup 6363
+print
+delete 5779245
+insert 728783 53 2.3
+insert 5235094 73 2.3
+print
+print
+print
+delete 465933
+insert 6527819 34 2.3
+lookup 8787770
+lookup 7937509
+insert 9189658 14 2.3
+insert 5767280 48 2.3
+insert 1878569 45 2.3
+print
+print
+insert 5941199 11 2.3
+print
+print
+print
+print
+lookup 6404090
+insert 6775755 93 2.3
+delete 597865
+insert 3392918 0 2.3
+insert 6497214 43 2.3
+insert 4446841 11 2.3
+delete 1298967
+delete 9452087
+lookup 4815505
+delete 6247346
+print
+print
+print
+lookup 54049
+delete 4881831
+print
+insert 8729867 2 2.3
+delete 3082835
+delete 6790276
+lookup 6824664
+print
+lookup 5903588
+lookup 7999873
+delete 7912940
+insert 8521167 14 2.3
+print
+delete 870393
+print
+insert 5892900 90 2.3
+print
+delete 5023500
+print
+insert 5229662 73 2.3
+print
+insert 1487156 61 2.3
+print
+delete 2411412
+print
+insert 8040065 92 2.3
+insert 1150661 73 2.3
+lookup 294824
+insert 449208 10 2.3
+insert 2702587 85 2.3
+insert 6101655 57 2.3
+lookup 3734318
+insert 3179441 73 2.3
+insert 5252529 55 2.3
+print
+print
+delete 9900343
+print
+lookup 7836232
+insert 2227882 23 2.3
+print
+insert 7676571 87 2.3
+insert 1923605 66 2.3
+delete 937603
+insert 8949401 6 2.3
+lookup 6808584
+print
+lookup 8865507
+insert 2542972 37 2.3
+insert 1437619 48 2.3
+print
+lookup 8154797
+lookup 8961624
+print
+insert 8940776 74 2.3
+lookup 9434540
+lookup 5995702
+insert 1287566 18 2.3
+lookup 2835216
+insert 2962463 11 2.3
+print
+print
+delete 8529920
+insert 3256869 54 2.3
+lookup 9606705
+delete 7127502
+lookup 77138
+delete 510464
+print
+insert 3519992 75 2.3
+delete 353977
+delete 8785377
+insert 6013605 84 2.3
+insert 4440077 77 2.3
+delete 15361
+delete 2106478
+lookup 3565113
+insert 6114350 16 2.3
+insert 1078164 59 2.3
+delete 2473434
+lookup 7027560
+delete 6311263
+delete 4007272
+lookup 7513529
+delete 7003338
+lookup 5774918
+delete 7904846
+insert 5558627 53 2.3
+insert 9977923 57 2.3
+insert 5656480 66 2.3
+delete 1679360
+print
+delete 4795121
+insert 1552254 62 2.3
+lookup 3789657
+delete 8160100
+lookup 1523927
+delete 3139260
+print
+lookup 8583533
+print
+lookup 2347426
+lookup 6181882
+lookup 1393933
+print
+insert 3592310 23 2.3
+print
+print
+delete 5126714
+insert 3347702 30 2.3
+insert 8501863 94 2.3
+insert 9289293 88 2.3
+lookup 3630044
+lookup 590103
+print
+delete 7247335
+insert 6882162 95 2.3
+insert 1862329 39 2.3
+insert 8849505 98 2.3
+print
+print
+delete 8059564
+print
+lookup 2020542
+print
+lookup 399873
+lookup 413766
+print
+delete 3565636
+print
+delete 2670997
+insert 2392136 31 2.3
+insert 7985612 83 2.3
+lookup 4632977
+lookup 9003699
+delete 1764477
+delete 9568579
+lookup 2420555
+delete 2040186
+insert 1394911 31 2.3
+insert 2114661 98 2.3
+insert 2453431 95 2.3
+lookup 2036072
+lookup 8897107
+delete 5792280
+lookup 4153720
+insert 6755560 81 2.3
+print
+insert 5931925 2 2.3
+delete 1612007
+delete 1837503
+delete 5138448
+print
+print
+lookup 9951328
+insert 8500491 98 2.3
+lookup 6305335
+print
+lookup 7301515
+delete 2639801
+print
+print
+lookup 8365636
+print
+insert 5424066 83 2.3
+delete 6025928
+print
+lookup 611418
+print
+print
+delete 4105237
+delete 2109213
+lookup 6308005
+insert 9556787 10 2.3
+lookup 6831308
+lookup 366511
+insert 5174327 45 2.3
+delete 861403
+insert 3309422 55 2.3
+print
+insert 9726339 37 2.3
+lookup 2010445
+print
+delete 3681722
+lookup 337148
+print
+insert 7747544 36 2.3
+insert 5457136 93 2.3
+print
+delete 6467205
+lookup 4292921
+delete 4649561
+delete 8427340
+lookup 8438453
+delete 5785568
+lookup 8262022
+print
+insert 9620668 85 2.3
+lookup 8325582
+lookup 614659
+insert 4340327 22 2.3
+lookup 3214705
+delete 7469440
+delete 8329070
+print
+print
+lookup 4395298
+lookup 3760395
+lookup 2436412
+insert 4828029 54 2.3
+delete 8531361
+insert 3066255 89 2.3
+delete 3325038
+print
+delete 2293813
+print
+insert 9554495 52 2.3
+print
+print
+print
+print
+insert 7621711 43 2.3
+lookup 7980640
+print
+print
+insert 8382141 5 2.3
+print
+lookup 6121908
+print
+lookup 2105519
+insert 5397019 88 2.3
+print
+insert 8784593 53 2.3
+insert 1754025 5 2.3
+lookup 2462579
+lookup 2253242
+lookup 5285009
+print
+print
+delete 5189855
+print
+print
+lookup 9096845
+print
+print
+print
+print
+insert 9083746 55 2.3
+delete 6001131
+lookup 7179123
+delete 6042975
+insert 2885364 4 2.3
+delete 1544683
+insert 8532137 11 2.3
+insert 74829 40 2.3
+print
+lookup 7104611
+delete 4254490
+delete 4199397
+delete 3913855
+insert 3798910 53 2.3
+insert 3075946 74 2.3
+lookup 6616025
+print
+insert 5651005 65 2.3
+insert 4710236 86 2.3
+delete 661750
+delete 7072748
+lookup 873974
+print
+print
+lookup 8954775
+print
+insert 6138580 51 2.3
+insert 7551935 24 2.3
+print
+print
+insert 7597116 34 2.3
+print
+delete 1283871
+delete 6786292
+print
+insert 7326122 23 2.3
+insert 781331 20 2.3
+lookup 5211548
+insert 4381620 95 2.3
+print
+delete 6559977
+delete 5396126
+lookup 9713469
+lookup 3109035
+insert 574138 41 2.3
+delete 7954881
+delete 3011900
+print
+delete 2370161
+delete 6933180
+lookup 8895968
+lookup 1878713
+print
+lookup 2706756
+lookup 7309920
+delete 1680572
+print
+delete 5888688
+delete 3344126
+delete 3021478
+insert 1263445 58 2.3
+lookup 2110142
+insert 3794617 66 2.3
+insert 8928044 16 2.3
+insert 6813634 51 2.3
+delete 310409
+delete 6417578
+print
+delete 5369331
+insert 5510318 87 2.3
+print
+insert 3498792 92 2.3
+lookup 8062561
+print
+lookup 2277446
+insert 5786657 30 2.3
+insert 8636490 45 2.3
+delete 9416633
+lookup 9803504
+print
+print
+print
+print
+delete 774548
+lookup 946261
+insert 2545341 9 2.3
+print
+lookup 8014961
+insert 6992258 56 2.3
+print
+delete 6000386
+delete 1259635
+print
+print
+delete 1391662
+insert 556352 89 2.3
+insert 8839443 33 2.3
+delete 521057
+print
+print
+insert 3785124 96 2.3
+print
+insert 7378138 33 2.3
+delete 8289627
+insert 5862351 5 2.3
+delete 1135126
+delete 4998515
+delete 9632894
+delete 3258049
+print
+lookup 5638819
+print
+insert 401408 77 2.3
+delete 8878841
+insert 1412212 95 2.3
+insert 5700015 73 2.3
+print
+lookup 4795264
+insert 7891728 42 2.3
+print
+print
+insert 91720 16 2.3
+print
+print
+delete 4646016
+delete 4753417
+print
+delete 1773760
+insert 5738867 79 2.3
+print
+delete 1467066
+insert 2587967 61 2.3
+lookup 8444268
+insert 3354443 45 2.3
+print
+print
+insert 339930 12 2.3
+insert 4427532 97 2.3
+print
+lookup 1128753
+delete 6942823
+lookup 8557253
+delete 6851630
+delete 2294894
+insert 6245420 33 2.3
+delete 2017708
+insert 767463 88 2.3
+print
+delete 714565
+insert 8960666 58 2.3
+lookup 5844127
+insert 4968512 1 2.3
+lookup 2704269
+insert 4188474 84 2.3
+delete 1534733
+insert 2926449 53 2.3
+lookup 8741573
+print
+print
+delete 265344
+print
+delete 5377525
+insert 2188704 37 2.3
+lookup 2197015
+delete 6760242
+print
+lookup 6010536
+print
+delete 337817
+insert 6396061 37 2.3
+print
+print
+insert 2033819 8 2.3
+insert 1798079 44 2.3
+delete 2793829
+delete 6612995
+print
+delete 6726061
+insert 8257875 26 2.3
+insert 570994 99 2.3
+delete 344242
+insert 3472091 33 2.3
+insert 669853 20 2.3
+print
+delete 6964143
+lookup 2937101
+print
+delete 2119279
+delete 1117243
+lookup 81838
+lookup 7265766
+delete 8727717
+delete 7802689
+delete 9516593
+print
+print
+insert 5616993 27 2.3
+print
+lookup 3880557
+delete 8776311
+lookup 9247858
+delete 6241934
+print
+lookup 3925466
+delete 5397597
+print
+lookup 4441598
+delete 8035042
+delete 8635494
+insert 766350 73 2.3
+print
+lookup 1864527
+delete 8068959
+delete 7360617
+delete 9111670
+lookup 3339403
+lookup 8059047
+insert 7788020 64 2.3
+delete 331346
+lookup 3713420
+print
+print
+lookup 3043309
+lookup 2242312
+lookup 7061264
+lookup 1458688
+print
+insert 7760208 16 2.3
+insert 9500171 87 2.3
+insert 1037132 26 2.3
+print
+delete 9053697
+delete 8332981
+lookup 7612395
+lookup 3663329
+insert 4707923 26 2.3
+insert 1374063 58 2.3
+lookup 749790
+delete 9196199
+lookup 4965575
+print
+insert 1644315 19 2.3
+delete 9793875
+lookup 2269138
+print
+insert 1967605 63 2.3
+insert 9002244 35 2.3
+delete 9920139
+delete 2069671
+insert 8406418 22 2.3
+insert 8744043 8 2.3
+lookup 6052188
+lookup 2323130
+lookup 9352148
+lookup 1996463
+delete 4745422
+delete 781673
+insert 2773778 50 2.3
+delete 9488623
+insert 3216624 82 2.3
+print
+lookup 3077433
+lookup 8408786
+lookup 3906062
+insert 270285 79 2.3
+print
+lookup 7724375
+lookup 4658098
+print
+print
+delete 4468087
+lookup 4655091
+insert 2628157 29 2.3
+insert 1836894 64 2.3
+insert 9535765 40 2.3
+print
+delete 9734891
+print
+print
+delete 7835576
+delete 8536012
+lookup 9185427
+print
+lookup 5925554
+insert 7032310 19 2.3
+delete 5738678
+delete 6889007
+lookup 8156176
+delete 6564404
+lookup 490768
+print
+delete 9427952
+print
+lookup 6613271
+lookup 7439173
+insert 3021680 43 2.3
+lookup 1580121
+delete 5506667
+print
+insert 1654423 71 2.3
+lookup 3190710
+print
+print
+delete 7986952
+delete 6785945
+delete 3490037
+delete 7914376
+delete 7376159
+insert 5122160 26 2.3
+print
+lookup 5267789
+print
+print
+print
+print
+delete 9859975
+insert 3151558 95 2.3
+delete 9309716
+insert 5534887 23 2.3
+insert 4724157 50 2.3
+print
+insert 3725168 15 2.3
+insert 3334044 79 2.3
+print
+delete 7493866
+delete 82606
+delete 2161439
+lookup 1332306
+print
+print
+lookup 1848290
+print
+lookup 2060587
+print
+insert 4598913 49 2.3
+lookup 2865837
+insert 4987242 51 2.3
+print
+insert 9110174 4 2.3
+insert 8091892 4 2.3
+lookup 2836667
+print
+lookup 8659745
+insert 2040983 85 2.3
+print
+lookup 8317585
+print
+print
+delete 7140603
+delete 2608993
+delete 5428348
+insert 6218673 87 2.3
+lookup 8282960
+print
+lookup 408857
+insert 11881 63 2.3
+lookup 7302251
+delete 1256772
+lookup 4718532
+delete 7272646
+print
+lookup 3640783
+delete 2452328
+delete 4689836
+delete 845432
+lookup 2569443
+lookup 539109
+delete 7161679
+print
+print
+insert 1086927 20 2.3
+insert 6001614 5 2.3
+print
+lookup 6520209
+print
+print
+lookup 4884810
+print
+insert 7004836 68 2.3
+print
+delete 3879616
+delete 1411971
+delete 4480623
+print
+lookup 6216694
+delete 6044545
+print
+lookup 441308
+delete 6155446
+delete 8106465
+delete 3541902
+delete 5661910
+print
+insert 7750552 63 2.3
+print
+lookup 7427492
+print
+insert 1265892 29 2.3
+insert 9363787 9 2.3
+print
+insert 1897762 93 2.3
+lookup 8430812
+print
+delete 3619047
+print
+delete 3513555
+lookup 3536971
+print
+lookup 9256918
+lookup 9983675
+lookup 760756
+lookup 9675098
+insert 1459211 57 2.3
+lookup 7712058
+print
+lookup 4433219
+delete 1165113
+insert 3716817 59 2.3
+lookup 7277258
+insert 3037868 79 2.3
+print
+print
+lookup 5684515
+insert 4004835 71 2.3
+insert 9425530 94 2.3
+lookup 5127362
+delete 6539470
+print
+lookup 8844581
+lookup 6350828
+lookup 4681132
+lookup 3988637
+print
+insert 9130174 74 2.3
+print
+insert 5482539 31 2.3
+insert 3787001 0 2.3
+insert 5627722 75 2.3
+delete 2501015
+delete 3466897
+delete 5324631
+print
+lookup 5385053
+lookup 7872870
+delete 7952401
+print
+lookup 9658704
+delete 8660377
+insert 6986327 80 2.3
+print
+print
+lookup 2919910
+lookup 7496640
+print
+print
+insert 8439080 3 2.3
+lookup 4514517
+insert 9484490 6 2.3
+insert 3316411 87 2.3
+insert 1341274 55 2.3
+print
+print
+delete 8446450
+insert 9460385 7 2.3
+delete 5704848
+lookup 5516854
+lookup 7558846
+delete 3302755
+print
+lookup 5574695
+insert 8906191 34 2.3
+insert 2592724 51 2.3
+delete 2415583
+delete 3933894
+print
+print
+print
+insert 6320688 23 2.3
+insert 8811279 66 2.3
+insert 644686 70 2.3
+insert 3468332 44 2.3
+lookup 97105
+lookup 3672619
+print
+delete 8749526
+delete 7307116
+lookup 6899458
+insert 1344848 68 2.3
+delete 4508749
+lookup 3039500
+delete 7874774
+lookup 1649771
+delete 976112
+lookup 7465546
+delete 4383879
+print
+insert 7044825 28 2.3
+delete 4201466
+lookup 1791517
+lookup 779144
+delete 6334400
+lookup 9606270
+lookup 1528861
+insert 6644743 5 2.3
+insert 2644573 18 2.3
+delete 3919214
+insert 2080573 87 2.3
+print
+delete 2901474
+lookup 6343120
+insert 3251492 66 2.3
+print
+print
+lookup 9444584
+insert 109942 47 2.3
+lookup 8909564
+lookup 3821054
+print
+delete 2509747
+insert 1893035 96 2.3
+lookup 1494501
+insert 1704897 24 2.3
+print
+insert 980781 49 2.3
+insert 1606509 77 2.3
+insert 8627672 4 2.3
+print
+print
+delete 127574
+lookup 4181823
+delete 1627849
+delete 9780163
+delete 160567
+insert 1644394 14 2.3
+insert 6512713 50 2.3
+print
+print
+insert 8010009 9 2.3
+insert 2161741 94 2.3
+lookup 3542823
+print
+print
+insert 7925946 22 2.3
+insert 2482575 81 2.3
+delete 7087930
+delete 7021895
+print
+insert 4593764 95 2.3
+lookup 2696381
+lookup 1681630
+delete 7267884
+lookup 4622013
+lookup 4849783
+print
+insert 6317905 25 2.3
+lookup 6676174
+lookup 139815
+lookup 2204726
+delete 1929064
+lookup 3479635
+delete 3508924
+insert 5630389 98 2.3
+delete 3236425
+lookup 8508708
+print
+lookup 8214130
+lookup 7234271
+insert 6840211 51 2.3
+insert 556899 23 2.3
+print
+insert 8227222 91 2.3
+print
+print
+insert 5394627 72 2.3
+delete 6071365
+print
+lookup 9052532
+delete 6813718
+print
+delete 1907960
+print
+insert 2421986 95 2.3
+delete 2126544
+lookup 7994167
+lookup 4980472
+lookup 4194889
+delete 8872155
+print
+insert 5769264 45 2.3
+insert 5259810 3 2.3
+delete 5866363
+lookup 1571530
+print
+lookup 9319222
+delete 5715614
+lookup 6011824
+print
+delete 7571770
+insert 3226922 19 2.3
+delete 936822
+insert 6423759 30 2.3
+print
+delete 252160
+print
+lookup 3008452
+print
+lookup 7786531
+insert 8543879 89 2.3
+delete 6844924
+lookup 8709824
+delete 8959123
+insert 677762 76 2.3
+insert 299706 76 2.3
+delete 5496927
+delete 5763882
+lookup 4396777
+delete 8720306
+delete 8506545
+lookup 9805988
+print
+insert 1684980 88 2.3
+insert 4469704 11 2.3
+print
+lookup 4766986
+delete 796178
+insert 5290863 21 2.3
+print
+print
+insert 9572334 57 2.3
+delete 5778192
+insert 62424 99 2.3
+delete 1269506
+lookup 1994749
+print
+delete 6813155
+lookup 7133439
+print
+lookup 3945484
+delete 762095
+lookup 3761027
+print
+lookup 3672920
+lookup 6662450
+delete 2310889
+insert 5148578 8 2.3
+lookup 9237355
+lookup 3155552
+print
+insert 1315708 79 2.3
+delete 891441
+print
+insert 4581911 79 2.3
+insert 6551982 24 2.3
+lookup 9331435
+insert 512359 7 2.3
+print
+lookup 8327388
+insert 4226981 66 2.3
+lookup 84609
+lookup 7866327
+print
+insert 9525574 95 2.3
+delete 6779211
+delete 2526628
+insert 2384367 73 2.3
+delete 4225302
+lookup 8970486
+delete 7408580
+print
+delete 3232895
+delete 4111082
+delete 3621521
+delete 8320070
+lookup 3885915
+delete 4430982
+lookup 3228703
+delete 5916297
+delete 2132248
+insert 5827454 43 2.3
+lookup 542953
+delete 6445094
+print
+insert 7744833 19 2.3
+insert 9081383 68 2.3
+print
+lookup 7131683
+insert 4455990 7 2.3
+insert 8001283 23 2.3
+insert 5159665 82 2.3
+delete 4052344
+print
+print
+print
+print
+lookup 7196765
+delete 2855073
+print
+lookup 2039378
+delete 5521768
+delete 5793698
+insert 5141725 27 2.3
+insert 2957024 35 2.3
+lookup 6746827
+print
+lookup 6874121
+print
+delete 1171688
+insert 656902 54 2.3
+insert 3609394 41 2.3
+insert 2476407 65 2.3
+print
+lookup 548269
+delete 7491496
+insert 5127171 51 2.3
+insert 6931578 92 2.3
+delete 6157601
+lookup 6157816
+delete 4455361
+insert 5832439 49 2.3
+print
+delete 1913478
+insert 7787409 77 2.3
+print
+insert 5507960 37 2.3
+print
+insert 5097073 25 2.3
+delete 9768025
+delete 6841634
+print
+insert 2032960 15 2.3
+insert 1750980 94 2.3
+delete 333085
+print
+print
+print
+insert 3696648 54 2.3
+print
+lookup 5864639
+lookup 7111310
+insert 3055549 64 2.3
+lookup 8533645
+print
+lookup 2110999
+print
+delete 4417917
+insert 2074629 82 2.3
+print
+insert 7375036 56 2.3
+lookup 332390
+print
+delete 4936328
+print
+print
+print
+lookup 9544305
+insert 6327112 11 2.3
+insert 1598309 58 2.3
+lookup 3810419
+insert 8641569 42 2.3
+delete 7302732
+print
+delete 1601664
+print
+insert 2937608 41 2.3
+delete 4407534
+print
+insert 6707001 29 2.3
+print
+print
+delete 3024045
+print
+delete 1481656
+print
+insert 2434630 32 2.3
+print
+insert 6626055 95 2.3
+lookup 5908733
+delete 6739972
+lookup 2242043
+lookup 9908672
+lookup 394939
+lookup 7424370
+delete 4954278
+print
+print
+insert 5741844 18 2.3
+insert 4118454 89 2.3
+lookup 6750476
+insert 5266426 78 2.3
+print
+delete 6991414
+print
+print
+delete 5120066
+delete 8395414
+delete 6056578
+delete 5069813
+insert 5305422 78 2.3
+print
+print
+insert 2482430 10 2.3
+print
+print
+insert 7193031 63 2.3
+lookup 8329304
+insert 5107895 59 2.3
+insert 3997885 75 2.3
+delete 3129713
+print
+lookup 6499828
+delete 611012
+insert 9180435 71 2.3
+delete 4428390
+insert 4704061 16 2.3
+insert 1527006 86 2.3
+insert 8458255 24 2.3
+delete 576428
+insert 8467673 23 2.3
+insert 5876476 78 2.3
+print
+print
+lookup 8076681
+print
+delete 7272341
+insert 214898 66 2.3
+lookup 4277708
+print
+delete 675064
+insert 1915208 32 2.3
+lookup 2714203
+insert 7374785 95 2.3
+insert 9051927 74 2.3
+insert 4268772 69 2.3
+print
+lookup 7983024
+delete 2949304
+insert 7395493 17 2.3
+delete 9782926
+delete 6658562
+print
+delete 1726243
+delete 6532326
+insert 2092708 47 2.3
+lookup 1247060
+delete 4590533
+print
+insert 3300215 26 2.3
+delete 2900714
+lookup 257105
+delete 6847649
+print
+lookup 456802
+insert 2056346 12 2.3
+insert 9415177 59 2.3
+delete 3159272
+print
+delete 3529760
+delete 8905906
+insert 8496902 63 2.3
+print
+print
+insert 3787401 8 2.3
+insert 2310386 94 2.3
+delete 9795472
+delete 8778252
+lookup 2918994
+delete 5485145
+print
+insert 7241402 74 2.3
+print
+print
+lookup 7395839
+lookup 3819647
+lookup 6759429
+delete 6332887
+delete 6773009
+insert 4795239 45 2.3
+delete 8587990
+delete 2454201
+print
+delete 8347278
+lookup 1702373
+print
+lookup 6093684
+print
+print
+insert 2450289 63 2.3
+insert 1656224 26 2.3
+insert 1278300 94 2.3
+insert 4635207 42 2.3
+print
+print
+insert 5312156 99 2.3
+lookup 4819150
+print
+print
+print
+print
+print
+delete 7618904
+print
+delete 5773874
+delete 9839106
+delete 7483863
+print
+insert 7682342 35 2.3
+delete 8226379
+lookup 8998454
+lookup 5295575
+lookup 4037878
+lookup 5397646
+print
+print
+delete 476417
+insert 3174473 52 2.3
+delete 9298164
+delete 1719877
+print
+print
+delete 221402
+print
+delete 9752287
+lookup 8619707
+lookup 6489017
+insert 8953233 10 2.3
+delete 6908404
+insert 1663499 82 2.3
+delete 2384055
+lookup 8227120
+insert 3145351 53 2.3
+delete 5532314
+print
+insert 5866194 90 2.3
+print
+print
+lookup 2171901
+lookup 3412950
+delete 5003761
+delete 3144324
+insert 9026460 46 2.3
+insert 1584661 56 2.3
+lookup 9539302
+insert 2391015 0 2.3
+print
+print
+print
+print
+print
+insert 2284482 21 2.3
+delete 7887114
+delete 8738233
+lookup 911284
+insert 6413813 83 2.3
+insert 6551926 62 2.3
+lookup 5991460
+delete 598715
+print
+print
+insert 8477176 28 2.3
+delete 9990315
+print
+delete 793928
+lookup 3564588
+insert 4177135 85 2.3
+delete 6435526
+delete 7576340
+delete 3928082
+lookup 7027427
+delete 9681959
+delete 8910534
+print
+lookup 8770750
+insert 4680527 55 2.3
+delete 927603
+print
+lookup 9225912
+insert 7406559 68 2.3
+lookup 4493759
+insert 5513612 87 2.3
+insert 578066 69 2.3
+insert 7943754 25 2.3
+print
+delete 6866729
+delete 8642998
+lookup 3368571
+print
+lookup 1821679
+lookup 4138915
+print
+insert 5025977 5 2.3
+print
+print
+insert 1550775 90 2.3
+insert 3382034 7 2.3
+lookup 238795
+lookup 2280143
+insert 4800921 59 2.3
+lookup 9339129
+lookup 2990953
+print
+insert 1944819 5 2.3
+print
+delete 9342091
+insert 3199406 19 2.3
+delete 1297403
+delete 6354469
+delete 9002778
+print
+insert 8637237 88 2.3
+insert 3519209 31 2.3
+insert 533007 74 2.3
+print
+insert 4779766 78 2.3
+delete 796390
+insert 1919006 37 2.3
+print
+insert 5438290 51 2.3
+delete 6248220
+insert 2455941 48 2.3
+insert 6856322 49 2.3
+lookup 6341092
+print
+delete 8477550
+lookup 1978336
+insert 6400619 39 2.3
+print
+print
+delete 8198657
+print
+insert 4436250 20 2.3
+print
+print
+print
+lookup 482686
+insert 2823011 72 2.3
+print
+delete 5315959
+delete 5992300
+lookup 4755802
+print
+delete 9640035
+delete 7522993
+delete 7909998
+print
+print
+print
+delete 8421701
+lookup 9761226
+delete 8528590
+delete 9931505
+print
+insert 5183284 53 2.3
+insert 6219065 47 2.3
+insert 5593393 58 2.3
+lookup 2841257
+lookup 1395771
+delete 9335847
+print
+print
+lookup 3184884
+lookup 2822946
+delete 4534121
+print
+insert 1212594 62 2.3
+delete 3764966
+lookup 6887241
+print
+print
+lookup 3821155
+lookup 8661539
+print
+insert 6306507 88 2.3
+delete 6120997
+delete 2876985
+print
+delete 1003888
+print
+insert 2579678 42 2.3
+insert 7541241 78 2.3
+print
+delete 3730798
+print
+delete 1743952
+insert 2330000 69 2.3
+lookup 9365269
+delete 1817050
+insert 6193409 52 2.3
+delete 5657430
+print
+delete 4409205
+insert 7089454 3 2.3
+lookup 6940704
+delete 9870776
+insert 8010217 4 2.3
+delete 818574
+lookup 9140400
+lookup 5815492
+print
+delete 7020913
+insert 373118 42 2.3
+insert 4382878 27 2.3
+delete 239626
+delete 6045614
+lookup 1862999
+lookup 9301467
+print
+lookup 9294229
+delete 4779283
+lookup 3632632
+print
+insert 5930934 59 2.3
+delete 2832262
+delete 4683672
+lookup 7696801
+delete 9162667
+insert 6454747 70 2.3
+delete 6166150
+print
+lookup 3092449
+print
+print
+lookup 3119259
+insert 260998 56 2.3
+print
+print
+lookup 3401855
+insert 7335251 18 2.3
+lookup 8956257
+delete 2412562
+print
+insert 9155874 96 2.3
+print
+lookup 4927641
+lookup 1941794
+delete 4774206
+insert 6430179 28 2.3
+print
+lookup 5805660
+delete 1553481
+lookup 4258768
+lookup 5703455
+print
+insert 8084292 8 2.3
+print
+lookup 2044323
+lookup 4845705
+lookup 1627252
+insert 7892592 97 2.3
+print
+delete 5812888
+delete 5171445
+lookup 6891631
+print
+print
+delete 5101127
+delete 2198395
+delete 9500959
+insert 9959584 88 2.3
+print
+lookup 8036846
+lookup 9321538
+print
+delete 662528
+insert 1541839 22 2.3
+insert 1003229 54 2.3
+insert 7573146 51 2.3
+lookup 3454427
+print
+delete 3672509
+insert 4667035 67 2.3
+lookup 2280024
+lookup 3200207
+lookup 5498876
+print
+delete 4141001
+print
+lookup 2059741
+lookup 1374606
+lookup 9975838
+lookup 7176252
+insert 3349755 6 2.3
+lookup 3444060
+delete 7587974
+delete 9233287
+insert 2096600 19 2.3
+print
+delete 2511040
+print
+print
+insert 2274195 4 2.3
+insert 6073697 8 2.3
+lookup 4331693
+lookup 3268478
+delete 1422363
+insert 6817291 1 2.3
+print
+insert 1127966 18 2.3
+print
+insert 8968915 42 2.3
+delete 7805834
+lookup 3934843
+print
+print
+lookup 8297607
+insert 5236612 77 2.3
+lookup 687751
+delete 7713919
+insert 7609173 15 2.3
+print
+print
+print
+print
+insert 8655639 92 2.3
+insert 2058659 15 2.3
+lookup 2344151
+print
+insert 9807190 85 2.3
+insert 6303785 20 2.3
+insert 5405560 42 2.3
+lookup 6710325
+insert 3258976 96 2.3
+lookup 8420646
+print
+insert 6504822 64 2.3
+insert 1448452 53 2.3
+insert 8888757 94 2.3
+delete 3490357
+delete 2337687
+delete 2559244
+delete 7082467
+insert 7414362 58 2.3
+lookup 5990666
+lookup 8262535
+delete 1824974
+print
+insert 7450943 55 2.3
+insert 2284978 37 2.3
+lookup 864031
+lookup 5219559
+lookup 8891552
+delete 5338002
+delete 4626293
+lookup 5793636
+delete 3652496
+delete 6489278
+lookup 1980017
+print
+delete 8981388
+delete 8604884
+lookup 3132934
+lookup 5154523
+delete 5371318
+delete 9861634
+insert 9315040 76 2.3
+insert 1091626 72 2.3
+lookup 9218922
+print
+delete 1664923
+delete 3157357
+lookup 5754744
+print
+insert 865207 53 2.3
+delete 9643752
+lookup 5758541
+delete 3615623
+lookup 2597808
+delete 4494784
+print
+insert 1124782 25 2.3
+print
+lookup 1270425
+print
+insert 5352457 87 2.3
+print
+lookup 1748484
+print
+insert 9436917 18 2.3
+delete 5678275
+insert 4366822 0 2.3
+delete 845852
+print
+insert 9162961 35 2.3
+print
+delete 5419984
+delete 730686
+delete 7195701
+delete 757360
+lookup 9258909
+print
+insert 2547706 43 2.3
+delete 8600459
+delete 4931042
+lookup 3856901
+print
+insert 6773588 65 2.3
+print
+print
+lookup 4935541
+delete 2519942
+insert 3014510 32 2.3
+insert 34936 24 2.3
+delete 3968486
+delete 4673901
+insert 9968364 74 2.3
+lookup 341940
+delete 9275094
+insert 5852267 93 2.3
+print
+lookup 908530
+lookup 1553756
+delete 7312788
+lookup 2469472
+print
+insert 7287671 29 2.3
+lookup 3070871
+insert 4203148 79 2.3
+print
+delete 8477327
+lookup 9544596
+insert 4014706 61 2.3
+lookup 9958810
+lookup 6175418
+insert 6723624 4 2.3
+print
+delete 4123245
+insert 8801622 71 2.3
+delete 8690288
+print
+print
+insert 5261026 44 2.3
+delete 2901599
+insert 1953764 69 2.3
+print
+insert 355614 68 2.3
+delete 1329953
+insert 1052700 54 2.3
+delete 2581402
+lookup 9978167
+lookup 3636894
+print
+insert 3665754 93 2.3
+print
+insert 7996943 9 2.3
+lookup 7985760
+print
+delete 6990763
+insert 7464035 58 2.3
+insert 7537558 65 2.3
+lookup 9209373
+print
+print
+print
+print
+insert 2417303 86 2.3
+lookup 1168617
+insert 5094665 66 2.3
+lookup 5917655
+print
+print
+print
+print
+insert 1154550 27 2.3
+insert 9450709 71 2.3
+delete 1473290
+print
+delete 3190293
+lookup 6287666
+print
+insert 4356669 80 2.3
+delete 4606151
+print
+delete 6692584
+print
+insert 8472400 95 2.3
+insert 8260499 41 2.3
+print
+insert 144079 88 2.3
+delete 166628
+print
+delete 6629554
+insert 4876661 39 2.3
+delete 4038008
+print
+print
+delete 6499763
+lookup 2342711
+print
+print
+print
+lookup 3275714
+insert 931268 79 2.3
+print
+lookup 1568366
+delete 6931177
+lookup 1727890
+lookup 8054116
+delete 7626804
+lookup 9019174
+lookup 6472070
+print
+insert 6342498 1 2.3
+print
+insert 486836 13 2.3
+lookup 458585
+lookup 4289856
+lookup 4106187
+insert 6236740 65 2.3
+delete 266152
+insert 3870423 33 2.3
+lookup 3433168
+insert 4514755 68 2.3
+insert 2962130 18 2.3
+insert 4297847 96 2.3
+delete 7858954
+print
+lookup 9892413
+lookup 8029060
+lookup 5996199
+lookup 6736671
+insert 2414402 56 2.3
+delete 5786200
+insert 5942844 27 2.3
+delete 2425019
+insert 7640260 27 2.3
+insert 1937973 39 2.3
+print
+insert 715720 26 2.3
+print
+insert 8806786 94 2.3
+delete 1387607
+delete 58943
+print
+insert 5233067 62 2.3
+print
+insert 5551420 34 2.3
+print
+print
+delete 5549392
+delete 6518672
+print
+delete 2920742
+lookup 2069822
+insert 2352992 50 2.3
+lookup 9729522
+delete 2841121
+lookup 8906061
+delete 1307738
+print
+lookup 1256544
+delete 6760060
+delete 9025381
+delete 995286
+print
+lookup 823140
+print
+insert 6711105 21 2.3
+lookup 9557632
+print
+print
+insert 2913903 99 2.3
+delete 7532885
+delete 8547434
+delete 7506398
+lookup 105280
+insert 6233789 79 2.3
+print
+insert 2737598 2 2.3
+insert 5931108 55 2.3
+print
+insert 3270657 56 2.3
+delete 7802081
+insert 904760 50 2.3
+lookup 8076077
+delete 6948698
+lookup 5654231
+lookup 2378788
+delete 1228410
+delete 3356118
+insert 8481143 14 2.3
+delete 6879333
+delete 9911558
+delete 9068875
+insert 5420545 34 2.3
+lookup 2554056
+print
+lookup 4154359
+delete 1932627
+print
+delete 1113922
+print
+delete 444158
+print
+lookup 4981326
+insert 6964980 17 2.3
+insert 6118920 96 2.3
+lookup 9245135
+lookup 4540741
+delete 9429009
+insert 6416837 91 2.3
+insert 4974800 1 2.3
+print
+lookup 9638254
+insert 5260945 53 2.3
+lookup 6376488
+delete 3855499
+insert 87768 70 2.3
+insert 4151868 55 2.3
+lookup 9732772
+delete 8303902
+insert 3757940 52 2.3
+delete 5031093
+lookup 4444942
+delete 3278662
+print
+print
+print
+delete 6350380
+delete 7150729
+delete 6946333
+insert 7689441 20 2.3
+delete 9191442
+lookup 3035604
+print
+lookup 8003391
+delete 8435459
+insert 7659648 89 2.3
+insert 5035629 66 2.3
+print
+print
+delete 5815523
+delete 157099
+print
+delete 6023295
+delete 7455021
+lookup 2682430
+lookup 6916088
+lookup 7866726
+print
+insert 6836233 60 2.3
+delete 4953954
+insert 2524375 45 2.3
+delete 4952489
+lookup 1480762
+insert 5727544 25 2.3
+lookup 8880355
+insert 6859608 47 2.3
+delete 7114497
+insert 9483342 28 2.3
+insert 283515 71 2.3
+insert 1455952 67 2.3
+delete 8771284
+delete 5698249
+print
+insert 1294542 20 2.3
+print
+delete 5908732
+print
+insert 7502936 95 2.3
+insert 3186090 61 2.3
+print
+insert 5607559 91 2.3
+print
+lookup 1888241
+print
+delete 7512991
+insert 9614249 52 2.3
+insert 6652943 45 2.3
+print
+insert 5451315 81 2.3
+delete 7606844
+lookup 997122
+insert 8760633 57 2.3
+delete 8861119
+lookup 7215512
+delete 8079109
+print
+insert 6937622 26 2.3
+insert 451315 23 2.3
+insert 267484 10 2.3
+delete 9564683
+delete 5590378
+print
+delete 9433900
+insert 8387739 8 2.3
+print
+delete 5833485
+print
+print
+insert 4687152 57 2.3
+print
+delete 3928901
+delete 3224826
+print
+delete 2521498
+insert 868836 19 2.3
+delete 949615
+delete 9455166
+insert 6108686 23 2.3
+insert 8699713 8 2.3
+lookup 9650204
+print
+insert 7870958 5 2.3
+delete 5244086
+lookup 9338874
+lookup 4255269
+insert 1460669 0 2.3
+print
+insert 1375120 24 2.3
+lookup 4633881
+delete 9537522
+delete 4957298
+print
+lookup 9215126
+insert 735149 79 2.3
+print
+insert 4532072 2 2.3
+print
+delete 4963832
+print
+delete 4363227
+lookup 9957913
+delete 781698
+insert 8258183 43 2.3
+print
+delete 2638689
+print
+delete 5342058
+insert 7051367 93 2.3
+delete 1123566
+delete 9295135
+delete 8541326
+insert 3568805 54 2.3
+insert 1353195 2 2.3
+delete 4240654
+print
+lookup 625069
+insert 5800690 4 2.3
+insert 1803129 90 2.3
+insert 468114 42 2.3
+print
+insert 2304003 93 2.3
+insert 4540555 7 2.3
+print
+delete 4463117
+delete 8161497
+delete 2423355
+lookup 488755
+print
+print
+print
+delete 215131
+delete 8968663
+lookup 1875087
+delete 4288901
+lookup 5006115
+lookup 4361608
+insert 6364180 71 2.3
+lookup 3946354
+lookup 8096030
+insert 1482271 55 2.3
+insert 7492733 50 2.3
+print
+delete 2504089
+delete 4912782
+print
+insert 1437182 45 2.3
+insert 5453630 17 2.3
+insert 1792424 30 2.3
+insert 1908900 26 2.3
+delete 759102
+delete 5193773
+delete 935026
+lookup 2000327
+lookup 4930419
+print
+print
+lookup 5535196
+lookup 7682484
+print
+print
+insert 749615 87 2.3
+delete 6005063
+insert 47687 60 2.3
+print
+insert 7694910 77 2.3
+lookup 2917222
+print
+print
+delete 8720998
+insert 5715470 15 2.3
+lookup 6346030
+delete 9164748
+delete 4204945
+insert 3052556 62 2.3
+print
+delete 9733587
+delete 9275854
+delete 6237603
+delete 2075457
+delete 5053766
+delete 5350969
+lookup 5155989
+lookup 3222541
+print
+delete 7363981
+delete 3060726
+lookup 2633780
+delete 7715408
+delete 9172107
+print
+insert 7615860 41 2.3
+delete 3421084
+lookup 726954
+print
+delete 6211098
+print
+insert 5158397 80 2.3
+print
+lookup 3922643
+delete 2158655
+print
+delete 6840705
+print
+print
+insert 9824664 83 2.3
+delete 4169426
+print
+print
+lookup 2567370
+lookup 9425664
+insert 4750136 40 2.3
+insert 121644 29 2.3
+lookup 4020913
+print
+delete 9142029
+print
+delete 2885390
+print
+print
+print
+lookup 5463609
+insert 6709310 21 2.3
+delete 140578
+print
+insert 9765915 7 2.3
+delete 6856329
+delete 4719903
+print
+insert 2173500 42 2.3
+print
+lookup 3778784
+delete 8476333
+lookup 3583202
+delete 9847958
+insert 1456481 52 2.3
+delete 1588140
+print
+delete 8765246
+print
+delete 3659542
+insert 5066391 54 2.3
+print
+delete 5644312
+delete 946090
+delete 5851938
+insert 4937034 57 2.3
+print
+lookup 4885666
+insert 7221569 22 2.3
+lookup 2939559
+lookup 7445605
+delete 9389993
+lookup 7293704
+insert 4867425 53 2.3
+print
+lookup 2559447
+lookup 9664850
+insert 9211686 80 2.3
+print
+lookup 2148754
+insert 2994111 22 2.3
+print
+insert 542595 19 2.3
+lookup 5384825
+insert 4662783 53 2.3
+print
+print
+lookup 3631871
+lookup 2254852
+delete 8329852
+print
+print
+lookup 5328602
+delete 9538987
+lookup 7074380
+print
+print
+print
+print
+lookup 5511595
+delete 6118227
+delete 1618222
+delete 9591103
+print
+print
+insert 6807612 96 2.3
+insert 5674324 37 2.3
+insert 9925617 44 2.3
+insert 7841159 67 2.3
+delete 3173937
+insert 6479312 81 2.3
+delete 7962715
+print
+print
+print
+insert 742049 78 2.3
+lookup 7216907
+delete 8617354
+lookup 1127048
+insert 3348254 18 2.3
+delete 1928475
+print
+insert 8104284 60 2.3
+insert 5314567 94 2.3
+lookup 8390551
+insert 6955742 24 2.3
+insert 3875354 62 2.3
+delete 7057624
+insert 4109840 18 2.3
+print
+print
+lookup 9617186
+delete 7322740
+print
+insert 2343439 21 2.3
+insert 6195136 67 2.3
+print
+delete 192642
+insert 6698186 0 2.3
+delete 7514340
+delete 5113650
+lookup 8621902
+delete 3476495
+insert 2396018 10 2.3
+insert 3113687 95 2.3
+lookup 7857112
+print
+lookup 82031
+delete 1025738
+print
+print
+print
+print
+print
+lookup 6170242
+lookup 1952431
+delete 4433086
+delete 6337041
+delete 2036658
+insert 2233219 34 2.3
+insert 7717073 95 2.3
+delete 4924791
+print
+lookup 3867250
+insert 1264908 62 2.3
+print
+lookup 121438
+insert 6827168 75 2.3
+delete 6273297
+lookup 371370
+lookup 1950383
+insert 6860869 73 2.3
+lookup 3885451
+print
+lookup 5096403
+insert 1305728 17 2.3
+print
+lookup 2923290
+delete 2081891
+print
+insert 6201846 9 2.3
+insert 8803999 73 2.3
+insert 7851580 3 2.3
+insert 612750 96 2.3
+insert 2264045 59 2.3
+delete 6486701
+lookup 2852846
+delete 3881353
+print
+insert 9373790 18 2.3
+insert 7922095 30 2.3
+insert 105594 22 2.3
+lookup 2724714
+print
+delete 280128
+lookup 5583560
+print
+insert 9978915 46 2.3
+print
+delete 1761777
+delete 7388094
+insert 8416140 19 2.3
+delete 6822274
+delete 7523323
+print
+print
+insert 5107496 85 2.3
+print
+lookup 3486451
+lookup 5033476
+delete 6067665
+delete 7902801
+insert 951343 22 2.3
+delete 9169268
+lookup 5129466
+print
+print
+delete 8891437
+delete 6771781
+lookup 9526232
+print
+insert 9875153 80 2.3
+print
+delete 1802282
+lookup 6680700
+lookup 2127113
+insert 8095527 48 2.3
+insert 9367873 5 2.3
+lookup 4080046
+insert 4605605 7 2.3
+lookup 8372040
+insert 9612125 46 2.3
+delete 6261066
+lookup 2099931
+delete 1319570
+lookup 6924358
+insert 4652538 9 2.3
+lookup 2402314
+insert 5885193 11 2.3
+print
+delete 7411755
+lookup 40168
+delete 1160989
+delete 5144936
+lookup 9759721
+delete 8347561
+print
+print
+insert 8180339 12 2.3
+lookup 6953266
+insert 5465263 35 2.3
+delete 2096445
+lookup 2895135
+delete 4181500
+lookup 7277025
+delete 857858
+delete 7496224
+insert 7069860 84 2.3
+insert 6437628 66 2.3
+insert 4749417 38 2.3
+delete 174279
+lookup 1022681
+lookup 5790830
+insert 8177350 82 2.3
+print
+print
+delete 4999840
+print
+insert 8702620 49 2.3
+lookup 5349585
+lookup 108542
+insert 8696876 25 2.3
+lookup 1269163
+print
+insert 520148 51 2.3
+insert 4081330 53 2.3
+lookup 8683070
+lookup 4644226
+lookup 7046955
+delete 4347733
+insert 237682 50 2.3
+lookup 9414739
+delete 1498936
+insert 6899532 3 2.3
+insert 1467955 66 2.3
+insert 6390067 89 2.3
+insert 8452200 94 2.3
+insert 6776488 52 2.3
+delete 796999
+delete 778447
+lookup 8207181
+lookup 7423600
+insert 6961945 94 2.3
+insert 432453 19 2.3
+lookup 3001129
+lookup 6206900
+insert 4764393 38 2.3
+delete 3252201
+print
+delete 9660855
+insert 4577851 61 2.3
+delete 8351744
+delete 6540953
+insert 7471792 54 2.3
+delete 7567178
+insert 8860368 25 2.3
+delete 1528777
+lookup 772744
+lookup 1302779
+print
+lookup 2601100
+delete 9972252
+print
+delete 6577845
+delete 22381
+print
+print
+lookup 6213492
+print
+insert 7719651 86 2.3
+lookup 5589906
+print
+delete 6657464
+insert 9395346 68 2.3
+delete 3433928
+delete 1310484
+lookup 5427311
+print
+insert 3521008 94 2.3
+lookup 1567851
+delete 4526087
+insert 6041239 7 2.3
+print
+lookup 8285357
+print
+delete 8175840
+print
+insert 4409000 73 2.3
+print
+insert 318244 17 2.3
+delete 6742954
+print
+lookup 2872752
+insert 7618697 62 2.3
+print
+lookup 8585892
+insert 2215065 3 2.3
+insert 9328014 24 2.3
+insert 4776953 73 2.3
+delete 7806949
+print
+lookup 4720833
+print
+lookup 6176168
+print
+insert 7884154 45 2.3
+insert 3788958 53 2.3
+print
+insert 9052704 39 2.3
+delete 7006293
+lookup 7225225
+print
+insert 1203868 75 2.3
+insert 4566744 44 2.3
+insert 8609359 52 2.3
+print
+lookup 654725
+delete 5515886
+lookup 2134721
+lookup 5275184
+lookup 6587261
+delete 2052916
+delete 8704960
+insert 8849288 88 2.3
+insert 7082263 31 2.3
+insert 4912028 43 2.3
+insert 1658217 51 2.3
+insert 4852339 78 2.3
+print
+delete 9233073
+insert 1878952 85 2.3
+insert 9124183 82 2.3
+delete 8555920
+insert 2194907 27 2.3
+print
+delete 7257925
+lookup 4271238
+insert 8451146 88 2.3
+insert 3880522 34 2.3
+insert 8993346 10 2.3
+print
+lookup 3665242
+lookup 7847084
+delete 1807493
+print
+lookup 9880024
+lookup 7076145
+insert 5798502 5 2.3
+print
+print
+lookup 2040286
+delete 2914610
+lookup 8307041
+lookup 1688944
+insert 904735 54 2.3
+lookup 8555471
+lookup 8705831
+insert 8993455 18 2.3
+delete 3137263
+lookup 2853109
+delete 5091223
+insert 3133563 71 2.3
+print
+insert 5518061 8 2.3
+print
+delete 2768195
+insert 871371 21 2.3
+delete 258195
+insert 7658156 96 2.3
+delete 6843233
+print
+print
+insert 686366 65 2.3
+insert 7265180 2 2.3
+lookup 656079
+lookup 7577388
+lookup 5250376
+print
+insert 3392586 53 2.3
+lookup 4730363
+lookup 2858800
+delete 1320405
+delete 6826278
+print
+insert 3974288 24 2.3
+insert 4073475 96 2.3
+print
+print
+lookup 8925100
+lookup 8108261
+insert 7374324 63 2.3
+lookup 1700602
+insert 4749983 19 2.3
+insert 2017798 45 2.3
+insert 2032467 75 2.3
+lookup 2668048
+print
+insert 7966782 30 2.3
+print
+lookup 7402723
+insert 654926 1 2.3
+lookup 5757808
+delete 5395767
+lookup 8258454
+print
+insert 766744 14 2.3
+lookup 4099741
+print
+print
+insert 7229263 38 2.3
+lookup 1972963
+insert 4971714 86 2.3
+insert 7107636 43 2.3
+print
+lookup 1429171
+delete 3333469
+print
+insert 3100597 93 2.3
+print
+insert 2916409 38 2.3
+lookup 2598644
+delete 5382460
+print
+lookup 5153514
+insert 902683 40 2.3
+lookup 6095850
+delete 7000762
+print
+insert 2803828 43 2.3
+delete 648282
+lookup 7143258
+print
+delete 6782470
+insert 4737017 62 2.3
+lookup 7377045
+lookup 6893573
+insert 8929991 6 2.3
+lookup 7906260
+delete 6023084
+lookup 6917111
+print
+print
+insert 9311192 83 2.3
+lookup 9501480
+delete 1734537
+delete 196173
+lookup 1738334
+insert 8866598 38 2.3
+delete 1593372
+delete 9311617
+print
+print
+delete 1614086
+print
+insert 9701594 79 2.3
+insert 1188405 30 2.3
+print
+print
+insert 2877417 8 2.3
+delete 175500
+delete 9172306
+delete 7984726
+print
+insert 3510140 44 2.3
+print
+delete 5402788
+lookup 7118865
+print
+insert 6951444 8 2.3
+insert 8917475 50 2.3
+delete 5154472
+print
+insert 3190973 37 2.3
+delete 4839470
+delete 1142401
+insert 9585560 83 2.3
+print
+print
+print
+delete 1547235
+delete 690941
+print
+delete 2500341
+insert 7234578 82 2.3
+lookup 6609140
+delete 4981427
+insert 6771058 0 2.3
+lookup 5047555
+lookup 8144159
+print
+insert 1203785 17 2.3
+print
+insert 3852380 93 2.3
+insert 8023598 93 2.3
+insert 5196326 52 2.3
+print
+lookup 5552381
+lookup 4580428
+print
+print
+lookup 2265376
+lookup 1561684
+delete 2425482
+insert 2245621 97 2.3
+print
+insert 3120635 93 2.3
+insert 6687220 90 2.3
+delete 8284485
+delete 6608365
+insert 1115934 75 2.3
+delete 3368954
+print
+lookup 89179
+insert 9478489 78 2.3
+print
+lookup 5310673
+insert 3206702 32 2.3
+insert 6189893 78 2.3
+lookup 6781238
+delete 9839885
+lookup 1849662
+delete 7438859
+insert 2706230 88 2.3
+lookup 1661858
+print
+lookup 7578645
+lookup 4388062
+lookup 610204
+print
+insert 8714147 32 2.3
+print
+insert 8348294 34 2.3
+print
+print
+print
+insert 4872596 64 2.3
+delete 8152991
+lookup 5400981
+insert 3633078 60 2.3
+print
+delete 6019960
+lookup 626211
+print
+insert 8266004 96 2.3
+insert 6826225 83 2.3
+print
+lookup 2353201
+insert 4097253 83 2.3
+print
+delete 565671
+delete 5257171
+print
+lookup 7873231
+lookup 1771121
+insert 36041 14 2.3
+insert 1446180 86 2.3
+print
+insert 2129618 31 2.3
+print
+delete 7726260
+insert 6772440 84 2.3
+delete 869354
+print
+lookup 1600796
+print
+insert 5326845 90 2.3
+delete 9471125
+delete 5347750
+insert 7174635 95 2.3
+insert 5010006 45 2.3
+delete 2972868
+delete 8131854
+insert 4691599 84 2.3
+insert 8347641 24 2.3
+insert 6782891 42 2.3
+delete 8783166
+print
+print
+delete 1802970
+lookup 1146688
+print
+insert 9750968 56 2.3
+print
+print
+print
+insert 3000094 22 2.3
+delete 524912
+lookup 6839226
+lookup 9908357
+delete 7635735
+print
+insert 2625662 49 2.3
+insert 9859304 45 2.3
+lookup 4098418
+print
+delete 5236772
+delete 3523928
+insert 5557706 0 2.3
+print
+print
+print
+delete 7163151
+insert 7383095 46 2.3
+print
+print
+lookup 460362
+lookup 6750926
+insert 5939975 50 2.3
+insert 8985883 25 2.3
+insert 7283708 48 2.3
+insert 9244782 54 2.3
+insert 1154865 1 2.3
+print
+insert 9421948 88 2.3
+insert 5895208 56 2.3
+lookup 7540270
+print
+insert 185341 44 2.3
+delete 3238351
+insert 7832699 76 2.3
+print
+delete 6272228
+delete 5858543
+insert 1583063 92 2.3
+lookup 6028953
+lookup 3885557
+print
+insert 8868614 96 2.3
+print
+lookup 5184050
+print
+lookup 2440550
+print
+print
+lookup 5728102
+print
+insert 5473224 87 2.3
+delete 7565165
+delete 6735696
+insert 8926264 74 2.3
+print
+delete 562421
+print
+print
+lookup 9884051
+print
+delete 7570747
+insert 3964615 82 2.3
+delete 3162941
+insert 4057030 64 2.3
+insert 3350360 30 2.3
+print
+delete 5773305
+insert 4457695 91 2.3
+print
+lookup 3902324
+lookup 7951252
+lookup 1331896
+insert 7407531 51 2.3
+print
+delete 8864797
+print
+insert 2746368 17 2.3
+print
+lookup 7450425
+lookup 7121437
+print
+delete 9061451
+print
+insert 2110443 81 2.3
+print
+lookup 4737373
+insert 2610370 34 2.3
+delete 8306088
+lookup 8947483
+delete 4309779
+delete 848558
+insert 9760857 89 2.3
+print
+print
+delete 8984151
+insert 1082259 41 2.3
+print
+lookup 7124591
+lookup 1183268
+delete 4221973
+delete 3715348
+print
+delete 2926995
+print
+insert 2356193 80 2.3
+lookup 6775563
+print
+delete 5036776
+lookup 2930272
+print
+lookup 9263763
+print
+lookup 2431910
+print
+delete 9022064
+delete 3261734
+print
+insert 1750966 66 2.3
+insert 254169 87 2.3
+delete 4257749
+lookup 8765928
+lookup 784097
+lookup 873194
+insert 7786545 46 2.3
+lookup 4449842
+delete 5264316
+delete 4939172
+delete 6935321
+print
+lookup 130759
+lookup 2633012
+delete 4832643
+insert 2687104 7 2.3
+print
+insert 9724145 61 2.3
+print
+delete 7589501
+print
+insert 7704653 61 2.3
+print
+insert 8877069 83 2.3
+delete 2450110
+lookup 7590640
+print
+lookup 2734520
+print
+print
+delete 3878088
+delete 3872751
+insert 6699050 73 2.3
+print
+insert 7400798 70 2.3
+print
+print
+lookup 3423228
+insert 2977901 90 2.3
+insert 4715855 21 2.3
+print
+print
+lookup 2132051
+delete 6676847
+print
+print
+delete 9887320
+insert 3922200 23 2.3
+lookup 2269016
+insert 1421477 49 2.3
+print
+print
+delete 4166288
+delete 9227013
+delete 2768426
+lookup 3268351
+print
+insert 3341277 24 2.3
+delete 8380750
+delete 9676164
+lookup 9376204
+insert 2084237 87 2.3
+delete 887646
+delete 2498876
+print
+delete 8227232
+insert 6016355 44 2.3
+lookup 3829384
+delete 1504847
+lookup 390989
+delete 6136632
+lookup 6041320
+insert 8879001 51 2.3
+insert 8823920 48 2.3
+print
+print
+print
+insert 7157016 55 2.3
+lookup 3716045
+lookup 2936700
+print
+print
+print
+lookup 4481982
+lookup 7314122
+lookup 1053911
+print
+lookup 3166628
+lookup 9231710
+insert 1036163 94 2.3
+lookup 2692088
+insert 940097 64 2.3
+print
+delete 7413391
+lookup 1018363
+delete 5332595
+delete 7143320
+delete 2215233
+lookup 2821567
+print
+lookup 2908276
+print
+delete 1383497
+print
+delete 8529494
+lookup 6800799
+print
+delete 3807049
+lookup 3818169
+delete 6816281
+lookup 879664
+print
+lookup 7221085
+insert 7329426 18 2.3
+lookup 4366203
+delete 9143377
+insert 4332368 28 2.3
+print
+delete 8454015
+print
+delete 1142825
+lookup 6808317
+insert 8804724 34 2.3
+print
+delete 1275450
+lookup 1168770
+insert 3376557 60 2.3
+delete 7535698
+lookup 91735
+delete 9590552
+insert 4425384 28 2.3
+print
+insert 4732748 31 2.3
+insert 4625838 44 2.3
+print
+insert 3952707 74 2.3
+delete 5949467
+insert 8199935 21 2.3
+insert 7600657 56 2.3
+print
+delete 5901180
+lookup 7194586
+lookup 281830
+insert 231348 56 2.3
+delete 220421
+insert 5333279 72 2.3
+insert 1630284 68 2.3
+lookup 1863172
+insert 1042373 49 2.3
+print
+delete 9153089
+delete 124947
+delete 1332314
+delete 328803
+insert 480321 43 2.3
+insert 7363973 50 2.3
+lookup 3110342
+delete 9470412
+print
+delete 1578163
+print
+delete 6451477
+delete 2163122
+insert 4012538 15 2.3
+print
+insert 7187972 89 2.3
+insert 124180 0 2.3
+insert 4493295 42 2.3
+lookup 3734164
+delete 6267935
+insert 5140253 42 2.3
+lookup 6990176
+print
+print
+insert 2709392 44 2.3
+lookup 8212953
+insert 8727559 80 2.3
+insert 9105734 39 2.3
+delete 8652475
+print
+insert 9953525 28 2.3
+insert 752340 54 2.3
+print
+delete 1839928
+insert 6747422 1 2.3
+insert 7640839 38 2.3
+lookup 1785604
+print
+delete 3053605
+insert 6261434 41 2.3
+lookup 1987805
+insert 4997251 65 2.3
+insert 7368013 92 2.3
+print
+print
+print
+insert 9528168 48 2.3
+delete 3843032
+lookup 9417249
+insert 7070192 32 2.3
+delete 1489674
+lookup 2474637
+lookup 2974779
+print
+print
+lookup 4390099
+delete 4738159
+insert 8286552 80 2.3
+delete 5082332
+print
+lookup 9938781
+print
+insert 4989609 73 2.3
+insert 2831095 64 2.3
+delete 8612222
+print
+lookup 7303064
+print
+delete 4746314
+lookup 9561612
+insert 8028091 60 2.3
+print
+print
+lookup 4864096
+lookup 4348248
+print
+print
+insert 3572626 47 2.3
+lookup 1988082
+delete 9692405
+insert 5136997 80 2.3
+print
+print
+print
+delete 622703
+print
+delete 179797
+lookup 1366440
+delete 8128747
+lookup 2832815
+insert 4012084 30 2.3
+delete 6600505
+delete 384915
+print
+print
+lookup 9493247
+insert 8545727 40 2.3
+print
+lookup 435494
+insert 5174842 63 2.3
+insert 4138673 85 2.3
+lookup 5636897
+delete 5170262
+insert 3141525 17 2.3
+insert 2459071 99 2.3
+delete 3660283
+delete 5548758
+insert 9405719 77 2.3
+lookup 6721757
+print
+delete 262568
+lookup 3009992
+print
+print
+lookup 9121974
+delete 359186
+insert 7553884 89 2.3
+delete 9311783
+delete 4122364
+insert 7089180 14 2.3
+print
+delete 7473463
+lookup 163200
+insert 4294779 43 2.3
+print
+print
+lookup 4176732
+delete 8227877
+insert 4790387 77 2.3
+delete 3643600
+lookup 499555
+insert 4319180 90 2.3
+print
+delete 5207811
+insert 9252254 29 2.3
+delete 3114528
+lookup 3724997
+print
+print
+insert 9392093 54 2.3
+insert 9930173 12 2.3
+print
+delete 1308988
+insert 2708796 90 2.3
+lookup 6771807
+lookup 5464727
+delete 2552401
+lookup 6747124
+print
+lookup 1686494
+lookup 4820288
+lookup 2164970
+insert 4697588 66 2.3
+lookup 5019941
+insert 6618461 98 2.3
+lookup 2627325
+delete 9826336
+lookup 5789975
+delete 5688597
+lookup 5269070
+lookup 3013981
+lookup 9052941
+print
+insert 6068330 79 2.3
+insert 1041656 85 2.3
+insert 939760 89 2.3
+lookup 2443169
+print
+delete 6199461
+print
+insert 2451994 2 2.3
+delete 2572188
+delete 4811454
+insert 1661854 89 2.3
+delete 3192340
+print
+print
+lookup 5344565
+print
+insert 4651101 63 2.3
+insert 760334 95 2.3
+insert 9551573 92 2.3
+delete 4535397
+delete 792593
+lookup 5266680
+insert 5190543 21 2.3
+delete 9870695
+delete 396059
+print
+print
+lookup 5524786
+print
+print
+insert 9206215 56 2.3
+insert 44660 88 2.3
+lookup 5636222
+delete 2669665
+insert 8331447 17 2.3
+insert 8143411 90 2.3
+print
+print
+print
+insert 8661333 97 2.3
+insert 6362442 95 2.3
+print
+insert 6796119 63 2.3
+lookup 4719031
+lookup 6288014
+print
+lookup 1133845
+delete 8611123
+lookup 2259986
+print
+print
+print
+delete 3528738
+delete 5006069
+print
+print
+insert 772622 3 2.3
+delete 1609413
+delete 6040776
+insert 7743337 99 2.3
+delete 4218401
+insert 5839794 79 2.3
+print
+insert 7062826 92 2.3
+lookup 8860921
+delete 5954001
+delete 7758232
+insert 231882 59 2.3
+delete 2350434
+print
+insert 1372081 14 2.3
+delete 9667716
+print
+lookup 9445257
+lookup 4249406
+lookup 847909
+insert 1059481 62 2.3
+lookup 6157850
+print
+delete 2843032
+print
+print
+insert 7777184 42 2.3
+insert 7666528 49 2.3
+insert 2988596 34 2.3
+print
+insert 6288151 97 2.3
+insert 2099111 57 2.3
+insert 5568698 69 2.3
+print
+print
+print
+print
+delete 6539413
+delete 2416179
+delete 4273135
+insert 2634171 13 2.3
+lookup 8780805
+delete 2244221
+lookup 9728556
+delete 7210411
+print
+delete 4187625
+delete 6851998
+insert 5599522 8 2.3
+print
+print
+lookup 426220
+print
+print
+print
+insert 2539515 57 2.3
+delete 3957954
+lookup 2219449
+print
+lookup 4721266
+lookup 3863241
+lookup 2165057
+insert 5180949 26 2.3
+delete 3820895
+delete 4413980
+delete 912227
+print
+lookup 8441713
+lookup 4424232
+insert 4955586 59 2.3
+insert 669366 57 2.3
+insert 2042743 31 2.3
+delete 3032061
+delete 5535711
+delete 8619191
+lookup 7289174
+delete 1262338
+lookup 5365506
+delete 6909314
+delete 8472892
+lookup 4561636
+insert 5977208 27 2.3
+print
+lookup 670831
+insert 7065684 2 2.3
+delete 7921550
+delete 8355844
+delete 6056703
+print
+insert 5731632 46 2.3
+lookup 5411228
+delete 6698800
+insert 7516607 33 2.3
+print
+insert 7917068 23 2.3
+insert 6912076 86 2.3
+delete 3817472
+print
+delete 7484396
+lookup 1909258
+print
+print
+print
+insert 5551237 44 2.3
+print
+insert 506374 97 2.3
+lookup 873251
+insert 7593617 70 2.3
+print
+lookup 2058823
+delete 8604542
+lookup 6311324
+lookup 3633372
+insert 3930433 59 2.3
+insert 1638493 92 2.3
+insert 9980371 17 2.3
+delete 7555218
+delete 9547844
+insert 6576923 42 2.3
+delete 7291343
+lookup 4117746
+print
+insert 7301173 38 2.3
+lookup 1826006
+print
+delete 8269759
+lookup 8916768
+lookup 1100315
+lookup 6799420
+print
+insert 8956108 90 2.3
+lookup 1214221
+delete 232993
+insert 3241854 83 2.3
+lookup 6929261
+delete 7068936
+lookup 2651274
+delete 5793690
+lookup 5557819
+lookup 97017
+print
+delete 3122297
+print
+lookup 5767816
+insert 168376 74 2.3
+insert 8353788 83 2.3
+delete 5958621
+insert 6039885 53 2.3
+delete 2116864
+insert 3055822 65 2.3
+insert 1100116 80 2.3
+insert 1625773 63 2.3
+lookup 8775306
+print
+lookup 6680601
+print
+insert 3948044 35 2.3
+delete 3921508
+print
+insert 5581589 81 2.3
+insert 4563882 94 2.3
+print
+print
+print
+print
+delete 2504416
+lookup 3782061
+print
+lookup 3723816
+insert 4898147 63 2.3
+insert 5436815 62 2.3
+delete 8761580
+lookup 4243154
+print
+print
+delete 4369308
+lookup 3531259
+delete 8976453
+delete 1365311
+print
+delete 5889507
+lookup 6289959
+insert 4410608 73 2.3
+insert 1936747 58 2.3
+print
+lookup 5234856
+delete 6289493
+insert 79024 12 2.3
+print
+print
+delete 7865171
+insert 1980032 30 2.3
+delete 357301
+delete 8151776
+lookup 1725694
+print
+insert 7861913 24 2.3
+delete 3870211
+lookup 7739270
+lookup 9967058
+delete 8085614
+print
+insert 8968817 62 2.3
+lookup 5150499
+delete 4494611
+insert 472288 47 2.3
+lookup 2891999
+lookup 7971577
+delete 547775
+insert 9027944 21 2.3
+lookup 6391868
+insert 2893311 42 2.3
+delete 740963
+delete 3649947
+delete 8036027
+delete 3278943
+delete 104033
+delete 6303043
+lookup 5003242
+print
+lookup 6535426
+lookup 8426861
+insert 9044716 24 2.3
+print
+delete 8348996
+insert 3677918 42 2.3
+delete 2364052
+insert 9243446 29 2.3
+delete 4049297
+insert 5099491 58 2.3
+insert 3387910 1 2.3
+print
+insert 8263733 30 2.3
+lookup 5924846
+delete 6549878
+delete 2765050
+insert 6631167 52 2.3
+delete 2326384
+print
+delete 3255931
+lookup 4812383
+lookup 8632377
+delete 2665828
+print
+print
+print
+insert 3461790 8 2.3
+delete 2996959
+insert 4023265 63 2.3
+print
+insert 2421810 94 2.3
+lookup 3910980
+delete 6964098
+insert 8489098 59 2.3
+lookup 8727845
+lookup 5833741
+print
+delete 9596066
+lookup 8046877
+insert 7467816 31 2.3
+print
+delete 9405735
+lookup 8934652
+delete 8822030
+delete 6978221
+delete 5873086
+lookup 3844255
+print
+delete 9637277
+lookup 1445254
+delete 7365080
+print
+print
+insert 7251925 24 2.3
+print
+lookup 5005120
+lookup 6307359
+insert 5420286 70 2.3
+delete 3152878
+print
+insert 7902417 28 2.3
+insert 6677670 99 2.3
+print
+print
+lookup 7735555
+print
+insert 9350861 28 2.3
+print
+print
+lookup 5104831
+print
+lookup 4978065
+insert 236034 45 2.3
+print
+delete 1324631
+insert 4917706 78 2.3
+insert 8272957 18 2.3
+delete 8249492
+delete 4096182
+print
+insert 7790454 40 2.3
+insert 9064791 37 2.3
+print
+insert 5402515 26 2.3
+delete 4936923
+print
+print
+lookup 8994288
+lookup 5423863
+delete 909357
+delete 5208643
+delete 1990575
+lookup 6944955
+delete 5093039
+lookup 8102485
+lookup 2496541
+lookup 8889607
+insert 4286567 24 2.3
+insert 8158846 99 2.3
+insert 7720172 79 2.3
+delete 2108050
+insert 2215630 45 2.3
+delete 4541970
+insert 2427014 85 2.3
+lookup 3170233
+lookup 8214297
+insert 4327985 71 2.3
+delete 9210249
+lookup 8819919
+insert 4182685 70 2.3
+delete 7398600
+insert 1595225 52 2.3
+insert 4419495 85 2.3
+print
+lookup 188276
+lookup 9239980
+lookup 1858175
+print
+insert 9743905 28 2.3
+delete 3130652
+print
+delete 3212217
+print
+insert 9613158 52 2.3
+lookup 7034776
+insert 4392112 48 2.3
+delete 4173840
+delete 9265412
+print
+delete 9736170
+print
+delete 9558420
+print
+lookup 1218748
+lookup 6274373
+delete 4932679
+delete 9485381
+insert 6568692 6 2.3
+insert 6602991 5 2.3
+print
+delete 403197
+lookup 2864070
+delete 9490479
+print
+print
+delete 6224030
+delete 4763493
+insert 1257455 29 2.3
+print
+print
+insert 5003078 52 2.3
+insert 6512725 73 2.3
+lookup 1213493
+print
+delete 8518978
+lookup 7511537
+insert 4949193 8 2.3
+print
+insert 2559436 62 2.3
+print
+delete 5003307
+lookup 9802759
+insert 5800458 89 2.3
+insert 265640 48 2.3
+lookup 1031561
+insert 9188323 93 2.3
+print
+print
+lookup 4071842
+delete 2516369
+lookup 9084823
+insert 9535289 68 2.3
+print
+print
+insert 6673424 67 2.3
+delete 3630402
+insert 7985842 99 2.3
+delete 2201626
+lookup 5594910
+delete 8198116
+lookup 7493899
+lookup 6820589
+delete 2858722
+insert 6529232 69 2.3
+insert 1373620 83 2.3
+lookup 8496344
+insert 7265644 3 2.3
+insert 3909103 89 2.3
+insert 6080091 42 2.3
+print
+lookup 5461648
+lookup 2131400
+print
+delete 7669366
+insert 4758022 80 2.3
+print
+lookup 7351837
+lookup 5788736
+delete 5669413
+print
+delete 9143487
+delete 6331294
+insert 6986160 19 2.3
+insert 6218416 58 2.3
+print
+print
+print
+insert 461575 65 2.3
+insert 5677931 91 2.3
+print
+insert 3710152 55 2.3
+print
+delete 3997126
+print
+delete 6057610
+delete 5092685
+lookup 1958057
+insert 4040396 75 2.3
+lookup 3231414
+lookup 8095853
+lookup 5050057
+insert 9814139 96 2.3
+insert 4313224 60 2.3
+delete 9351109
+print
+lookup 2120955
+insert 5968381 77 2.3
+lookup 1774394
+insert 9927910 37 2.3
+print
+lookup 1106824
+insert 5148675 93 2.3
+delete 6145693
+lookup 6921049
+lookup 3950654
+lookup 8862803
+delete 8210559
+insert 6378002 87 2.3
+print
+delete 1444004
+insert 7163586 45 2.3
+print
+delete 9340200
+delete 4414579
+insert 5702833 43 2.3
+delete 4148483
+print
+print
+delete 3071113
+insert 6018575 72 2.3
+delete 2894899
+delete 1759178
+delete 8796919
+lookup 5352010
+insert 5931762 85 2.3
+insert 3258659 46 2.3
+delete 9336460
+insert 5907317 50 2.3
+print
+print
+print
+lookup 8160539
+delete 8523489
+delete 5512976
+insert 1865272 37 2.3
+insert 9474981 95 2.3
+lookup 7778509
+lookup 3518788
+delete 5191327
+insert 5895408 43 2.3
+insert 259677 47 2.3
+insert 8651326 39 2.3
+insert 7468391 13 2.3
+delete 5445589
+delete 9370115
+delete 3708999
+lookup 2191877
+print
+lookup 259994
+print
+lookup 4247891
+lookup 4739941
+insert 3524021 58 2.3
+lookup 1077980
+delete 5458599
+print
+print
+insert 921264 9 2.3
+print
+delete 5365326
+print
+print
+insert 1669275 63 2.3
+delete 2588376

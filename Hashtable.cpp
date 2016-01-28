@@ -92,6 +92,8 @@ bool Hashtable::insert(int key, Student value){
     while(!isPrime(table_size))
       table_size++;
     table = new pair<int, Student>* [getSize()];
+    for(int i = 0; i < table_size; i++)
+      table[i] = NULL;
     for(int i = 0; i < table_size/2; i++){
         if(newTable[i])
             insert(newTable[i]->first, newTable[i]->second);
@@ -131,7 +133,7 @@ void Hashtable::print(){
     if(table[i] && table[i]->first >= 0){
       cout << "(" << table[i]->first << "," << table[i]->second.getName() << ",";
       cout << std::fixed << std::setprecision(1)<< table[i]->second.getGpa();
-      cout << ")";
+      cout << ")" << load << " " << table_size;
     }
   }
   cout << "\n";

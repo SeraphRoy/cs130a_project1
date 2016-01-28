@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-  //freopen("input.txt","r",stdin);     // if you use this line, it merely redirects stdin to input.txt file; simple as that
+  freopen("input.txt","r",stdin);     // if you use this line, it merely redirects stdin to input.txt file; simple as that
 
 
 	try
