@@ -22,7 +22,7 @@ public:
   void print();
   string colsolv;
   int load;
-  int helpInsert(int key);
+  pair<int, int> helpInsert(int key);
   int getSize(){ return table_size;}
   void setMode(int num);
 };

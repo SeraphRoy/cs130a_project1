@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-  freopen("input.txt","r",stdin);     // if you use this line, it merely redirects stdin to input.txt file; simple as that
+  //freopen("Sample5.txt","r",stdin);     // if you use this line, it merely redirects stdin to input.txt file; simple as that
 
 
 	try
@@ -35,11 +35,11 @@ int main()
 			}
 			else if(str.compare("linearprobing") == 0)
 			{
-				h.setMode(1);
+				h.setMode(2);
 			}
 			else if(str.compare("doublehashing") == 0)
 			{
-				h.setMode(2);
+				h.setMode(1);
 			}
 			else if(str.compare("insert") == 0)
 			{
